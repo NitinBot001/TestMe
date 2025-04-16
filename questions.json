@@ -1,0 +1,4037 @@
+[
+  {
+    "queNo": "1",
+    "queText": "Who is popularly known as 'Bapu' or 'Father of the Nation' in India?",
+    "opA": "Jawaharlal Nehru",
+    "opB": "Mahatma Gandhi",
+    "opC": "Sardar Vallabh Bhai Patel",
+    "opD": "Rabindranath Tagore",
+    "opright": "opB"
+  },
+  {
+    "queNo": "2",
+    "queText": "What was the popular title of Jawaharlal Nehru?",
+    "opA": "Grand Old Man of India",
+    "opB": "Flying Sikh",
+    "opC": "Chacha/Panditji",
+    "opD": "Man of Iron",
+    "opright": "opC"
+  },
+  {
+    "queNo": "3",
+    "queText": "Who among the following was known as 'Deenbandhu'?",
+    "opA": "Milkha Singh",
+    "opB": "C.F. Andrews",
+    "opC": "Kapil Dev",
+    "opD": "Dhyan Chand",
+    "opright": "opB"
+  },
+  {
+    "queNo": "4",
+    "queText": "'Flying Sikh' was the popular title of which famous personality?",
+    "opA": "Sunil Gavaskar",
+    "opB": "Dadabhai Naoroji",
+    "opC": "Milkha Singh",
+    "opD": "Bal Gangadhar Tilak",
+    "opright": "opC"
+  },
+  {
+    "queNo": "5",
+    "queText": "Who was famously known as the 'Grand Old Man of India'?",
+    "opA": "Mahatma Gandhi",
+    "opB": "Jawaharlal Nehru",
+    "opC": "Dadabhai Naoroji",
+    "opD": "Sardar Vallabh Bhai Patel",
+    "opright": "opC"
+  },
+  {
+    "queNo": "6",
+    "queText": "What was the popular title bestowed upon Rabindranath Tagore?",
+    "opA": "Lokmanya",
+    "opB": "Gurudev",
+    "opC": "Netaji",
+    "opD": "Sher-e-Punjab",
+    "opright": "opB"
+  },
+  {
+    "queNo": "7",
+    "queText": "Who among these sports personalities was known as 'Haryana Hurricane'?",
+    "opA": "Dhyan Chand",
+    "opB": "Sunil Gavaskar",
+    "opC": "Kapil Dev",
+    "opD": "Milkha Singh",
+    "opright": "opC"
+  },
+  {
+    "queNo": "8",
+    "queText": "'Hockey Wizard' was the popular title of which legendary figure?",
+    "opA": "Kapil Dev",
+    "opB": "Milkha Singh",
+    "opC": "Dhyan Chand",
+    "opD": "Sunil Gavaskar",
+    "opright": "opC"
+  },
+  {
+    "queNo": "9",
+    "queText": "What was the popular title of the celebrated cricketer Sunil Gavaskar?",
+    "opA": "Haryana Hurricane",
+    "opB": "Little Master",
+    "opC": "Man of Peace",
+    "opD": "Master Blaster",
+    "opright": "opB"
+  },
+  {
+    "queNo": "10",
+    "queText": "Who among the following was popularly known as 'Lokmanya'?",
+    "opA": "Jayaprakash Narayan",
+    "opB": "Madan Mohan",
+    "opC": "Bal Gangadhar Tilak",
+    "opD": "Sardar Vallabh Bhai Patel",
+    "opright": "opC"
+  },
+  {
+    "queNo": "11",
+    "queText": "'Loknayak' or 'JP' was the popular title of which Indian figure?",
+    "opA": "Mahatma Gandhi",
+    "opB": "Jawaharlal Nehru",
+    "opC": "Jayaprakash Narayan",
+    "opD": "Madan Mohan",
+    "opright": "opC"
+  },
+  {
+    "queNo": "12",
+    "queText": "What was the popular title of Madan Mohan Malaviya?",
+    "opA": "Man of Iron",
+    "opB": "Mahamana",
+    "opC": "Netaji",
+    "opD": "Sher-e-Kashmir",
+    "opright": "opB"
+  },
+  {
+    "queNo": "13",
+    "queText": "Who among the following was known as 'Man of Iron'?",
+    "opA": "Mahatma Gandhi",
+    "opB": "Sardar Vallabh Bhai Patel",
+    "opC": "Jawaharlal Nehru",
+    "opD": "Bal Gangadhar Tilak",
+    "opright": "opB"
+  },
+  {
+    "queNo": "14",
+    "queText": "'Man of Peace' was the popular title associated with whom?",
+    "opA": "Lal Bahadur Shastri",
+    "opB": "Rajiv Gandhi",
+    "opC": "Indira Gandhi",
+    "opD": "Atal Bihari Vajpayee",
+    "opright": "opA"
+  },
+  {
+    "queNo": "15",
+    "queText": "'Master Blaster' is a popular title for which renowned personality?",
+    "opA": "Sachin Tendulkar",
+    "opB": "Sunil Gavaskar",
+    "opC": "Kapil Dev",
+    "opD": "Virat Kohli",
+    "opright": "opA"
+  },
+  {
+    "queNo": "16",
+    "queText": "'Netaji' was the popular title of which Indian leader?",
+    "opA": "Mahatma Gandhi",
+    "opB": "Subhas Chandra Bose",
+    "opC": "Jawaharlal Nehru",
+    "opD": "Sardar Vallabh Bhai Patel",
+    "opright": "opB"
+  },
+  {
+    "queNo": "17",
+    "queText": "Who among the following was popularly known as 'Nightingale of India'?",
+    "opA": "Indira Gandhi",
+    "opB": "Sarojini Naidu",
+    "opC": "Lata Mangeshkar",
+    "opD": "Mother Teresa",
+    "opright": "opB"
+  },
+  {
+    "queNo": "18",
+    "queText": "'Sher-e-Kashmir' was the popular title of which leader?",
+    "opA": "Sheikh Abdullah",
+    "opB": "Maharaja Hari Singh",
+    "opC": "Ghulam Nabi Azad",
+    "opD": "Farooq Abdullah",
+    "opright": "opA"
+  },
+  {
+    "queNo": "19",
+    "queText": "'Sher-e-Punjab' or 'Punjab Kesari' was the popular title of whom?",
+    "opA": "Ranjit Singh",
+    "opB": "Lala Lajpat Rai",
+    "opC": "Bhagat Singh",
+    "opD": "Kartar Singh Sarabha",
+    "opright": "opB"
+  },
+  {
+    "queNo": "20",
+    "queText": "'Tiger of the Snows' was the popular title associated with whom?",
+    "opA": "Tenzing Norgay",
+    "opB": "Edmund Hillary",
+    "opC": "Reinhold Messner",
+    "opD": "Junko Tabei",
+    "opright": "opA"
+  },
+  {
+    "queNo": "21",
+    "queText": "Abraham Lincoln belonged to which country?",
+    "opA": "England",
+    "opB": "USA",
+    "opC": "Germany",
+    "opD": "France",
+    "opright": "opB"
+  },
+  {
+    "queNo": "22",
+    "queText": "Adolf Hitler's nationality was:",
+    "opA": "Austrian",
+    "opB": "German",
+    "opC": "Italian",
+    "opD": "Swiss",
+    "opright": "opB"
+  },
+  {
+    "queNo": "23",
+    "queText": "Albert Einstein was born in Germany but later became a citizen of:",
+    "opA": "England",
+    "opB": "Switzerland",
+    "opC": "USA",
+    "opD": "Italy",
+    "opright": "opC"
+  },
+  {
+    "queNo": "24",
+    "queText": "Alexander the Great hailed from which ancient kingdom?",
+    "opA": "Rome",
+    "opB": "Greece",
+    "opC": "Macedonia",
+    "opD": "Persia",
+    "opright": "opC"
+  },
+  {
+    "queNo": "25",
+    "queText": "Alfred Bernhard Nobel, after whom the Nobel Prize is named, was from:",
+    "opA": "Norway",
+    "opB": "Sweden",
+    "opC": "Denmark",
+    "opD": "Finland",
+    "opright": "opB"
+  },
+  {
+    "queNo": "26",
+    "queText": "Benito Mussolini was a prominent figure in which country?",
+    "opA": "Germany",
+    "opB": "Italy",
+    "opC": "Spain",
+    "opD": "Portugal",
+    "opright": "opB"
+  },
+  {
+    "queNo": "27",
+    "queText": "Charlie Chaplin, the iconic silent film actor, was from:",
+    "opA": "USA",
+    "opB": "England",
+    "opC": "France",
+    "opD": "Ireland",
+    "opright": "opB"
+  },
+  {
+    "queNo": "28",
+    "queText": "Christiaan Barnard, who performed the first human heart transplant, was from:",
+    "opA": "Australia",
+    "opB": "South Africa",
+    "opC": "New Zealand",
+    "opD": "Canada",
+    "opright": "opB"
+  },
+  {
+    "queNo": "29",
+    "queText": "Christopher Columbus, known for his voyages across the Atlantic, was from:",
+    "opA": "Spain",
+    "opB": "Portugal",
+    "opC": "Italy",
+    "opD": "Greece",
+    "opright": "opC"
+  },
+  {
+    "queNo": "30",
+    "queText": "Florence Nightingale, a pioneer in nursing, belonged to:",
+    "opA": "France",
+    "opB": "England",
+    "opC": "Germany",
+    "opD": "Italy",
+    "opright": "opB"
+  },
+  {
+    "queNo": "31",
+    "queText": "Galileo Galilei, a key figure in the scientific revolution, was from:",
+    "opA": "Spain",
+    "opB": "Italy",
+    "opC": "Greece",
+    "opD": "Portugal",
+    "opright": "opB"
+  },
+  {
+    "queNo": "32",
+    "queText": "Louis Braille, the inventor of the braille writing system, was from:",
+    "opA": "England",
+    "opB": "France",
+    "opC": "Germany",
+    "opD": "Italy",
+    "opright": "opB"
+  },
+  {
+    "queNo": "33",
+    "queText": "Mao Tse-tung was a prominent leader in which country?",
+    "opA": "Vietnam",
+    "opB": "China",
+    "opC": "North Korea",
+    "opD": "Japan",
+    "opright": "opB"
+  },
+  {
+    "queNo": "34",
+    "queText": "Martin Luther King Jr., a leader in the American civil rights movement, was from:",
+    "opA": "Canada",
+    "opB": "USA",
+    "opC": "England",
+    "opD": "South Africa",
+    "opright": "opB"
+  },
+  {
+    "queNo": "35",
+    "queText": "Muhammad Ali, a legendary boxer, was from:",
+    "opA": "England",
+    "opB": "USA",
+    "opC": "Canada",
+    "opD": "Jamaica",
+    "opright": "opB"
+  },
+  {
+    "queNo": "36",
+    "queText": "Napoleon Bonaparte, a French military and political leader, was from:",
+    "opA": "Italy",
+    "opB": "France",
+    "opC": "Spain",
+    "opD": "Portugal",
+    "opright": "opB"
+  },
+  {
+    "queNo": "37",
+    "queText": "Neil Armstrong, the first person to walk on the moon, was from:",
+    "opA": "Russia",
+    "opB": "USA",
+    "opC": "Canada",
+    "opD": "Australia",
+    "opright": "opB"
+  },
+  {
+    "queNo": "38",
+    "queText": "Nelson Mandela, an anti-apartheid revolutionary, politician, and philanthropist, was from:",
+    "opA": "Kenya",
+    "opB": "South Africa",
+    "opC": "Nigeria",
+    "opD": "Zimbabwe",
+    "opright": "opB"
+  },
+  {
+    "queNo": "39",
+    "queText": "Otto Von Bismarck, a prominent Prussian-German statesman, was from:",
+    "opA": "Austria",
+    "opB": "Germany",
+    "opC": "Switzerland",
+    "opD": "Netherlands",
+    "opright": "opB"
+  },
+  {
+    "queNo": "40",
+    "queText": "Pele, considered one of the greatest footballers of all time, is from:",
+    "opA": "Argentina",
+    "opB": "Brazil",
+    "opC": "Portugal",
+    "opD": "Spain",
+    "opright": "opB"
+  },
+  {
+    "queNo": "41",
+    "queText": "Sir Donald Bradman, widely acknowledged as the greatest cricketer of all time, was from:",
+    "opA": "England",
+    "opB": "Australia",
+    "opC": "South Africa",
+    "opD": "West Indies",
+    "opright": "opB"
+  },
+  {
+    "queNo": "42",
+    "queText": "Sir Edmund Hillary, who, along with Tenzing Norgay, was the first to reach the summit of Mount Everest, was from:",
+    "opA": "Nepal",
+    "opB": "New Zealand",
+    "opC": "India",
+    "opD": "Australia",
+    "opright": "opB"
+  },
+  {
+    "queNo": "43",
+    "queText": "Which famous quote is attributed to Abraham Lincoln?",
+    "opA": "Eureka! Eureka!",
+    "opB": "That’s one small step for man, one giant leap for mankind.",
+    "opC": "The roots of education are bitter, but the fruit is sweet.",
+    "opD": "Government of the people, by the people, for the people, shall not perish from the Earth.",
+    "opright": "opD"
+  },
+  {
+    "queNo": "44",
+    "queText": "The famous quote 'That’s one small step for man, one giant leap for mankind' was said by:",
+    "opA": "Yuri Gagarin",
+    "opB": "Neil Armstrong",
+    "opC": "Buzz Aldrin",
+    "opD": "John Glenn",
+    "opright": "opB"
+  },
+  {
+    "queNo": "45",
+    "queText": "Who exclaimed 'Eureka! Eureka! (I have found it.)'?",
+    "opA": "Plato",
+    "opB": "Aristotle",
+    "opC": "Archimedes",
+    "opD": "Socrates",
+    "opright": "opC"
+  },
+  {
+    "queNo": "46",
+    "queText": "The statement 'Man is by nature a political animal' is attributed to:",
+    "opA": "Plato",
+    "opB": "Aristotle",
+    "opC": "Socrates",
+    "opD": "Cicero",
+    "opright": "opB"
+  },
+  {
+    "queNo": "47",
+    "queText": "Who said, 'The roots of education are bitter, but the fruit is sweet.'?",
+    "opA": "Plato",
+    "opB": "Aristotle",
+    "opC": "Socrates",
+    "opD": "Confucius",
+    "opright": "opB"
+  },
+  {
+    "queNo": "48",
+    "queText": "The famous declaration 'I am the greatest!' was made by:",
+    "opA": "Mike Tyson",
+    "opB": "Muhammad Ali",
+    "opC": "Sugar Ray Robinson",
+    "opD": "Joe Frazier",
+    "opright": "opB"
+  },
+  {
+    "queNo": "49",
+    "queText": "Who is credited with saying, 'Every man has his price.'?",
+    "opA": "Niccolò Machiavelli",
+    "opB": "Sir Robert Walpole",
+    "opC": "Thomas Hobbes",
+    "opD": "John Locke",
+    "opright": "opB"
+  },
+  {
+    "queNo": "50",
+    "queText": "The quote 'The child is the father of a man' is attributed to:",
+    "opA": "William Shakespeare",
+    "opB": "William Wordsworth",
+    "opC": "John Milton",
+    "opD": "Samuel Taylor Coleridge",
+    "opright": "opB"
+  },
+  {
+    "queNo": "51",
+    "queText": "Who wrote, 'Old wood best to burn, old wine to drink, old friends to trust and old authors to read.'?",
+    "opA": "William Shakespeare",
+    "opB": "Francis Bacon",
+    "opC": "Geoffrey Chaucer",
+    "opD": "Ben Jonson",
+    "opright": "opB"
+  },
+  {
+    "queNo": "52",
+    "queText": "The kiwi lays an egg that is approximately what fraction of her own weight?",
+    "opA": "One-tenth",
+    "opB": "One-quarter",
+    "opC": "One-third",
+    "opD": "One-half",
+    "opright": "opB"
+  },
+  {
+    "queNo": "53",
+    "queText": "According to the 'Believe It or Not' fact, how much more water flows underneath the Nile compared to the river above?",
+    "opA": "Two times more",
+    "opB": "Four times more",
+    "opC": "Six times more",
+    "opD": "Eight times more",
+    "opright": "opC"
+  },
+  {
+    "queNo": "54",
+    "queText": "If humans built structures equivalent in scale to a termite's nest compared to a termite's size, how tall would these buildings be approximately?",
+    "opA": "400 meters",
+    "opB": "1,000 meters",
+    "opC": "4,000 meters",
+    "opD": "10,000 meters",
+    "opright": "opC"
+  },
+  {
+    "queNo": "55",
+    "queText": "In which sport is the playing area called a 'Court'?",
+    "opA": "Wrestling",
+    "opB": "Volleyball",
+    "opC": "Badminton",
+    "opD": "Boxing",
+    "opright": "opB"
+  },
+  {
+    "queNo": "56",
+    "queText": "The playing area for which of these sports is called an 'Arena'?",
+    "opA": "Volleyball",
+    "opB": "Basketball",
+    "opC": "Wrestling",
+    "opD": "Tennis",
+    "opright": "opC"
+  },
+  {
+    "queNo": "57",
+    "queText": "Snakes are known for which unique characteristic regarding their eyes?",
+    "opA": "They blink very slowly.",
+    "opB": "They can see in complete darkness.",
+    "opC": "They never close their eyes.",
+    "opD": "They have excellent long-distance vision.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "58",
+    "queText": "According to the 'Believe It or Not' fact, approximately how long would it take to fall from the summit of Mount Everest (8,850 m) to the ground?",
+    "opA": "20 seconds",
+    "opB": "43 seconds",
+    "opC": "1 minute",
+    "opD": "1 minute and 30 seconds",
+    "opright": "opB"
+  },
+  {
+    "queNo": "59",
+    "queText": "What is the approximate wingspan of the Queen Alexandra’s birdwing, the world’s largest butterfly?",
+    "opA": "10 cm",
+    "opB": "18 cm",
+    "opC": "28 cm",
+    "opD": "35 cm",
+    "opright": "opC"
+  },
+  {
+    "queNo": "60",
+    "queText": "The Rafflesia is known for being the world's:",
+    "opA": "Tallest tree",
+    "opB": "Smallest insect",
+    "opC": "Biggest flower",
+    "opD": "Fastest animal",
+    "opright": "opC"
+  },
+  {
+    "queNo": "61",
+    "queText": "What is the approximate maximum size that the Rafflesia flower can grow across?",
+    "opA": "50 cm",
+    "opB": "75 cm",
+    "opC": "1 m",
+    "opD": "1.5 m",
+    "opright": "opC"
+  },
+  {
+    "queNo": "62",
+    "queText": "According to a 'Believe It or Not' fact, how does the number of plant species compare to the number of animal species?",
+    "opA": "There are approximately the same number of plant and animal species.",
+    "opB": "There are nearly twice as many animal species as plant species.",
+    "opC": "There are nearly three times as many plant species as there are animal species.",
+    "opD": "There are significantly more animal species than plant species.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "63",
+    "queText": "Who was the first European to invade India?",
+    "opA": "Vasco da Gama",
+    "opB": "Alexander the Great",
+    "opC": "Christopher Columbus",
+    "opD": "Marco Polo",
+    "opright": "opB"
+  },
+  {
+    "queNo": "64",
+    "queText": "In which year did Alexander the Great invade India?",
+    "opA": "405 AD",
+    "opB": "1271",
+    "opC": "1930",
+    "opD": "326 BC",
+    "opright": "opD"
+  },
+  {
+    "queNo": "65",
+    "queText": "Who was the first Chinese pilgrim to visit India?",
+    "opA": "Hiuen Tsang",
+    "opB": "Fa Hien",
+    "opC": "I-Tsing",
+    "opD": "Xuanzang",
+    "opright": "opB"
+  },
+  {
+    "queNo": "66",
+    "queText": "In which year did the first Chinese pilgrim visit India?",
+    "opA": "326 BC",
+    "opB": "1271",
+    "opC": "405 AD",
+    "opD": "1957",
+    "opright": "opC"
+  },
+  {
+    "queNo": "67",
+    "queText": "Who was the first European to visit China?",
+    "opA": "Alexander the Great",
+    "opB": "Marco Polo",
+    "opC": "Vasco da Gama",
+    "opD": "Ferdinand Magellan",
+    "opright": "opB"
+  },
+  {
+    "queNo": "68",
+    "queText": "In which year did the first European visit China?",
+    "opA": "405 AD",
+    "opB": "326 BC",
+    "opC": "1271",
+    "opD": "1930",
+    "opright": "opC"
+  },
+  {
+    "queNo": "69",
+    "queText": "Which country was the first to win the Football World Cup?",
+    "opA": "Brazil",
+    "opB": "Uruguay",
+    "opC": "Germany",
+    "opD": "Italy",
+    "opright": "opB"
+  },
+  {
+    "queNo": "70",
+    "queText": "In which year was the first Football World Cup won?",
+    "opA": "1934",
+    "opB": "1950",
+    "opC": "1930",
+    "opD": "1954",
+    "opright": "opC"
+  },
+  {
+    "queNo": "71",
+    "queText": "What was the name of the first artificial satellite?",
+    "opA": "Explorer 1",
+    "opB": "Vostok 1",
+    "opC": "Sputnik 1",
+    "opD": "Apollo 11",
+    "opright": "opC"
+  },
+  {
+    "queNo": "72",
+    "queText": "In which year was the first artificial satellite launched?",
+    "opA": "1961",
+    "opB": "1957",
+    "opC": "1969",
+    "opD": "1945",
+    "opright": "opB"
+  },
+  {
+    "queNo": "73",
+    "queText": "According to a 'Believe It or Not' fact, how does the rate of sweating in men compare to that of women?",
+    "opA": "The rate of sweating in women is double that of men.",
+    "opB": "The rate of sweating in men and women is approximately the same.",
+    "opC": "The rate of sweating in men is double that of women.",
+    "opD": "Men sweat three times as much as women.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "74",
+    "queText": "What was the highest speed ever recorded on any national rail system, as per a 'Believe It or Not' fact?",
+    "opA": "400.5 km/h",
+    "opB": "515.3 km/h",
+    "opC": "574.8 km/h",
+    "opD": "600.1 km/h",
+    "opright": "opC"
+  },
+  {
+    "queNo": "75",
+    "queText": "Which type of train achieved the highest recorded speed on a national rail system?",
+    "opA": "Japanese Shinkansen",
+    "opB": "German ICE",
+    "opC": "French highspeed TGV",
+    "opD": "Spanish AVE",
+    "opright": "opC"
+  },
+  {
+    "queNo": "76",
+    "queText": "The Great Barrier Reef, the world’s largest structure made by living things, is located off the coast of which country?",
+    "opA": "India",
+    "opB": "Australia",
+    "opC": "Brazil",
+    "opD": "South Africa",
+    "opright": "opB"
+  },
+  {
+    "queNo": "77",
+    "queText": "What is the approximate length of the Australian Great Barrier Reef?",
+    "opA": "1,000 km",
+    "opB": "2,000 km",
+    "opC": "3,000 km",
+    "opD": "4,000 km",
+    "opright": "opB"
+  },
+  {
+    "queNo": "78",
+    "queText": "According to a 'Believe It or Not' fact, how large is the Great Barrier Reef that it can be seen from where?",
+    "opA": "From a high-altitude airplane",
+    "opB": "From the International Space Station",
+    "opC": "From the Moon",
+    "opD": "From a powerful telescope on Earth",
+    "opright": "opC"
+  },
+  {
+    "queNo": "79",
+    "queText": "The Nobel Prize is named after which famous personality?",
+    "opA": "Albert Einstein",
+    "opB": "Alfred Bernhard Nobel",
+    "opC": "Marie Curie",
+    "opD": "Isaac Newton",
+    "opright": "opB"
+  },
+  {
+    "queNo": "80",
+    "queText": "In how many fields are the Nobel Prizes awarded each year?",
+    "opA": "Four",
+    "opB": "Five",
+    "opC": "Six",
+    "opD": "Seven",
+    "opright": "opC"
+  },
+  {
+    "queNo": "81",
+    "queText": "Which of the following is NOT a field in which the Nobel Prize is awarded?",
+    "opA": "Physics",
+    "opB": "Mathematics",
+    "opC": "Literature",
+    "opD": "Peace",
+    "opright": "opB"
+  },
+  {
+    "queNo": "82",
+    "queText": "In which year were the first Nobel Prizes awarded?",
+    "opA": "1896",
+    "opB": "1901",
+    "opC": "1905",
+    "opD": "1910",
+    "opright": "opB"
+  },
+  {
+    "queNo": "83",
+    "queText": "The Nobel Prize for economics was established by which institution?",
+    "opA": "The Nobel Foundation",
+    "opB": "The Swedish National Bank",
+    "opC": "The Royal Swedish Academy of Sciences",
+    "opD": "The Swedish Parliament",
+    "opright": "opB"
+  },
+  {
+    "queNo": "84",
+    "queText": "In which year was the Nobel Prize for economics awarded for the first time?",
+    "opA": "1901",
+    "opB": "1969",
+    "opC": "1975",
+    "opD": "1980",
+    "opright": "opB"
+  },
+  {
+    "queNo": "85",
+    "queText": "On what date are the Nobel Prizes awarded annually?",
+    "opA": "December 1",
+    "opB": "December 10",
+    "opC": "December 15",
+    "opD": "December 25",
+    "opright": "opB"
+  },
+  {
+    "queNo": "86",
+    "queText": "The Nobel Prizes are awarded annually on the death anniversary of:",
+    "opA": "Alfred Nobel's father",
+    "opB": "Alfred Bernhard Nobel",
+    "opC": "The first Nobel laureate",
+    "opD": "The founder of the Swedish National Bank",
+    "opright": "opB"
+  },
+  {
+    "queNo": "87",
+    "queText": "Approximately how much money did Alfred Nobel leave to set up the prizes?",
+    "opA": "1 million US dollars",
+    "opB": "5 million US dollars",
+    "opC": "9 million US dollars",
+    "opD": "15 million US dollars",
+    "opright": "opC"
+  },
+  {
+    "queNo": "88",
+    "queText": "The funds for the Nobel Prizes each year come from:",
+    "opA": "Annual government grants from Sweden and Norway",
+    "opB": "Donations from various international organizations",
+    "opC": "The interest earned on Alfred Nobel's initial endowment",
+    "opD": "A combination of government funding and private donations",
+    "opright": "opC"
+  },
+  {
+    "queNo": "89",
+    "queText": "What is the approximate value of each of the six Nobel Prizes?",
+    "opA": "500,000 US dollars",
+    "opB": "750,000 US dollars",
+    "opC": "1 million US dollars",
+    "opD": "1.5 million US dollars",
+    "opright": "opC"
+  },
+  {
+    "queNo": "90",
+    "queText": "Besides the cash prize, what else does each Nobel laureate receive?",
+    "opA": "A lifetime pension from the Swedish government",
+    "opB": "A gold medal and a diploma",
+    "opC": "Honorary citizenship of Sweden and Norway",
+    "opD": "A knighthood or equivalent national honor",
+    "opright": "opB"
+  },
+  {
+    "queNo": "91",
+    "queText": "Which award is regarded as the highest literary award in India?",
+    "opA": "Sahitya Akademi Award",
+    "opB": "Jnanpith Award",
+    "opC": "Saraswati Samman",
+    "opD": "Vyas Samman",
+    "opright": "opB"
+  },
+  {
+    "queNo": "92",
+    "queText": "The Bharatiya Jnanpith Award is awarded to outstanding authors of creative literature in which languages?",
+    "opA": "Only in Hindi and English",
+    "opB": "In any of the Indian languages recognized by the Constitution of India",
+    "opC": "Only in classical Indian languages",
+    "opD": "In Hindi and other major regional languages",
+    "opright": "opB"
+  },
+  {
+    "queNo": "93",
+    "queText": "The Bhatnagar Award is given for important contributions in which field?",
+    "opA": "Literature",
+    "opB": "Science",
+    "opC": "Sports",
+    "opD": "Film",
+    "opright": "opB"
+  },
+  {
+    "queNo": "94",
+    "queText": "In whose memory is the Bhatnagar Award given?",
+    "opA": "C.V. Raman",
+    "opB": "Homi J. Bhabha",
+    "opC": "Shanti Swarup Bhatnagar",
+    "opD": "A.P.J. Abdul Kalam",
+    "opright": "opC"
+  },
+  {
+    "queNo": "95",
+    "queText": "Which organization gives the Bhatnagar Award?",
+    "opA": "Indian Council of Medical Research (ICMR)",
+    "opB": "Council of Scientific and Industrial Research (CSIR)",
+    "opC": "Indian Space Research Organisation (ISRO)",
+    "opD": "Department of Science and Technology (DST)",
+    "opright": "opB"
+  },
+  {
+    "queNo": "96",
+    "queText": "The Borlaug Award is given to outstanding professionals in which field?",
+    "opA": "Medicine",
+    "opB": "Engineering",
+    "opC": "Agricultural science",
+    "opD": "Environmental science",
+    "opright": "opC"
+  },
+  {
+    "queNo": "97",
+    "queText": "The Borlaug Award is instituted in honour of which renowned scientist?",
+    "opA": "M.S. Swaminathan",
+    "opB": "Norman E. Borlaug",
+    "opC": "Verghese Kurien",
+    "opD": "Yellapragada Subbarao",
+    "opright": "opB"
+  },
+  {
+    "queNo": "98",
+    "queText": "Norman E. Borlaug was a world-renowned scientist in which specific area of agriculture?",
+    "opA": "Rice breeding",
+    "opB": "Wheat breeding",
+    "opC": "Cotton cultivation",
+    "opD": "Dairy farming",
+    "opright": "opB"
+  },
+  {
+    "queNo": "99",
+    "queText": "The Dada Saheb Phalke Award is conferred for outstanding contribution to which industry?",
+    "opA": "Indian literature",
+    "opB": "Indian classical music",
+    "opC": "Indian film industry",
+    "opD": "Indian theatre",
+    "opright": "opC"
+  },
+  {
+    "queNo": "100",
+    "queText": "The Dada Saheb Phalke Award is named after whom?",
+    "opA": "Satyajit Ray",
+    "opB": "Raj Kapoor",
+    "opC": "Dhundiraj Govind Phalke",
+    "opD": "V. Shantaram",
+    "opright": "opC"
+  },
+  {
+    "queNo": "101",
+    "queText": "Dhundiraj Govind Phalke is known as the:",
+    "opA": "Father of Indian television",
+    "opB": "Father of Indian cinema",
+    "opC": "Pioneer of Indian documentaries",
+    "opD": "Founder of Indian film studios",
+    "opright": "opB"
+  },
+  {
+    "queNo": "102",
+    "queText": "In which year was India’s first feature film, Raja Harishchandra, made by D.G. Phalke?",
+    "opA": "1903",
+    "opB": "1913",
+    "opC": "1923",
+    "opD": "1933",
+    "opright": "opB"
+  },
+  {
+    "queNo": "103",
+    "queText": "The Dronacharya Award is given to whom?",
+    "opA": "Outstanding sports personalities",
+    "opB": "Sports coaches who have trained successful sportspersons or teams",
+    "opC": "Sports administrators for their contribution",
+    "opD": "Sports journalists for their reporting",
+    "opright": "opB"
+  },
+  {
+    "queNo": "104",
+    "queText": "Who invented the X-ray machine?",
+    "opA": "Thomas Edison",
+    "opB": "Alexander Graham Bell",
+    "opC": "Wilhelm Roentgen",
+    "opD": "Nikola Tesla",
+    "opright": "opC"
+  },
+  {
+    "queNo": "105",
+    "queText": "Wilhelm Roentgen, the inventor of the X-ray machine, was from which country?",
+    "opA": "England",
+    "opB": "France",
+    "opC": "Germany",
+    "opD": "USA",
+    "opright": "opC"
+  },
+  {
+    "queNo": "106",
+    "queText": "Which of the following instruments is shown in the image?",
+    "opA": "Telescope",
+    "opB": "Microscope",
+    "opC": "Binoculars",
+    "opD": "Periscope",
+    "opright": "opB"
+  },
+  {
+    "queNo": "107",
+    "queText": "Which of the following instruments is shown in the image?",
+    "opA": "Telescope",
+    "opB": "Sextant",
+    "opC": "Theodolite",
+    "opD": "Barometer",
+    "opright": "opB"
+  },
+  {
+    "queNo": "108",
+    "queText": "Which planet is depicted in the image?",
+    "opA": "Jupiter",
+    "opB": "Saturn",
+    "opC": "Uranus",
+    "opD": "Neptune",
+    "opright": "opB"
+  },
+  {
+    "queNo": "109",
+    "queText": "What is the largest organ in the human body by weight?",
+    "opA": "Heart",
+    "opB": "Brain",
+    "opC": "Liver",
+    "opD": "Lungs",
+    "opright": "opC"
+  },
+  {
+    "queNo": "110",
+    "queText": "Approximately how much does the liver weigh in an average human body?",
+    "opA": "0.5 kg",
+    "opB": "1.0 kg",
+    "opC": "1.6 kg",
+    "opD": "2.0 kg",
+    "opright": "opC"
+  },
+  {
+    "queNo": "111",
+    "queText": "How many times does the human heart beat normally each day?",
+    "opA": "Around 50,000 times",
+    "opB": "Around 75,000 times",
+    "opC": "Around 100,000 times",
+    "opD": "Around 125,000 times",
+    "opright": "opC"
+  },
+  {
+    "queNo": "112",
+    "queText": "What is the normal body temperature in degrees Celsius?",
+    "opA": "35°C",
+    "opB": "36°C",
+    "opC": "37°C",
+    "opD": "38°C",
+    "opright": "opC"
+  },
+  {
+    "queNo": "113",
+    "queText": "What is the normal body temperature in degrees Fahrenheit?",
+    "opA": "96°F",
+    "opB": "97°F",
+    "opC": "98°F",
+    "opD": "99°F",
+    "opright": "opC"
+  },
+  {
+    "queNo": "114",
+    "queText": "How many bones are there in an adult human skeleton?",
+    "opA": "200",
+    "opB": "206",
+    "opC": "212",
+    "opD": "218",
+    "opright": "opB"
+  },
+  {
+    "queNo": "115",
+    "queText": "Approximately how many bones does a newborn baby have?",
+    "opA": "206",
+    "opB": "250",
+    "opC": "300",
+    "opD": "350",
+    "opright": "opC"
+  },
+  {
+    "queNo": "116",
+    "queText": "What happens to the number of bones as a baby grows into an adult?",
+    "opA": "The number of bones increases.",
+    "opB": "The number of bones remains the same.",
+    "opC": "Some bones join together, decreasing the total number.",
+    "opD": "Some bones disappear as the baby grows.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "117",
+    "queText": "How many pairs of ribs do most people have?",
+    "opA": "10 pairs",
+    "opB": "11 pairs",
+    "opC": "12 pairs",
+    "opD": "13 pairs",
+    "opright": "opC"
+  },
+  {
+    "queNo": "118",
+    "queText": "Approximately what proportion of people has at least one extra pair of ribs?",
+    "opA": "One out of every 5 people",
+    "opB": "One out of every 10 people",
+    "opC": "One out of every 20 people",
+    "opD": "One out of every 50 people",
+    "opright": "opC"
+  },
+  {
+    "queNo": "119",
+    "queText": "What is the approximate volume of blood in an average man?",
+    "opA": "3.5 liters",
+    "opB": "4.5 liters",
+    "opC": "5.5 liters",
+    "opD": "6.5 liters",
+    "opright": "opC"
+  },
+  {
+    "queNo": "120",
+    "queText": "Which side of the body does the left side of the brain control?",
+    "opA": "The left side",
+    "opB": "The right side",
+    "opC": "Both sides equally",
+    "opD": "Only the upper half",
+    "opright": "opB"
+  },
+  {
+    "queNo": "121",
+    "queText": "Which side of the body does the right side of the brain control?",
+    "opA": "The right side",
+    "opB": "The left side",
+    "opC": "Both sides equally",
+    "opD": "Only the lower half",
+    "opright": "opB"
+  },
+  {
+    "queNo": "122",
+    "queText": "How long does the hair on our head usually live before dropping out?",
+    "opA": "3-9 months",
+    "opB": "1-2 years",
+    "opC": "2-6 years",
+    "opD": "7-10 years",
+    "opright": "opC"
+  },
+  {
+    "queNo": "123",
+    "queText": "Which are the fastest muscles in the human body?",
+    "opA": "Leg muscles",
+    "opB": "Arm muscles",
+    "opC": "Eyelid muscles",
+    "opD": "Heart muscles",
+    "opright": "opC"
+  },
+  {
+    "queNo": "124",
+    "queText": "Approximately how fast can we blink our eyelids per minute?",
+    "opA": "50 times",
+    "opB": "100 times",
+    "opC": "200 times",
+    "opD": "300 times",
+    "opright": "opC"
+  },
+  {
+    "queNo": "125",
+    "queText": "Where on the human body is the skin the thinnest?",
+    "opA": "Palms of the hands",
+    "opB": "Soles of the feet",
+    "opC": "Eyelids",
+    "opD": "Forehead",
+    "opright": "opC"
+  },
+  {
+    "queNo": "126",
+    "queText": "What is the approximate thickness of the skin on our eyelids?",
+    "opA": "0.5 mm",
+    "opB": "1 mm",
+    "opC": "1.5 mm",
+    "opD": "2 mm",
+    "opright": "opB"
+  },
+  {
+    "queNo": "127",
+    "queText": "Where on the human body is the skin the thickest?",
+    "opA": "Eyelids",
+    "opB": "Cheeks",
+    "opC": "Soles of the feet",
+    "opD": "Back of the hands",
+    "opright": "opC"
+  },
+  {
+    "queNo": "128",
+    "queText": "What is the approximate thickness of the skin on the soles of our feet?",
+    "opA": "1 mm",
+    "opB": "2 mm",
+    "opC": "3 mm",
+    "opD": "4 mm",
+    "opright": "opC"
+  },
+  {
+    "queNo": "129",
+    "queText": "Approximately how many muscles does it take to smile?",
+    "opA": "10",
+    "opB": "17",
+    "opC": "30",
+    "opD": "43",
+    "opright": "opB"
+  },
+  {
+    "queNo": "130",
+    "queText": "Approximately how many muscles does it take to frown?",
+    "opA": "17",
+    "opB": "30",
+    "opC": "43",
+    "opD": "50",
+    "opright": "opC"
+  },
+  {
+    "queNo": "131",
+    "queText": "Which feature of a person can affect their voice?",
+    "opA": "Hair color",
+    "opB": "Eye color",
+    "opC": "Size and shape of the nose",
+    "opD": "Height",
+    "opright": "opC"
+  },
+  {
+    "queNo": "132",
+    "queText": "What is the most common cause of sudden death?",
+    "opA": "Stroke",
+    "opB": "Cancer",
+    "opC": "Coronary heart disease",
+    "opD": "Accidents",
+    "opright": "opC"
+  },
+  {
+    "queNo": "133",
+    "queText": "What does an astrologer do?",
+    "opA": "Treats diseases",
+    "opB": "Repairs things made of iron",
+    "opC": "Predicts the future from the study of stars and planets",
+    "opD": "Draws maps and charts",
+    "opright": "opC"
+  },
+  {
+    "queNo": "134",
+    "queText": "What is the profession of a blacksmith?",
+    "opA": "Selling meat",
+    "opB": "Making and repairing things made of iron",
+    "opC": "Selling flowers",
+    "opD": "Arranging dance steps",
+    "opright": "opB"
+  },
+  {
+    "queNo": "135",
+    "queText": "What is the role of a broker?",
+    "opA": "Making and selling sweets",
+    "opB": "Acting as a middleman in bargains",
+    "opC": "Selling clothes",
+    "opD": "Making gold ornaments",
+    "opright": "opB"
+  },
+  {
+    "queNo": "136",
+    "queText": "What does a butcher do?",
+    "opA": "Sells books",
+    "opB": "Sells meat or kills animals for this",
+    "opC": "Sells medicines",
+    "opD": "Sells fish",
+    "opright": "opB"
+  },
+  {
+    "queNo": "137",
+    "queText": "What is the profession of a cartographer?",
+    "opA": "Repairing carts",
+    "opB": "Drawing maps and charts",
+    "opC": "Driving carts",
+    "opD": "Selling carts",
+    "opright": "opB"
+  },
+  {
+    "queNo": "138",
+    "queText": "What is the role of a choreographer?",
+    "opA": "Conducting a choir",
+    "opB": "Arranging the steps and movements in dances",
+    "opC": "Writing musical scores",
+    "opD": "Playing a musical instrument",
+    "opright": "opB"
+  },
+  {
+    "queNo": "139",
+    "queText": "What does a confectioner make and sell?",
+    "opA": "Shoes",
+    "opB": "Sweets, cakes, pastries, etc.",
+    "opC": "Furniture",
+    "opD": "Jewellery",
+    "opright": "opB"
+  },
+  {
+    "queNo": "140",
+    "queText": "What does a draper sell?",
+    "opA": "Drinks",
+    "opB": "Clothes",
+    "opC": "Medicines",
+    "opD": "Books",
+    "opright": "opB"
+  },
+  {
+    "queNo": "141",
+    "queText": "What does a florist sell?",
+    "opA": "Fruits",
+    "opB": "Flowers",
+    "opC": "Vegetables",
+    "opD": "Herbs",
+    "opright": "opB"
+  },
+  {
+    "queNo": "142",
+    "queText": "What does a goldsmith do?",
+    "opA": "Works with silver",
+    "opB": "Makes and sells glass items",
+    "opC": "Makes and sells sweets",
+    "opD": "Makes and sells things made of gold",
+    "opright": "opD"
+  },
+  {
+    "queNo": "143",
+    "queText": "What is an affidavit?",
+    "opA": "A type of tax",
+    "opB": "A written statement made on oath before an authority",
+    "opC": "A legal agreement between two parties",
+    "opD": "A formal apology",
+    "opright": "opB"
+  },
+  {
+    "queNo": "144",
+    "queText": "What is the role of an ambassador?",
+    "opA": "A religious leader",
+    "opB": "A representative of a foreign country",
+    "opC": "A judge in a high court",
+    "opD": "A military general",
+    "opright": "opB"
+  },
+  {
+    "queNo": "145",
+    "queText": "What is an atheist?",
+    "opA": "A person who believes in many gods",
+    "opB": "A person who does not believe in the existence of God",
+    "opC": "A person who studies ancient religions",
+    "opD": "A person who is uncertain about God's existence",
+    "opright": "opB"
+  },
+  {
+    "queNo": "146",
+    "queText": "What is an auction?",
+    "opA": "A private sale",
+    "opB": "A public event where things are sold to the highest bidder",
+    "opC": "An exchange of goods without money",
+    "opD": "A lottery for valuable items",
+    "opright": "opB"
+  },
+  {
+    "queNo": "147",
+    "queText": "What is a ballot?",
+    "opA": "A public declaration of vote",
+    "opB": "A system of secret voting",
+    "opC": "A type of public opinion poll",
+    "opD": "A meeting to discuss voting procedures",
+    "opright": "opB"
+  },
+  {
+    "queNo": "148",
+    "queText": "What is a bankrupt?",
+    "opA": "A wealthy investor",
+    "opB": "A person unable to pay their debts",
+    "opC": "A successful business owner",
+    "opD": "A government official in charge of finances",
+    "opright": "opB"
+  },
+  {
+    "queNo": "149",
+    "queText": "What happens to the property of a bankrupt person?",
+    "opA": "It is given to charity.",
+    "opB": "It is managed by the person themselves.",
+    "opC": "It is taken by the court to repay debts.",
+    "opD": "It is inherited by their family immediately.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "150",
+    "queText": "What is a bibliophile?",
+    "opA": "A person who hates books",
+    "opB": "A person who loves and collects books",
+    "opC": "A person who writes books",
+    "opD": "A person who sells books",
+    "opright": "opB"
+  },
+  {
+    "queNo": "151",
+    "queText": "What is 'Brain Drain'?",
+    "opA": "The process of learning new skills.",
+    "opB": "The loss of a country's skilled and intelligent people seeking better opportunities.",
+    "opC": "A type of neurological disorder.",
+    "opD": "The expansion of educational institutions.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "152",
+    "queText": "What is calligraphy?",
+    "opA": "The study of ancient civilizations.",
+    "opB": "An art of beautiful handwriting.",
+    "opC": "A type of painting.",
+    "opD": "The science of map-making.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "153",
+    "queText": "What is capital punishment?",
+    "opA": "A severe fine.",
+    "opB": "A punishment of death.",
+    "opC": "Life imprisonment.",
+    "opD": "Community service.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "154",
+    "queText": "What is a catalogue?",
+    "opA": "A speech given on a special occasion.",
+    "opB": "A complete list of items, e.g., books.",
+    "opC": "A type of legal document.",
+    "opD": "A collection of photographs.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "155",
+    "queText": "What is a census?",
+    "opA": "A system of government.",
+    "opB": "The official counting of a country’s population.",
+    "opC": "A type of economic survey.",
+    "opD": "A study of climate patterns.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "156",
+    "queText": "What is a coalition?",
+    "opA": "A single political party in power.",
+    "opB": "A temporary union of separate political parties, usually to form a government.",
+    "opC": "A permanent alliance between countries.",
+    "opD": "A type of economic agreement.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "157",
+    "queText": "What is copyright?",
+    "opA": "A tax on published materials.",
+    "opB": "An exclusive legal right to control the reproduction and distribution of an original work.",
+    "opC": "A public domain status for creative works.",
+    "opD": "A system for reviewing and censoring published content.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "158",
+    "queText": "For how long is a copyright typically held?",
+    "opA": "For a fixed period of 10 years.",
+    "opB": "For a fixed period of 50 years.",
+    "opC": "For certain years, often the lifetime of the creator plus a specified number of years.",
+    "opD": "Indefinitely.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "159",
+    "queText": "What is a curfew?",
+    "opA": "A daily prayer time.",
+    "opB": "An official order for civilians to stay indoors for a specific period.",
+    "opC": "A type of public celebration.",
+    "opD": "A restriction on vehicular movement.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "160",
+    "queText": "What is an epicure?",
+    "opA": "A writer of long poems.",
+    "opB": "A person fond of food and drink of high quality.",
+    "opC": "A medical specialist.",
+    "opD": "An expert in ancient history.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "161",
+    "queText": "What is an extravagant person?",
+    "opA": "A very generous person.",
+    "opB": "A person who spends money unnecessarily.",
+    "opC": "A person who saves a lot of money.",
+    "opD": "A person who is very wealthy.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "162",
+    "queText": "What is the 'Fourth State' a term applied to?",
+    "opA": "The judiciary.",
+    "opB": "The press, e.g., newspapers, journalists.",
+    "opC": "The military.",
+    "opD": "The religious institutions.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "163",
+    "queText": "What is an honorary post or degree?",
+    "opA": "A highly paid position.",
+    "opB": "A post or degree given as an honour, without the usual qualification being required or without pay.",
+    "opC": "A compulsory government service.",
+    "opD": "A position earned through competitive examination.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "164",
+    "queText": "What is a ledger?",
+    "opA": "A type of currency.",
+    "opB": "A book in which a bank, business firm, etc., records its accounts.",
+    "opC": "A collection of legal documents.",
+    "opD": "A tool used for surveying land.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "165",
+    "queText": "What is a patent?",
+    "opA": "A type of government tax.",
+    "opB": "An official document giving the holder the sole right to make, use, or sell an invention.",
+    "opC": "A public record of scientific discoveries.",
+    "opD": "A license to practice a profession.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "166",
+    "queText": "What is a pessimist?",
+    "opA": "A medical doctor.",
+    "opB": "A person who is always disappointed and looks only on the dark side of things.",
+    "opC": "A religious scholar.",
+    "opD": "A political activist.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "167",
+    "queText": "What is piracy in the context of books and media?",
+    "opA": "The act of legally publishing and selling books.",
+    "opB": "Illegal copying of books, cassettes, CDs, etc.",
+    "opC": "The authorized distribution of copyrighted material.",
+    "opD": "Fair use of copyrighted content for educational purposes.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "168",
+    "queText": "What is a post-mortem?",
+    "opA": "A letter written after someone's death.",
+    "opB": "A medical examination of a body after death to find the cause of death.",
+    "opC": "A ceremony performed after a funeral.",
+    "opD": "A review of past events.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "169",
+    "queText": "What is a prospectus?",
+    "opA": "A legal document outlining a business partnership.",
+    "opB": "A printed document giving details about a course, school, college, business, etc.",
+    "opC": "A financial report of a company.",
+    "opD": "A government policy document.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "170",
+    "queText": "What is a quack?",
+    "opA": "A noisy bird.",
+    "opB": "A person who dishonestly claims to have medical skill.",
+    "opC": "A type of traditional medicine practitioner.",
+    "opD": "A researcher in alternative medicine.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "171",
+    "queText": "What is a refugee?",
+    "opA": "A tourist visiting a foreign country.",
+    "opB": "A person forced to leave their country for political or religious reasons and seeks shelter in another country.",
+    "opC": "An immigrant seeking better economic opportunities.",
+    "opD": "A diplomat working in a foreign embassy.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "172",
+    "queText": "What is a republic?",
+    "opA": "A system of government ruled by a king or queen.",
+    "opB": "A system of government with an elected president and no monarch.",
+    "opC": "A system of government based on religious laws.",
+    "opD": "A system of government where power is held by a small group of people.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "173",
+    "queText": "What is royalty in the context of creative works?",
+    "opA": "A lump sum payment to an author or artist.",
+    "opB": "The exclusive rights to publish or sell a work.",
+    "opC": "The percentage an artist receives on the sale of their work.",
+    "opD": "Government funding for the arts.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "174",
+    "queText": "What is a sovereign nation?",
+    "opA": "A nation under the control of another country.",
+    "opB": "A fully independent nation with complete freedom to govern itself.",
+    "opC": "A nation that is part of a larger empire.",
+    "opD": "A nation with limited self-governance.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "175",
+    "queText": "What is a summons?",
+    "opA": "A formal invitation to a party.",
+    "opB": "An order to a person to appear in court.",
+    "opC": "A request for financial assistance.",
+    "opD": "A letter of appreciation.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "176",
+    "queText": "What is a theist?",
+    "opA": "A person who studies theology.",
+    "opB": "A person who believes in the existence of God.",
+    "opC": "A person who does not believe in God.",
+    "opD": "A person who practices a specific religion.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "177",
+    "queText": "What is a universal law or theory?",
+    "opA": "One that applies only to a specific group of people.",
+    "opB": "One that is applicable to all or the same anywhere.",
+    "opC": "One that is accepted by most scientists but has exceptions.",
+    "opD": "One that is true only under certain conditions.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "178",
+    "queText": "What is a veteran?",
+    "opA": "A young trainee in a profession.",
+    "opB": "A person who has a long experience in any profession.",
+    "opC": "A retired person.",
+    "opD": "A person who has received a special award.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "179",
+    "queText": "What is a volunteer?",
+    "opA": "A person forced to do something.",
+    "opB": "A person who does something of their own will without pay.",
+    "opC": "A professional working in a non-profit organization.",
+    "opD": "A government employee in a social service role.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "180",
+    "queText": "What is a warrant?",
+    "opA": "A certificate of ownership.",
+    "opB": "A written order from a court giving police authority to arrest someone or search a place.",
+    "opC": "A permit to carry out a business.",
+    "opD": "A guarantee on a product.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "181",
+    "queText": "What is a 'White Elephant'?",
+    "opA": "A rare and valuable animal.",
+    "opB": "A possession that is useless and often expensive to maintain.",
+    "opC": "A symbol of good luck in some cultures.",
+    "opD": "A government project that brings significant benefits.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "182",
+    "queText": "What is a will (legal document)?",
+    "opA": "A document recording a birth.",
+    "opB": "A legal document outlining how a person's property should be distributed after their death.",
+    "opC": "A document certifying a marriage.",
+    "opD": "A contract between two or more parties.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "183",
+    "queText": "According to a 'Believe It or Not' fact, what is the dragon a symbol of in China?",
+    "opA": "Danger and destruction",
+    "opB": "Good luck",
+    "opC": "Power and authority",
+    "opD": "Wisdom and longevity",
+    "opright": "opB"
+  },
+  {
+    "queNo": "184",
+    "queText": "What do people in China think dragons bring?",
+    "opA": "Storms and floods",
+    "opB": "Prosperity and good fortune",
+    "opC": "War and conflict",
+    "opD": "Disease and famine",
+    "opright": "opB"
+  },
+  {
+    "queNo": "185",
+    "queText": "Which bird is known for its ability to imitate the songs of about forty different birds?",
+    "opA": "Parrot",
+    "opB": "Myna",
+    "opC": "Mocking bird",
+    "opD": "Nightingale",
+    "opright": "opC"
+  },
+  {
+    "queNo": "186",
+    "queText": "What is the name of the bird mentioned that can imitate songs of other birds?",
+    "opA": "Forty-singer",
+    "opB": "Echo bird",
+    "opC": "Mocking bird",
+    "opD": "Mimic bird",
+    "opright": "opC"
+  },
+  {
+    "queNo": "187",
+    "queText": "What are the world’s largest leaves, according to a 'Believe It or Not' fact?",
+    "opA": "Banana leaves",
+    "opB": "Water lily leaves",
+    "opC": "Raffia palm leaves",
+    "opD": "Lotus leaves",
+    "opright": "opC"
+  },
+  {
+    "queNo": "188",
+    "queText": "Up to what length can the leaves of the Raffia palm grow?",
+    "opA": "5 meters",
+    "opB": "10 meters",
+    "opC": "20 meters",
+    "opD": "30 meters",
+    "opright": "opC"
+  },
+  {
+    "queNo": "189",
+    "queText": "Which library contains more than 86 million items and is the largest in the world?",
+    "opA": "British Library",
+    "opB": "Library of Alexandria",
+    "opC": "United States Library of Congress",
+    "opD": "National Library of China",
+    "opright": "opC"
+  },
+  {
+    "queNo": "190",
+    "queText": "In which city is the United States Library of Congress located?",
+    "opA": "New York City",
+    "opB": "Washington, DC",
+    "opC": "Boston",
+    "opD": "Los Angeles",
+    "opright": "opB"
+  },
+  {
+    "queNo": "191",
+    "queText": "According to a 'Believe It or Not' fact, is it possible to sneeze and keep your eyes open at the same time?",
+    "opA": "Yes, with practice.",
+    "opB": "Yes, but it is very difficult.",
+    "opC": "No, it is impossible.",
+    "opD": "It depends on the individual.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "192",
+    "queText": "At what speed can tsunami waves move, according to a 'Believe It or Not' fact?",
+    "opA": "Over 100 km/h",
+    "opB": "Over 300 km/h",
+    "opC": "Over 700 km/h",
+    "opD": "Over 1000 km/h",
+    "opright": "opC"
+  },
+  {
+    "queNo": "193",
+    "queText": "How high can tsunami waves be, according to a 'Believe It or Not' fact?",
+    "opA": "Up to 10 meters",
+    "opB": "Up to 20 meters",
+    "opC": "Up to 30 meters",
+    "opD": "Up to 40 meters",
+    "opright": "opC"
+  },
+  {
+    "queNo": "194",
+    "queText": "At what rate is the Moon moving away from the Earth each year, according to a 'Believe It or Not' fact?",
+    "opA": "Half an inch",
+    "opB": "One inch",
+    "opC": "Two inches",
+    "opD": "Three inches",
+    "opright": "opB"
+  },
+  {
+    "queNo": "195",
+    "queText": "What is telepathy?",
+    "opA": "The study of telephones.",
+    "opB": "Communication of thoughts without normal senses.",
+    "opC": "Rapid reading of books.",
+    "opD": "Long-distance vision.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "196",
+    "queText": "What is theology?",
+    "opA": "The study of time.",
+    "opB": "The study of God and religious beliefs.",
+    "opC": "The study of stars.",
+    "opD": "The study of ancient languages.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "197",
+    "queText": "What is the full form of ATM?",
+    "opA": "Automatic Transaction Machine",
+    "opB": "Automated Teller Machine",
+    "opC": "Any Time Money",
+    "opD": "All Time Money",
+    "opright": "opB"
+  },
+  {
+    "queNo": "198",
+    "queText": "What does FIR stand for?",
+    "opA": "First Information Report",
+    "opB": "Final Investigation Report",
+    "opC": "Federal Investigation Record",
+    "opD": "Financial Information Report",
+    "opright": "opA"
+  },
+  {
+    "queNo": "199",
+    "queText": "What is the full form of MBBS?",
+    "opA": "Bachelor of Medical Sciences",
+    "opB": "Bachelor of Medicine and Bachelor of Surgery",
+    "opC": "Master of Biological Sciences",
+    "opD": "Master of Basic Surgery",
+    "opright": "opB"
+  },
+  {
+    "queNo": "200",
+    "queText": "Who wrote 'Ramayana'?",
+    "opA": "Ved Vyas",
+    "opB": "Valmiki",
+    "opC": "Tulsidas",
+    "opD": "Kalidasa",
+    "opright": "opB"
+  },
+  {
+    "queNo": "201",
+    "queText": "Who is the author of 'A Suitable Boy'?",
+    "opA": "Vikram Seth",
+    "opB": "R.K. Narayan",
+    "opC": "Aravind Adiga",
+    "opD": "Salman Rushdie",
+    "opright": "opA"
+  },
+  {
+    "queNo": "202",
+    "queText": "Who wrote 'Arabian Nights'?",
+    "opA": "Lewis Carroll",
+    "opB": "Sir Richard Burton (translator)",
+    "opC": "Jules Verne",
+    "opD": "Hans Christian Andersen",
+    "opright": "opB"
+  },
+  {
+    "queNo": "203",
+    "queText": "Who is the author of 'Jungle Book'?",
+    "opA": "Lewis Carroll",
+    "opB": "George Orwell",
+    "opC": "Rudyard Kipling",
+    "opD": "Jonathan Swift",
+    "opright": "opC"
+  },
+  {
+    "queNo": "204",
+    "queText": "Which colour in our National Flag signifies faith and prosperity?",
+    "opA": "Saffron",
+    "opB": "White",
+    "opC": "Green",
+    "opD": "Blue",
+    "opright": "opC"
+  },
+  {
+    "queNo": "205",
+    "queText": "How many lions are there in our National Emblem?",
+    "opA": "Two",
+    "opB": "Three",
+    "opC": "Four",
+    "opD": "Five",
+    "opright": "opC"
+  },
+  {
+    "queNo": "206",
+    "queText": "Which book is the source of our National Song 'Vande Mataram'?",
+    "opA": "Gitanjali",
+    "opB": "Anand Math",
+    "opC": "Discovery of India",
+    "opD": "India Wins Freedom",
+    "opright": "opB"
+  },
+  {
+    "queNo": "207",
+    "queText": "Which is the third most widely spoken language in the world?",
+    "opA": "English",
+    "opB": "Spanish",
+    "opC": "Hindi",
+    "opD": "Mandarin Chinese",
+    "opright": "opC"
+  },
+  {
+    "queNo": "208",
+    "queText": "How many states and union territories were there in India as per the source?",
+    "opA": "29 states & 7 union territories",
+    "opB": "28 states & 8 union territories",
+    "opC": "28 states & 7 union territories",
+    "opD": "27 states & 9 union territories",
+    "opright": "opC"
+  },
+  {
+    "queNo": "209",
+    "queText": "Which is the largest state in India by area?",
+    "opA": "Madhya Pradesh",
+    "opB": "Uttar Pradesh",
+    "opC": "Rajasthan",
+    "opD": "Maharashtra",
+    "opright": "opC"
+  },
+  {
+    "queNo": "210",
+    "queText": "Which is the most populous state in India?",
+    "opA": "Maharashtra",
+    "opB": "West Bengal",
+    "opC": "Uttar Pradesh",
+    "opD": "Bihar",
+    "opright": "opC"
+  },
+  {
+    "queNo": "211",
+    "queText": "Who was the first President of India?",
+    "opA": "Dr. S. Radhakrishnan",
+    "opB": "Rajendra Prasad",
+    "opC": "Jawaharlal Nehru",
+    "opD": "Zakir Husain",
+    "opright": "opB"
+  },
+  {
+    "queNo": "212",
+    "queText": "Which Indian President occupied the office for the shortest term?",
+    "opA": "V.V. Giri",
+    "opB": "Fakhruddin Ali Ahmad",
+    "opC": "Zakir Husain",
+    "opD": "Neelam Sanjiva Reddy",
+    "opright": "opC"
+  },
+  {
+    "queNo": "213",
+    "queText": "Who was the first President of India to be elected unopposed?",
+    "opA": "Rajendra Prasad",
+    "opB": "S. Radhakrishnan",
+    "opC": "Neelam Sanjiva Reddy",
+    "opD": "Giani Zail Singh",
+    "opright": "opC"
+  },
+  {
+    "queNo": "214",
+    "queText": "Who was the President of India when Prime Minister Indira Gandhi declared a state of emergency in 1975?",
+    "opA": "V.V. Giri",
+    "opB": "Zakir Husain",
+    "opC": "Fakhruddin Ali Ahmad",
+    "opD": "S. Radhakrishnan",
+    "opright": "opC"
+  },
+  {
+    "queNo": "215",
+    "queText": "Who is known as 'The Father of India’s Missile Programme'?",
+    "opA": "Homi J. Bhabha",
+    "opB": "Vikram Sarabhai",
+    "opC": "A.P.J. Abdul Kalam",
+    "opD": "C.V. Raman",
+    "opright": "opC"
+  },
+  {
+    "queNo": "216",
+    "queText": "Who was the youngest Prime Minister of India?",
+    "opA": "Indira Gandhi",
+    "opB": "Rajiv Gandhi",
+    "opC": "Sanjay Gandhi",
+    "opD": "Atal Bihari Vajpayee",
+    "opright": "opB"
+  },
+  {
+    "queNo": "217",
+    "queText": "Which Indian Prime Minister died in Russia (then Soviet Union)?",
+    "opA": "Jawaharlal Nehru",
+    "opB": "Lal Bahadur Shastri",
+    "opC": "Indira Gandhi",
+    "opD": "Rajiv Gandhi",
+    "opright": "opB"
+  },
+  {
+    "queNo": "218",
+    "queText": "What is the capital of Uttarakhand?",
+    "opA": "Shimla",
+    "opB": "Dehradun",
+    "opC": "Nainital",
+    "opD": "Mussoorie",
+    "opright": "opB"
+  },
+  {
+    "queNo": "219",
+    "queText": "Which city is the capital of two Indian states?",
+    "opA": "Hyderabad",
+    "opB": "Mumbai",
+    "opC": "Chandigarh",
+    "opD": "Kolkata",
+    "opright": "opC"
+  },
+  {
+    "queNo": "220",
+    "queText": "Which language is spoken in Kerala?",
+    "opA": "Tamil",
+    "opB": "Telugu",
+    "opC": "Malayalam",
+    "opD": "Kannada",
+    "opright": "opC"
+  },
+  {
+    "queNo": "221",
+    "queText": "Telugu is the principal language of which Indian state?",
+    "opA": "Kerala",
+    "opB": "Tamil Nadu",
+    "opC": "Andhra Pradesh",
+    "opD": "Karnataka",
+    "opright": "opC"
+  },
+  {
+    "queNo": "222",
+    "queText": "What is the famous classical dance form of Kerala?",
+    "opA": "Bharatanatyam",
+    "opB": "Kathak",
+    "opC": "Kathakali",
+    "opD": "Kuchipudi",
+    "opright": "opC"
+  },
+  {
+    "queNo": "223",
+    "queText": "Which Indian state would you associate with Garba?",
+    "opA": "Maharashtra",
+    "opB": "Rajasthan",
+    "opC": "Gujarat",
+    "opD": "Punjab",
+    "opright": "opC"
+  },
+  {
+    "queNo": "224",
+    "queText": "Bihu is the famous dance form of which Indian state?",
+    "opA": "Orissa",
+    "opB": "Manipur",
+    "opC": "Assam",
+    "opD": "Tripura",
+    "opright": "opC"
+  },
+  {
+    "queNo": "225",
+    "queText": "What is the capital of Australia?",
+    "opA": "Sydney",
+    "opB": "Melbourne",
+    "opC": "Canberra",
+    "opD": "Perth",
+    "opright": "opC"
+  },
+  {
+    "queNo": "226",
+    "queText": "What is the capital of Malaysia?",
+    "opA": "Jakarta",
+    "opB": "Bangkok",
+    "opC": "Kuala Lumpur",
+    "opD": "Singapore",
+    "opright": "opC"
+  },
+  {
+    "queNo": "227",
+    "queText": "What is the currency of China?",
+    "opA": "Yen",
+    "opB": "Won",
+    "opC": "Yuan",
+    "opD": "Ringgit",
+    "opright": "opC"
+  },
+  {
+    "queNo": "228",
+    "queText": "What is the currency of Saudi Arabia?",
+    "opA": "Dinar",
+    "opB": "Dirham",
+    "opC": "Riyal",
+    "opD": "Lira",
+    "opright": "opC"
+  },
+  {
+    "queNo": "229",
+    "queText": "What is the single currency of the European Union?",
+    "opA": "Pound",
+    "opB": "Franc",
+    "opC": "Euro",
+    "opD": "Mark",
+    "opright": "opC"
+  },
+  {
+    "queNo": "230",
+    "queText": "What are the natives of Netherlands called?",
+    "opA": "Belgians",
+    "opB": "Dutch",
+    "opC": "Swiss",
+    "opD": "Germans",
+    "opright": "opB"
+  },
+  {
+    "queNo": "231",
+    "queText": "What are the natives of Scotland called?",
+    "opA": "Irish",
+    "opB": "Welsh",
+    "opC": "Scottish",
+    "opD": "English",
+    "opright": "opC"
+  },
+  {
+    "queNo": "232",
+    "queText": "What is the official language of Brazil?",
+    "opA": "Spanish",
+    "opB": "English",
+    "opC": "Portuguese",
+    "opD": "French",
+    "opright": "opC"
+  },
+  {
+    "queNo": "233",
+    "queText": "What is the official language of Iran?",
+    "opA": "Arabic",
+    "opB": "Urdu",
+    "opC": "Persian",
+    "opD": "Turkish",
+    "opright": "opC"
+  },
+  {
+    "queNo": "234",
+    "queText": "What is the major religion in Thailand?",
+    "opA": "Islam",
+    "opB": "Hinduism",
+    "opC": "Buddhism",
+    "opD": "Christianity",
+    "opright": "opC"
+  },
+  {
+    "queNo": "235",
+    "queText": "In which country is the religion Shintoism primarily followed?",
+    "opA": "China",
+    "opB": "Korea",
+    "opC": "Japan",
+    "opD": "Vietnam",
+    "opright": "opC"
+  },
+  {
+    "queNo": "236",
+    "queText": "Which is the largest and the most populated continent?",
+    "opA": "Africa",
+    "opB": "Europe",
+    "opC": "Asia",
+    "opD": "North America",
+    "opright": "opC"
+  },
+  {
+    "queNo": "237",
+    "queText": "On which continent is Brazil located?",
+    "opA": "Africa",
+    "opB": "South America",
+    "opC": "Europe",
+    "opD": "Australia",
+    "opright": "opB"
+  },
+  {
+    "queNo": "238",
+    "queText": "Which country has the longest international boundary with India?",
+    "opA": "Pakistan",
+    "opB": "Bangladesh",
+    "opC": "China",
+    "opD": "Nepal",
+    "opright": "opC"
+  },
+  {
+    "queNo": "239",
+    "queText": "On which continent is the South Pole located?",
+    "opA": "Arctic",
+    "opB": "Antarctica",
+    "opC": "South America",
+    "opD": "Australia",
+    "opright": "opB"
+  },
+  {
+    "queNo": "240",
+    "queText": "How is Banaras better known today?",
+    "opA": "Prayagraj",
+    "opB": "Ayodhya",
+    "opC": "Varanasi",
+    "opD": "Patna",
+    "opright": "opC"
+  },
+  {
+    "queNo": "241",
+    "queText": "What was the old name of Japan?",
+    "opA": "Cathay",
+    "opB": "Nippon",
+    "opC": "Formosa",
+    "opD": "Sakoku",
+    "opright": "opB"
+  },
+  {
+    "queNo": "242",
+    "queText": "How is Mesopotamia better known today?",
+    "opA": "Egypt",
+    "opB": "Iraq",
+    "opC": "Iran",
+    "opD": "Syria",
+    "opright": "opB"
+  },
+  {
+    "queNo": "243",
+    "queText": "Which city is called 'The Gateway of India'?",
+    "opA": "Kolkata",
+    "opB": "Chennai",
+    "opC": "Mumbai",
+    "opD": "Delhi",
+    "opright": "opC"
+  },
+  {
+    "queNo": "244",
+    "queText": "Which country is known as 'The Gift of the Nile'?",
+    "opA": "Sudan",
+    "opB": "Ethiopia",
+    "opC": "Egypt",
+    "opD": "Uganda",
+    "opright": "opC"
+  },
+  {
+    "queNo": "245",
+    "queText": "On the banks of which river is Guwahati situated?",
+    "opA": "Ganges",
+    "opB": "Yamuna",
+    "opC": "Brahmaputra",
+    "opD": "Godavari",
+    "opright": "opC"
+  },
+  {
+    "queNo": "246",
+    "queText": "London is situated on the banks of which river?",
+    "opA": "Seine",
+    "opB": "Thames",
+    "opC": "Rhine",
+    "opD": "Danube",
+    "opright": "opB"
+  },
+  {
+    "queNo": "247",
+    "queText": "Which river flows through Baghdad?",
+    "opA": "Nile",
+    "opB": "Euphrates",
+    "opC": "Tigris",
+    "opD": "Indus",
+    "opright": "opC"
+  },
+  {
+    "queNo": "248",
+    "queText": "What is Moradabad famous for?",
+    "opA": "Textiles",
+    "opB": "Leather goods",
+    "opC": "Brassware",
+    "opD": "Jewellery",
+    "opright": "opC"
+  },
+  {
+    "queNo": "249",
+    "queText": "What is Johannesburg famous for?",
+    "opA": "Diamond mines",
+    "opB": "Tea plantations",
+    "opC": "Gold mines",
+    "opD": "Software industry",
+    "opright": "opC"
+  },
+  {
+    "queNo": "250",
+    "queText": "How many players are there in a team of basketball?",
+    "opA": "Six",
+    "opB": "Seven",
+    "opC": "Five",
+    "opD": "Four",
+    "opright": "opC"
+  },
+  {
+    "queNo": "251",
+    "queText": "Which is considered the fastest team game in the world?",
+    "opA": "Football",
+    "opB": "Basketball",
+    "opC": "Ice hockey",
+    "opD": "Handball",
+    "opright": "opC"
+  },
+  {
+    "queNo": "252",
+    "queText": "Which two countries share the world’s longest boundary?",
+    "opA": "India and China",
+    "opB": "USA and Mexico",
+    "opC": "Canada and the USA",
+    "opD": "Russia and China",
+    "opright": "opC"
+  },
+  {
+    "queNo": "253",
+    "queText": "What is the playground of wrestling called?",
+    "opA": "Court",
+    "opB": "Field",
+    "opC": "Arena",
+    "opD": "Ring",
+    "opright": "opC"
+  },
+  {
+    "queNo": "254",
+    "queText": "Which game is also known as ping-pong?",
+    "opA": "Badminton",
+    "opB": "Lawn tennis",
+    "opC": "Table tennis",
+    "opD": "Volleyball",
+    "opright": "opC"
+  },
+  {
+    "queNo": "255",
+    "queText": "Which ball game is played in the largest ground?",
+    "opA": "Cricket",
+    "opB": "Football",
+    "opC": "Polo",
+    "opD": "Hockey",
+    "opright": "opC"
+  },
+  {
+    "queNo": "256",
+    "queText": "What is the national game of Russia?",
+    "opA": "Football",
+    "opB": "Basketball",
+    "opC": "Chess",
+    "opD": "Ice hockey",
+    "opright": "opC"
+  },
+  {
+    "queNo": "257",
+    "queText": "What is the national game of USA?",
+    "opA": "Football",
+    "opB": "Basketball",
+    "opC": "Baseball",
+    "opD": "Ice hockey",
+    "opright": "opC"
+  },
+  {
+    "queNo": "258",
+    "queText": "Which country invented ice hockey?",
+    "opA": "Russia",
+    "opB": "USA",
+    "opC": "Canada",
+    "opD": "Sweden",
+    "opright": "opC"
+  },
+  {
+    "queNo": "259",
+    "queText": "Where were the Olympic Games originated?",
+    "opA": "Rome",
+    "opB": "Athens (Greece)",
+    "opC": "London",
+    "opD": "Paris",
+    "opright": "opB"
+  },
+  {
+    "queNo": "260",
+    "queText": "Who is said to be 'The Father of Modern Olympics'?",
+    "opA": "Juan Antonio Samaranch",
+    "opB": "Pierre de Coubertin",
+    "opC": "Avery Brundage",
+    "opD": "Demetrius Vikelas",
+    "opright": "opB"
+  },
+  {
+    "queNo": "261",
+    "queText": "How many rings are there in the Olympic flag?",
+    "opA": "Three",
+    "opB": "Four",
+    "opC": "Five",
+    "opD": "Six",
+    "opright": "opC"
+  },
+  {
+    "queNo": "262",
+    "queText": "What colour ring in the Olympic flag represents Asia?",
+    "opA": "Blue",
+    "opB": "Black",
+    "opC": "Yellow",
+    "opD": "Green",
+    "opright": "opC"
+  },
+  {
+    "queNo": "263",
+    "queText": "How many days do the Summer Olympic Games typically last?",
+    "opA": "10 days",
+    "opB": "14 days",
+    "opC": "16 days",
+    "opD": "20 days",
+    "opright": "opC"
+  },
+  {
+    "queNo": "264",
+    "queText": "Which country has won the most Gold medals in Olympic hockey?",
+    "opA": "Australia",
+    "opB": "Netherlands",
+    "opC": "India",
+    "opD": "Germany",
+    "opright": "opC"
+  },
+  {
+    "queNo": "265",
+    "queText": "Who won the Gold medal for India in which event at the Athens Olympics, 2004?",
+    "opA": "Shooting (10m Air Rifle)",
+    "opB": "Archery",
+    "opC": "Shooting (double trap)",
+    "opD": "Badminton",
+    "opright": "opC"
+  },
+  {
+    "queNo": "266",
+    "queText": "Which is the only country to have played in every World Cup Soccer Tournament?",
+    "opA": "Germany",
+    "opB": "Italy",
+    "opC": "Brazil",
+    "opD": "Argentina",
+    "opright": "opC"
+  },
+  {
+    "queNo": "267",
+    "queText": "Which country has won the most World Cup Soccer Tournaments?",
+    "opA": "Germany",
+    "opB": "Italy",
+    "opC": "Brazil",
+    "opD": "Argentina",
+    "opright": "opC"
+  },
+  {
+    "queNo": "268",
+    "queText": "Who is the highest goal-scorer in the history of the World Cup Soccer?",
+    "opA": "Lionel Messi",
+    "opB": "Cristiano Ronaldo",
+    "opC": "Ronaldo (Brazil)",
+    "opD": "Miroslav Klose",
+    "opright": "opC"
+  },
+  {
+    "queNo": "269",
+    "queText": "In which year did India win the Cricket World Cup?",
+    "opA": "1987",
+    "opB": "2003",
+    "opC": "1983",
+    "opD": "2011",
+    "opright": "opC"
+  },
+  {
+    "queNo": "270",
+    "queText": "Who was the captain of the Indian cricket team that won the World Cup in 1983?",
+    "opA": "Sunil Gavaskar",
+    "opB": "Kapil Dev",
+    "opC": "Sachin Tendulkar",
+    "opD": "Mohinder Amarnath",
+    "opright": "opB"
+  },
+  {
+    "queNo": "271",
+    "queText": "Which game is Baichung Bhutia associated with?",
+    "opA": "Cricket",
+    "opB": "Hockey",
+    "opC": "Football",
+    "opD": "Badminton",
+    "opright": "opC"
+  },
+  {
+    "queNo": "272",
+    "queText": "What was the original name of Muhammad Ali?",
+    "opA": "Joe Louis",
+    "opB": "Cassius Clay",
+    "opC": "George Foreman",
+    "opD": "Floyd Patterson",
+    "opright": "opB"
+  },
+  {
+    "queNo": "273",
+    "queText": "For what country did Zinedine Zidane play football?",
+    "opA": "Spain",
+    "opB": "Italy",
+    "opC": "France",
+    "opD": "Germany",
+    "opright": "opC"
+  },
+  {
+    "queNo": "274",
+    "queText": "Who is the only woman tennis player to win the Wimbledon singles title nine times?",
+    "opA": "Serena Williams",
+    "opB": "Venus Williams",
+    "opC": "Martina Navratilova",
+    "opD": "Steffi Graf",
+    "opright": "opC"
+  },
+  {
+    "queNo": "275",
+    "queText": "Which game is the Irani Trophy associated with?",
+    "opA": "Football",
+    "opB": "Hockey",
+    "opC": "Cricket",
+    "opD": "Tennis",
+    "opright": "opC"
+  },
+  {
+    "queNo": "276",
+    "queText": "Which game is the Davis Cup associated with?",
+    "opA": "Badminton",
+    "opB": "Table tennis",
+    "opC": "Tennis",
+    "opD": "Golf",
+    "opright": "opC"
+  },
+  {
+    "queNo": "277",
+    "queText": "Which is the oldest football tournament in India?",
+    "opA": "Federation Cup",
+    "opB": "Durand Cup",
+    "opC": "I-League",
+    "opD": "Super Cup",
+    "opright": "opB"
+  },
+  {
+    "queNo": "278",
+    "queText": "Which game is the term 'knockout' commonly associated with?",
+    "opA": "Cricket",
+    "opB": "Football",
+    "opC": "Boxing",
+    "opD": "Badminton",
+    "opright": "opC"
+  },
+  {
+    "queNo": "279",
+    "queText": "What is the colour of the highest belt in karate?",
+    "opA": "Red",
+    "opB": "Brown",
+    "opC": "Black",
+    "opD": "White",
+    "opright": "opC"
+  },
+  {
+    "queNo": "280",
+    "queText": "What colour card means a player is sent off the field in soccer?",
+    "opA": "Yellow",
+    "opB": "Blue",
+    "opC": "Red",
+    "opD": "Green",
+    "opright": "opC"
+  },
+  {
+    "queNo": "281",
+    "queText": "What is the length of a cricket pitch?",
+    "opA": "20 yards",
+    "opB": "22 yards (66 feet)",
+    "opC": "24 yards",
+    "opD": "26 yards",
+    "opright": "opB"
+  },
+  {
+    "queNo": "282",
+    "queText": "What is the width of a standard football goal?",
+    "opA": "18 feet",
+    "opB": "21 feet",
+    "opC": "24 feet",
+    "opD": "27 feet",
+    "opright": "opC"
+  },
+  {
+    "queNo": "283",
+    "queText": "At what height are the baskets hung in basketball?",
+    "opA": "8 feet",
+    "opB": "9 feet",
+    "opC": "10 feet",
+    "opD": "11 feet",
+    "opright": "opC"
+  },
+  {
+    "queNo": "284",
+    "queText": "What is the duration of a normal regulation hockey match?",
+    "opA": "60 minutes",
+    "opB": "70 minutes",
+    "opC": "80 minutes",
+    "opD": "90 minutes",
+    "opright": "opB"
+  },
+  {
+    "queNo": "285",
+    "queText": "Where is the Wankhede Stadium located?",
+    "opA": "New Delhi",
+    "opB": "Kolkata",
+    "opC": "Mumbai",
+    "opD": "Chennai",
+    "opright": "opC"
+  },
+  {
+    "queNo": "286",
+    "queText": "Which is the largest indoor stadium in India?",
+    "opA": "Jawaharlal Nehru Stadium",
+    "opB": "Salt Lake Stadium",
+    "opC": "Indira Gandhi Indoor Stadium",
+    "opD": "Sardar Patel Stadium",
+    "opright": "opC"
+  },
+  {
+    "queNo": "287",
+    "queText": "Which cricket stadium in India has the largest seating capacity?",
+    "opA": "Eden Gardens (Kolkata)",
+    "opB": "M. Chinnaswamy Stadium (Bangalore)",
+    "opC": "Feroz Shah Kotla Ground (Delhi)",
+    "opD": "Wankhede Stadium (Mumbai)",
+    "opright": "opA"
+  },
+  {
+    "queNo": "288",
+    "queText": "Which game is the Ambedkar Stadium in Delhi primarily associated with?",
+    "opA": "Cricket",
+    "opB": "Hockey",
+    "opC": "Football",
+    "opD": "Athletics",
+    "opright": "opC"
+  },
+  {
+    "queNo": "289",
+    "queText": "Which game is the Maracana Municipal Stadium in Brazil famous for?",
+    "opA": "Tennis",
+    "opB": "Basketball",
+    "opC": "Football",
+    "opD": "Volleyball",
+    "opright": "opC"
+  },
+  {
+    "queNo": "290",
+    "queText": "Which is the world’s biggest flower?",
+    "opA": "Sunflower",
+    "opB": "Lotus",
+    "opC": "Rafflesia",
+    "opD": "Rose",
+    "opright": "opC"
+  },
+  {
+    "queNo": "291",
+    "queText": "Who was the first Indian to win an Oscar?",
+    "opA": "Satyajit Ray",
+    "opB": "A.R. Rahman",
+    "opC": "Bhanu Athaiya",
+    "opD": "Gulzar",
+    "opright": "opC"
+  },
+  {
+    "queNo": "292",
+    "queText": "Which was the first Indian talkie film?",
+    "opA": "Raja Harishchandra",
+    "opB": "Alam Ara",
+    "opC": "Kismet",
+    "opD": "Mother India",
+    "opright": "opB"
+  },
+  {
+    "queNo": "293",
+    "queText": "Who were the first people to reach the top of Mount Everest?",
+    "opA": "Tenzing Norgay and Edmund Hillary",
+    "opB": "Reinhold Messner and Peter Habeler",
+    "opC": "George Mallory and Andrew Irvine",
+    "opD": "Junko Tabei and Sherpa Ang Tshering",
+    "opright": "opA"
+  },
+  {
+    "queNo": "294",
+    "queText": "Which country is known for its high-speed TGV trains?",
+    "opA": "Japan",
+    "opB": "Germany",
+    "opC": "France",
+    "opD": "Spain",
+    "opright": "opC"
+  },
+  {
+    "queNo": "295",
+    "queText": "The Great Barrier Reef lies off the coast of which country?",
+    "opA": "India",
+    "opB": "Australia",
+    "opC": "Indonesia",
+    "opD": "Philippines",
+    "opright": "opB"
+  },
+  {
+    "queNo": "296",
+    "queText": "Who is popularly known as 'The Nightingale of India'?",
+    "opA": "Lata Mangeshkar",
+    "opB": "Sarojini Naidu",
+    "opC": "Indira Gandhi",
+    "opD": "Mother Teresa",
+    "opright": "opB"
+  },
+  {
+    "queNo": "297",
+    "queText": "Who is popularly known as 'The Black Pearl' in the world of sports?",
+    "opA": "Diego Maradona",
+    "opB": "Pele",
+    "opC": "Eusebio",
+    "opD": "Franz Beckenbauer",
+    "opright": "opB"
+  },
+  {
+    "queNo": "298",
+    "queText": "What was the nationality of Florence Nightingale?",
+    "opA": "French",
+    "opB": "Italian",
+    "opC": "British",
+    "opD": "German",
+    "opright": "opB"
+  },
+  {
+    "queNo": "299",
+    "queText": "In which country was Albert Einstein born?",
+    "opA": "Switzerland",
+    "opB": "USA",
+    "opC": "Germany",
+    "opD": "Austria",
+    "opright": "opC"
+  },
+  {
+    "queNo": "300",
+    "queText": "Which great 16th-century Italian artist and thinker designed a helicopter that was never built?",
+    "opA": "Michelangelo",
+    "opB": "Raphael",
+    "opC": "Leonardo da Vinci",
+    "opD": "Donatello",
+    "opright": "opC"
+  },
+  {
+    "queNo": "301",
+    "queText": "Who founded the Missionaries of Charity?",
+    "opA": "Mahatma Gandhi",
+    "opB": "Mother Teresa",
+    "opC": "Swami Vivekananda",
+    "opD": "Baba Amte",
+    "opright": "opB"
+  },
+  {
+    "queNo": "302",
+    "queText": "Who founded the Aligarh Muslim University?",
+    "opA": "Maulana Azad",
+    "opB": "Sir Syed Ahmad Khan",
+    "opC": "Zakir Husain",
+    "opD": "Shibli Nomani",
+    "opright": "opB"
+  },
+  {
+    "queNo": "303",
+    "queText": "Who gave the popular slogan 'Jai Jawan, Jai Kisan'?",
+    "opA": "Mahatma Gandhi",
+    "opB": "Jawaharlal Nehru",
+    "opC": "Lal Bahadur Shastri",
+    "opD": "Indira Gandhi",
+    "opright": "opC"
+  },
+  {
+    "queNo": "304",
+    "queText": "Who said 'That’s one small step for man, one giant leap for mankind'?",
+    "opA": "Yuri Gagarin",
+    "opB": "Neil Armstrong",
+    "opC": "Buzz Aldrin",
+    "opD": "Alan Shepard",
+    "opright": "opB"
+  },
+  {
+    "queNo": "305",
+    "queText": "Which is the fastest land animal?",
+    "opA": "Lion",
+    "opB": "Tiger",
+    "opC": "Cheetah",
+    "opD": "Leopard",
+    "opright": "opC"
+  },
+  {
+    "queNo": "306",
+    "queText": "Which is the smallest bird?",
+    "opA": "Sparrow",
+    "opB": "Finch",
+    "opC": "Bee hummingbird",
+    "opD": "Wren",
+    "opright": "opC"
+  },
+  {
+    "queNo": "307",
+    "queText": "Which is the largest lizard in the world?",
+    "opA": "Iguana",
+    "opB": "Gila monster",
+    "opC": "Komodo dragon",
+    "opD": "Chameleon",
+    "opright": "opC"
+  },
+  {
+    "queNo": "308",
+    "queText": "Name one egg-laying mammal.",
+    "opA": "Kangaroo",
+    "opB": "Platypus",
+    "opC": "Dolphin",
+    "opD": "Bat",
+    "opright": "opB"
+  },
+  {
+    "queNo": "309",
+    "queText": "Which mammal has the longest pregnancy period?",
+    "opA": "Blue whale",
+    "opB": "Giraffe",
+    "opC": "Asian elephant",
+    "opD": "Rhino",
+    "opright": "opC"
+  },
+  {
+    "queNo": "310",
+    "queText": "Which bird travels the longest distance during its migratory journey?",
+    "opA": "Arctic tern",
+    "opB": "Albatross",
+    "opC": "Swallow",
+    "opD": "Goose",
+    "opright": "opA"
+  },
+  {
+    "queNo": "311",
+    "queText": "Which bird has the longest wingspan?",
+    "opA": "Golden eagle",
+    "opB": "California condor",
+    "opC": "Wandering albatross",
+    "opD": "Andean condor",
+    "opright": "opC"
+  },
+  {
+    "queNo": "312",
+    "queText": "Where is the Kaziranga National Park located?",
+    "opA": "West Bengal",
+    "opB": "Assam (Jorhat)",
+    "opC": "Madhya Pradesh",
+    "opD": "Kerala",
+    "opright": "opB"
+  },
+  {
+    "queNo": "313",
+    "queText": "Which National Park is famous for Asiatic lions?",
+    "opA": "Ranthambore National Park",
+    "opB": "Corbett National Park",
+    "opC": "Gir National Park",
+    "opD": "Kanha National Park",
+    "opright": "opC"
+  },
+  {
+    "queNo": "314",
+    "queText": "Where is the Rock Garden in India?",
+    "opA": "Jaipur",
+    "opB": "Udaipur",
+    "opC": "Chandigarh",
+    "opD": "Delhi",
+    "opright": "opC"
+  },
+  {
+    "queNo": "315",
+    "queText": "Where is Science City located in India?",
+    "opA": "Mumbai",
+    "opB": "Chennai",
+    "opC": "Kolkata",
+    "opD": "Hyderabad",
+    "opright": "opC"
+  },
+  {
+    "queNo": "316",
+    "queText": "In which state of USA is the Grand Canyon located?",
+    "opA": "California",
+    "opB": "Nevada",
+    "opC": "Arizona",
+    "opD": "Utah",
+    "opright": "opC"
+  },
+  {
+    "queNo": "317",
+    "queText": "Name the building which houses the US Defence Ministry in Washington, DC.",
+    "opA": "White House",
+    "opB": "Capitol Building",
+    "opC": "Pentagon",
+    "opD": "State Department Building",
+    "opright": "opC"
+  },
+  {
+    "queNo": "318",
+    "queText": "Which is the largest prison in India?",
+    "opA": "Tihar Central Jail (Delhi)",
+    "opB": "Arthur Road Jail (Mumbai)",
+    "opC": "Yerawada Central Jail (Pune)",
+    "opD": "Central Jail (Kolkata)",
+    "opright": "opA"
+  },
+  {
+    "queNo": "319",
+    "queText": "Which is the highest mountain peak located entirely within Indian territory?",
+    "opA": "Kanchenjunga",
+    "opB": "Nanda Devi",
+    "opC": "Nanga Parbat (Kashmir)",
+    "opD": "Kamet",
+    "opright": "opC"
+  },
+  {
+    "queNo": "320",
+    "queText": "Which was the tallest building in India according to the source?",
+    "opA": "Antilia (Mumbai)",
+    "opB": "World One (Mumbai)",
+    "opC": "Shreepati Arcade (Mumbai)",
+    "opD": "The 42 (Kolkata)",
+    "opright": "opC"
+  },
+  {
+    "queNo": "321",
+    "queText": "Which place in India receives the maximum rainfall annually?",
+    "opA": "Cherrapunji (Meghalaya)",
+    "opB": "Mawsynram (Meghalaya)",
+    "opC": "Agumbe (Karnataka)",
+    "opD": "Lohit Valley (Arunachal Pradesh)",
+    "opright": "opB"
+  },
+  {
+    "queNo": "322",
+    "queText": "Which is the longest river in the world?",
+    "opA": "Nile",
+    "opB": "Amazon",
+    "opC": "Yangtze",
+    "opD": "Mississippi",
+    "opright": "opB"
+  },
+  {
+    "queNo": "323",
+    "queText": "Which is the largest and deepest Ocean?",
+    "opA": "Atlantic",
+    "opB": "Indian",
+    "opC": "Arctic",
+    "opD": "Pacific",
+    "opright": "opD"
+  },
+  {
+    "queNo": "324",
+    "queText": "Which is the lowest point on the earth?",
+    "opA": "Mariana Trench",
+    "opB": "Dead Sea",
+    "opC": "Lake Assal",
+    "opD": "Valdes Peninsula",
+    "opright": "opB"
+  },
+  {
+    "queNo": "325",
+    "queText": "Which is the highest waterfall in the world?",
+    "opA": "Niagara Falls",
+    "opB": "Victoria Falls",
+    "opC": "Angel Falls",
+    "opD": "Iguazu Falls",
+    "opright": "opC"
+  },
+  {
+    "queNo": "326",
+    "queText": "How many triangular sides does a pyramid have?",
+    "opA": "Two",
+    "opB": "Three",
+    "opC": "Four",
+    "opD": "Five",
+    "opright": "opC"
+  },
+  {
+    "queNo": "327",
+    "queText": "Where were the Hanging Gardens of Babylon built?",
+    "opA": "Egypt",
+    "opB": "Greece",
+    "opC": "Iraq",
+    "opD": "Rome",
+    "opright": "opC"
+  },
+  {
+    "queNo": "328",
+    "queText": "Where is the Salar Jung Museum located?",
+    "opA": "Delhi",
+    "opB": "Mumbai",
+    "opC": "Hyderabad",
+    "opD": "Kolkata",
+    "opright": "opC"
+  },
+  {
+    "queNo": "329",
+    "queText": "Who first proposed the name ‘United Nations’?",
+    "opA": "Winston Churchill",
+    "opB": "Franklin D. Roosevelt (US President)",
+    "opC": "Joseph Stalin",
+    "opD": "Charles de Gaulle",
+    "opright": "opB"
+  },
+  {
+    "queNo": "330",
+    "queText": "How many member countries were in the UN according to the source?",
+    "opA": "185",
+    "opB": "190",
+    "opC": "191",
+    "opD": "193",
+    "opright": "opC"
+  },
+  {
+    "queNo": "331",
+    "queText": "In what city is the UN headquarters located?",
+    "opA": "Geneva",
+    "opB": "Vienna",
+    "opC": "New York City",
+    "opD": "The Hague",
+    "opright": "opC"
+  },
+  {
+    "queNo": "332",
+    "queText": "On which date are the Nobel Prizes awarded annually?",
+    "opA": "December 1",
+    "opB": "December 5",
+    "opC": "December 10",
+    "opD": "December 15",
+    "opright": "opC"
+  },
+  {
+    "queNo": "333",
+    "queText": "Who invented dynamite?",
+    "opA": "Alfred Bernhard Nobel",
+    "opB": "Thomas Edison",
+    "opC": "Marie Curie",
+    "opD": "Albert Einstein",
+    "opright": "opA"
+  },
+  {
+    "queNo": "334",
+    "queText": "Which Indian scientist won the Nobel Prize for Medicine in 1968?",
+    "opA": "C.V. Raman",
+    "opB": "Homi J. Bhabha",
+    "opC": "Har Gobind Khorana",
+    "opD": "S. Chandrasekhar",
+    "opright": "opC"
+  },
+  {
+    "queNo": "335",
+    "queText": "For what discipline was Amartya Sen awarded the Nobel Prize in 1998?",
+    "opA": "Literature",
+    "opB": "Physics",
+    "opC": "Economics",
+    "opD": "Peace",
+    "opright": "opC"
+  },
+  {
+    "queNo": "336",
+    "queText": "Who was the first foreigner to receive Bharat Ratna?",
+    "opA": "Mother Teresa",
+    "opB": "Nelson Mandela",
+    "opC": "Khan Abdul Gaffar Khan",
+    "opD": "Dalai Lama",
+    "opright": "opC"
+  },
+  {
+    "queNo": "337",
+    "queText": "Which is the highest sports award given to sportspersons in India?",
+    "opA": "Rajiv Gandhi Khel Ratna Award",
+    "opB": "Arjuna Award",
+    "opC": "Dronacharya Award",
+    "opD": "Dhyan Chand Award",
+    "opright": "opB"
+  },
+  {
+    "queNo": "338",
+    "queText": "Which is the highest gallantry award in India?",
+    "opA": "Ashok Chakra",
+    "opB": "Maha Vir Chakra",
+    "opC": "Param Vir Chakra",
+    "opD": "Kirti Chakra",
+    "opright": "opC"
+  },
+  {
+    "queNo": "339",
+    "queText": "Who is credited with the invention of the helicopter?",
+    "opA": "Wright Brothers",
+    "opB": "Igor Sikorsky",
+    "opC": "Leonardo da Vinci",
+    "opD": "George Cayley",
+    "opright": "opB"
+  },
+  {
+    "queNo": "340",
+    "queText": "Which invention is usually credited to Johannes Gutenberg?",
+    "opA": "Telescope",
+    "opB": "Microscope",
+    "opC": "Printing Press",
+    "opD": "Steam Engine",
+    "opright": "opC"
+  },
+  {
+    "queNo": "341",
+    "queText": "Who propounded ‘The Theory of Evolution’?",
+    "opA": "Isaac Newton",
+    "opB": "Albert Einstein",
+    "opC": "Charles Darwin",
+    "opD": "Galileo Galilei",
+    "opright": "opC"
+  },
+  {
+    "queNo": "342",
+    "queText": "Which scientist obtained the most patents from the US patent office?",
+    "opA": "Nikola Tesla",
+    "opB": "Alexander Graham Bell",
+    "opC": "Thomas Alva Edison",
+    "opD": "George Washington Carver",
+    "opright": "opC"
+  },
+  {
+    "queNo": "343",
+    "queText": "Which instrument is used for measuring the distance travelled by a vehicle?",
+    "opA": "Speedometer",
+    "opB": "Odometer",
+    "opC": "Tachometer",
+    "opD": "Barometer",
+    "opright": "opB"
+  },
+  {
+    "queNo": "344",
+    "queText": "What device is used by submarine crews to see above the water?",
+    "opA": "Telescope",
+    "opB": "Radar",
+    "opC": "Periscope",
+    "opD": "Sonar",
+    "opright": "opC"
+  },
+  {
+    "queNo": "345",
+    "queText": "Which branch of science deals with the study of plants?",
+    "opA": "Zoology",
+    "opB": "Botany",
+    "opC": "Ecology",
+    "opD": "Genetics",
+    "opright": "opB"
+  },
+  {
+    "queNo": "346",
+    "queText": "What is a scientist who studies the weather called?",
+    "opA": "Geologist",
+    "opB": "Astronomer",
+    "opC": "Meteorologist",
+    "opD": "Biologist",
+    "opright": "opC"
+  },
+  {
+    "queNo": "347",
+    "queText": "Which weather condition is usually associated with fine weather?",
+    "opA": "Low pressure",
+    "opB": "High pressure",
+    "opC": "Rising humidity",
+    "opD": "Strong winds",
+    "opright": "opB"
+  },
+  {
+    "queNo": "348",
+    "queText": "Which is the largest planet in our Solar System?",
+    "opA": "Mars",
+    "opB": "Saturn",
+    "opC": "Jupiter",
+    "opD": "Uranus",
+    "opright": "opC"
+  },
+  {
+    "queNo": "349",
+    "queText": "Which planet is famous for the prominent rings around it?",
+    "opA": "Jupiter",
+    "opB": "Saturn",
+    "opC": "Neptune",
+    "opD": "Uranus",
+    "opright": "opB"
+  },
+  {
+    "queNo": "350",
+    "queText": "What is the largest organ in our body?",
+    "opA": "Skin",
+    "opB": "Heart",
+    "opC": "Liver",
+    "opD": "Lungs",
+    "opright": "opC"
+  },
+  {
+    "queNo": "351",
+    "queText": "What is the largest bone in our body?",
+    "opA": "Humerus",
+    "opB": "Tibia",
+    "opC": "Thigh bone (femur)",
+    "opD": "Fibula",
+    "opright": "opC"
+  },
+  {
+    "queNo": "352",
+    "queText": "How many bones are there in an adult human skull?",
+    "opA": "20",
+    "opB": "22",
+    "opC": "24",
+    "opD": "26",
+    "opright": "opB"
+  },
+  {
+    "queNo": "353",
+    "queText": "Deficiency of which vitamin causes night blindness?",
+    "opA": "Vitamin B",
+    "opB": "Vitamin C",
+    "opC": "Vitamin A",
+    "opD": "Vitamin D",
+    "opright": "opC"
+  },
+  {
+    "queNo": "354",
+    "queText": "Which vitamin helps in blood clotting?",
+    "opA": "Vitamin A",
+    "opB": "Vitamin B",
+    "opC": "Vitamin K",
+    "opD": "Vitamin E",
+    "opright": "opC"
+  },
+  {
+    "queNo": "355",
+    "queText": "Which part of our body is primarily affected by jaundice?",
+    "opA": "Lungs",
+    "opB": "Heart",
+    "opC": "Liver",
+    "opD": "Kidneys",
+    "opright": "opC"
+  },
+  {
+    "queNo": "356",
+    "queText": "Which goddess is traditionally worshipped on the Diwali festival?",
+    "opA": "Saraswati",
+    "opB": "Lakshmi",
+    "opC": "Durga",
+    "opD": "Kali",
+    "opright": "opB"
+  },
+  {
+    "queNo": "357",
+    "queText": "Name the festival of Kerala during which famous boat races are held.",
+    "opA": "Pongal",
+    "opB": "Onam",
+    "opC": "Holi",
+    "opD": "Baisakhi",
+    "opright": "opB"
+  },
+  {
+    "queNo": "358",
+    "queText": "Where was Lord Buddha born?",
+    "opA": "Bodh Gaya (India)",
+    "opB": "Sarnath (India)",
+    "opC": "Lumbini (Nepal)",
+    "opD": "Kushinagar (India)",
+    "opright": "opC"
+  },
+  {
+    "queNo": "359",
+    "queText": "Where was Jesus Christ born?",
+    "opA": "Jerusalem",
+    "opB": "Nazareth",
+    "opC": "Bethlehem",
+    "opD": "Galilee",
+    "opright": "opC"
+  },
+  {
+    "queNo": "360",
+    "queText": "What is the meaning of Bhagavadgita?",
+    "opA": "Song of Wisdom",
+    "opB": "Song of the Divine",
+    "opC": "Song of the Lord",
+    "opD": "Song of the Self",
+    "opright": "opC"
+  },
+  {
+    "queNo": "361",
+    "queText": "What is the holy journey to Mecca made by the Muslims called?",
+    "opA": "Umrah",
+    "opB": "Zakat",
+    "opC": "Hajj",
+    "opD": "Ramadan",
+    "opright": "opC"
+  },
+  {
+    "queNo": "362",
+    "queText": "To which religion do the sects Sunnis and Shias primarily belong?",
+    "opA": "Hinduism",
+    "opB": "Buddhism",
+    "opC": "Islam",
+    "opD": "Jainism",
+    "opright": "opC"
+  },
+  {
+    "queNo": "363",
+    "queText": "Who typically worship in a Fire Temple?",
+    "opA": "Sikhs",
+    "opB": "Jains",
+    "opC": "Parsees",
+    "opD": "Buddhists",
+    "opright": "opC"
+  },
+  {
+    "queNo": "364",
+    "queText": "On which date do we celebrate Children’s Day in India?",
+    "opA": "August 15",
+    "opB": "September 5",
+    "opC": "November 14",
+    "opD": "December 25",
+    "opright": "opC"
+  },
+  {
+    "queNo": "365",
+    "queText": "Whose birthday is celebrated as Teachers’ Day in India?",
+    "opA": "Mahatma Gandhi",
+    "opB": "Jawaharlal Nehru",
+    "opC": "Dr. S. Radhakrishnan’s",
+    "opD": "Dr. A.P.J. Abdul Kalam",
+    "opright": "opC"
+  },
+  {
+    "queNo": "366",
+    "queText": "In which year did India become a Republic?",
+    "opA": "1947",
+    "opB": "1950",
+    "opC": "1952",
+    "opD": "1957",
+    "opright": "opB"
+  },
+  {
+    "queNo": "367",
+    "queText": "Which Indian astronaut tragically died in the Columbia Space Shuttle explosion in 2003?",
+    "opA": "Rakesh Sharma",
+    "opB": "Kalpana Chawla",
+    "opC": "Sunita Williams",
+    "opD": "Ravish Malhotra",
+    "opright": "opB"
+  },
+  {
+    "queNo": "368",
+    "queText": "In which year did humans first walk on the moon?",
+    "opA": "1961",
+    "opB": "1965",
+    "opC": "1969",
+    "opD": "1971",
+    "opright": "opC"
+  },
+  {
+    "queNo": "369",
+    "queText": "In which year did the atom bombs drop on Japan?",
+    "opA": "1939",
+    "opB": "1942",
+    "opC": "1945",
+    "opD": "1950",
+    "opright": "opC"
+  },
+  {
+    "queNo": "370",
+    "queText": "What large machine was used for the first time extensively in World War I?",
+    "opA": "Airplane",
+    "opB": "Tank",
+    "opC": "Submarine",
+    "opD": "Battleship",
+    "opright": "opB"
+  },
+  {
+    "queNo": "371",
+    "queText": "Who is credited with creating the famous cartoon character Mickey Mouse?",
+    "opA": "Hanna-Barbera",
+    "opB": "Walt Disney",
+    "opC": "Chuck Jones",
+    "opD": "Max Fleischer",
+    "opright": "opB"
+  },
+  {
+    "queNo": "372",
+    "queText": "Who is the creator of the fictional character Mowgli?",
+    "opA": "J.R.R. Tolkien",
+    "opB": "Lewis Carroll",
+    "opC": "Rudyard Kipling",
+    "opD": "H.G. Wells",
+    "opright": "opC"
+  },
+  {
+    "queNo": "373",
+    "queText": "What is a place where money is officially coined called?",
+    "opA": "Treasury",
+    "opB": "Bank",
+    "opC": "Mint",
+    "opD": "Stock Exchange",
+    "opright": "opC"
+  },
+  {
+    "queNo": "374",
+    "queText": "What do we call a room at a railway station that is used for keeping luggage?",
+    "opA": "Waiting room",
+    "opB": "Platform",
+    "opC": "Cloakroom",
+    "opD": "Ticket counter",
+    "opright": "opC"
+  },
+  {
+    "queNo": "375",
+    "queText": "What subject deals with the study and collection of postage stamps?",
+    "opA": "Numismatics",
+    "opB": "Cartography",
+    "opC": "Philately",
+    "opD": "Heraldry",
+    "opright": "opC"
+  },
+  {
+    "queNo": "376",
+    "queText": "How fast can tsunami waves approximately move?",
+    "opA": "Around 100 km/h",
+    "opB": "Around 300 km/h",
+    "opC": "At over 700 km/h",
+    "opD": "Around 1000 km/h",
+    "opright": "opC"
+  },
+  {
+    "queNo": "377",
+    "queText": "What is a person who draws maps and charts professionally called?",
+    "opA": "Geographer",
+    "opB": "Surveyor",
+    "opC": "Cartographer",
+    "opD": "Topographer",
+    "opright": "opC"
+  },
+  {
+    "queNo": "378",
+    "queText": "What is a doctor who specializes in treating animals called?",
+    "opA": "Physician",
+    "opB": "Surgeon",
+    "opC": "Veterinarian",
+    "opD": "Zoologist",
+    "opright": "opC"
+  },
+  {
+    "queNo": "379",
+    "queText": "What is a person who has a great love for and collects books called?",
+    "opA": "Librarian",
+    "opB": "Author",
+    "opC": "Bibliophile",
+    "opD": "Publisher",
+    "opright": "opC"
+  },
+  {
+    "queNo": "380",
+    "queText": "What is the illegal copying and distribution of books, CDs, and cassettes often referred to as?",
+    "opA": "Plagiarism",
+    "opB": "Counterfeiting",
+    "opC": "Piracy",
+    "opD": "Theft",
+    "opright": "opC"
+  },
+  {
+    "queNo": "381",
+    "queText": "Which is often cited as the oldest living language in the world?",
+    "opA": "Greek",
+    "opB": "Sanskrit",
+    "opC": "Tamil",
+    "opD": "Hebrew",
+    "opright": "opC"
+  },
+  {
+    "queNo": "382",
+    "queText": "Which country is reported to have the largest postal network in the world?",
+    "opA": "China",
+    "opB": "USA",
+    "opC": "India",
+    "opD": "Russia",
+    "opright": "opC"
+  },
+  {
+    "queNo": "383",
+    "queText": "Which is the longest railway platform in the world according to the information?",
+    "opA": "Grand Central Terminal (USA)",
+    "opB": "Gorakhpur Railway Station (India)",
+    "opC": "Kharagpur (India)",
+    "opD": "Beijing West Railway Station (China)",
+    "opright": "opC"
+  },
+  {
+    "queNo": "384",
+    "queText": "Which is considered the world’s highest battleground?",
+    "opA": "Kargil",
+    "opB": "Siachen Glacier",
+    "opC": "Himalayan ranges",
+    "opD": "Andes Mountains",
+    "opright": "opB"
+  },
+  {
+    "queNo": "385",
+    "queText": "Which is the oldest existing English daily newspaper in India?",
+    "opA": "The Hindu",
+    "opB": "The Statesman",
+    "opC": "The Times of India",
+    "opD": "Hindustan Times",
+    "opright": "opC"
+  },
+  {
+    "queNo": "386",
+    "queText": "Which is the largest country in the world by land area?",
+    "opA": "China",
+    "opB": "Canada",
+    "opC": "USA",
+    "opD": "Russia",
+    "opright": "opD"
+  },
+  {
+    "queNo": "387",
+    "queText": "Which is the second most populated country in the world?",
+    "opA": "China",
+    "opB": "USA",
+    "opC": "India",
+    "opD": "Indonesia",
+    "opright": "opC"
+  },
+  {
+    "queNo": "388",
+    "queText": "Which religion has the largest number of followers in the world?",
+    "opA": "Islam",
+    "opB": "Hinduism",
+    "opC": "Christianity",
+    "opD": "Buddhism",
+    "opright": "opC"
+  },
+  {
+    "queNo": "389",
+    "queText": "Which is currently considered the fastest growing major religion in the world?",
+    "opA": "Hinduism",
+    "opB": "Buddhism",
+    "opC": "Islam",
+    "opD": "Sikhism",
+    "opright": "opC"
+  },
+  {
+    "queNo": "390",
+    "queText": "What is the approximate height of Mount Everest?",
+    "opA": "8,848 m",
+    "opB": "8,850 m",
+    "opC": "8,858 m",
+    "opD": "8,863 m",
+    "opright": "opB"
+  },
+  {
+    "queNo": "391",
+    "queText": "In which continent are the world’s highest mountains (including Mount Everest) primarily located?",
+    "opA": "South America",
+    "opB": "Asia",
+    "opC": "Europe",
+    "opD": "North America",
+    "opright": "opB"
+  },
+  {
+    "queNo": "392",
+    "queText": "Which is the most widely spoken language in the world by number of native speakers?",
+    "opA": "English",
+    "opB": "Spanish",
+    "opC": "Mandarin Chinese",
+    "opD": "Hindi",
+    "opright": "opC"
+  },
+  {
+    "queNo": "393",
+    "queText": "What is the highest commissioned rank in the Indian Navy?",
+    "opA": "Admiral of the Fleet",
+    "opB": "Admiral",
+    "opC": "Vice Admiral",
+    "opD": "Rear Admiral",
+    "opright": "opB"
+  },
+  {
+    "queNo": "394",
+    "queText": "What is the standard unit of sound intensity or loudness?",
+    "opA": "Hertz",
+    "opB": "Watt",
+    "opC": "Decibel",
+    "opD": "Ohm",
+    "opright": "opC"
+  },
+  {
+    "queNo": "395",
+    "queText": "How many centimeters are there in one inch?",
+    "opA": "2.45 cm",
+    "opB": "2.54 cm",
+    "opC": "2.65 cm",
+    "opD": "2.74 cm",
+    "opright": "opB"
+  },
+  {
+    "queNo": "396",
+    "queText": "Who is Sir C.V. Raman associated with in the index?",
+    "opA": "Awards",
+    "opB": "Discoveries",
+    "opC": "Nobel Prize",
+    "opD": "Scientists",
+    "opright": "opC"
+  },
+  {
+    "queNo": "397", "queText": "What is the index referring to under 'phobias'?", "opA": "Animal phobias", "opB": "Common fears", "opC": "Specific phobias", "opD": "Psychological disorders", "opright": "opC"},
+  {
+    "queNo": "398", "queText": "What category does 'commonest places' likely fall under in the index?", "opA": "Geography", "opB": "World records", "opC": "Interesting facts", "opD": "Statistics", "opright": "opA"},
+  {
+    "queNo": "399", "queText": "The index lists 'definitions' under which possible general knowledge area?", "opA": "Science", "opB": "Literature", "opC": "Important terms", "opD": "Social studies", "opright": "opC"},
+  {
+    "queNo": "400", "queText": "Under which section would information about 'planets' most likely be found according to the index?", "opA": "Geography", "opB": "History", "opC": "Science", "opD": "Space", "opright": "opC"},
+  {
+    "queNo": "401", "queText": "What does 'largest players' likely refer to in the index?", "opA": "Sports", "opB": "Economics", "opC": "World records", "opD": "Games", "opright": "opA"},
+  {
+    "queNo": "402", "queText": "Where would information about 'number of playgrounds' most probably be located?", "opA": "City planning", "opB": "Sports", "opC": "Recreation", "opD": "Education", "opright": "opB"},
+  {
+    "queNo": "403", "queText": "What general knowledge topic does 'names of population' most likely relate to?", "opA": "Demographics", "opB": "Statistics", "opC": "Geography", "opD": "Census", "opright": "opA"},
+  {
+    "queNo": "404", "queText": "Information about 'presidents of India' would be categorized under which heading?", "opA": "History", "opB": "Politics", "opC": "India", "opD": "Government", "opright": "opC"},
+  {
+    "queNo": "405", "queText": "Similarly, 'prime ministers of India' would fall under the category of?", "opA": "Biography", "opB": "Indian history", "opC": "Government of India", "opD": "Political leaders", "opright": "opC"},
+  {
+    "queNo": "406", "queText": "The index term 'professionals' directly relates to?", "opA": "Occupations", "opB": "Skills", "opC": "Education", "opD": "Achievements", "opright": "opA"},
+  {
+    "queNo": "407", "queText": "Under which broad category would 'records' likely be indexed?", "opA": "History", "opB": "Statistics", "opC": "World records", "opD": "Achievements", "opright": "opC"},
+  {
+    "queNo": "408", "queText": "The index lists 'animals India(ns)' which likely refers to?", "opA": "Indian wildlife", "opB": "Famous Indian animal lovers", "opC": "Animals found in Indian mythology", "opD": "Indian names for animals", "opright": "opA"},
+  {
+    "queNo": "409", "queText": "What could 'record makers India world' possibly refer to?", "opA": "Indian athletes with world records", "opB": "People who have set records globally and in India", "opC": "Books about record making", "opD": "Historical records of India and the world", "opright": "opB"},
+  {
+    "queNo": "410", "queText": "The index mentions 'religions countries', implying information about?", "opA": "Religious sites in different countries", "opB": "Major religions followed by country", "opC": "History of religions across nations", "opD": "Religious leaders of different countries", "opright": "opB"},
+  {
+    "queNo": "411", "queText": "Where would one likely find information related to 'rivers cities longest'?", "opA": "Rivers of the world", "opB": "Cities located on major rivers and their lengths", "opC": "Longest rivers passing through cities", "opD": "Rivers with the longest urban stretches", "opright": "opB"},
+  {
+    "queNo": "412", "queText": "The index includes 'science branches discoveries instruments', suggesting a section on?", "opA": "History of scientific instruments", "opB": "Various fields of science and their key discoveries and tools", "opC": "Biographies of famous scientists", "opD": "Scientific research institutions", "opright": "opB"},
+  {
+    "queNo": "413", "queText": "'Inventions planets' as an index entry likely refers to?", "opA": "Planetary science discoveries", "opB": "Inventions related to space travel", "opC": "Discoveries of planets and related inventions", "opD": "Inventions named after planets", "opright": "opC"},
+  {
+    "queNo": "414", "queText": "Under what category would 'seas, largest' be found?", "opA": "Oceanography", "opB": "Geography", "opC": "Marine biology", "opD": "World records", "opright": "opB"},
+  {
+    "queNo": "415", "queText": "The index mentions 'Sen, Dr. Amartya' under?", "opA": "Indian scientists", "opB": "Economists", "opC": "Nobel laureates", "opD": "Famous personalities", "opright": "opC"},
+  {
+    "queNo": "416", "queText": "'Seven Wonders sites, famous India world' likely points to a section on?", "opA": "Ancient wonders of India and the world", "opB": "Famous landmarks considered wonders across India and globally", "opC": "Historical sites that are UNESCO World Heritage wonders", "opD": "Architectural marvels of the seven wonders in different countries", "opright": "opB"},
+  {
+    "queNo": "417", "queText": "Where would information on 'slogans' be located?", "opA": "History", "opB": "Famous quotes", "opC": "National symbols", "opD": "Political science", "opright": "opB"},
+  {
+    "queNo": "418", "queText": "The index entry 'snakes, deadliest' suggests a section about?", "opA": "Reptiles of the world", "opB": "Dangerous animals", "opC": "Most venomous snakes", "opD": "Snake bites and their treatments", "opright": "opC"},
+  {
+    "queNo": "419", "queText": "Information on 'Soccer, World Cup' would be found under?", "opA": "International sports", "opB": "Football history", "opC": "World Cup tournaments", "opD": "Major sporting events", "opright": "opC"},
+  {
+    "queNo": "420", "queText": "The index lists 'sports cups and trophies' under?", "opA": "Sports history", "opB": "Achievements in sports", "opC": "Major sports awards", "opD": "Specific sports tournaments", "opright": "opC"},
+  {
+    "queNo": "421", "queText": "'Sports measurements' likely refers to?", "opA": "Records in different sports", "opB": "Dimensions of playing fields and equipment", "opC": "Units used in sports statistics", "opD": "Training regimes for athletes", "opright": "opB"},
+  {
+    "queNo": "422", "queText": "Where would details on 'sports stadiums' be located?", "opA": "Sports infrastructure", "opB": "Famous sports venues", "opC": "History of sports events", "opD": "Architecture of stadiums", "opright": "opB"},
+  {
+    "queNo": "423", "queText": "The index includes 'United Nations' which relates to?", "opA": "International law", "opB": "World politics", "opC": "Global organizations", "opD": "Diplomacy", "opright": "opC"},
+  {
+    "queNo": "424", "queText": "'Units of measurements' as an index entry would cover?", "opA": "Mathematical formulas", "opB": "Different systems of measurement", "opC": "Scientific constants", "opD": "Engineering principles", "opright": "opB"},
+  {
+    "queNo": "425", "queText": "Information about 'vitamins' would be found under?", "opA": "Biology", "opB": "Health and nutrition", "opC": "Chemistry", "opD": "Human body", "opright": "opB"},
+  {
+    "queNo": "426", "queText": "'Waterfalls, highest' suggests a section on?", "opA": "Geography", "opB": "World records", "opC": "Natural wonders", "opD": "Hydrology", "opright": "opB"},
+  {
+    "queNo": "427", "queText": "'World Cup cricket' would be found under?", "opA": "Cricket history", "opB": "Major cricket tournaments", "opC": "International sports events", "opD": "Team sports", "opright": "opB"},
+  {
+    "queNo": "428", "queText": "Similarly, 'World Cup soccer' relates to?", "opA": "Football rules", "opB": "Major football tournaments", "opC": "History of soccer", "opD": "Famous soccer players", "opright": "opB"},
+  {
+    "queNo": "429", "queText": "'World Records held by India(ns)' directly refers to?", "opA": "Indian history", "opB": "Global achievements of Indians", "opC": "Indian sports records", "opD": "National statistics of India", "opright": "opB"},
+  {
+    "queNo": "430",
+    "queText": "Who is the author of '1984' listed under bestselling eBooks?",
+    "opA": "Jane Austen",
+    "opB": "George Orwell",
+    "opC": "Aldous Huxley",
+    "opD": "H.G. Wells",
+    "opright": "opB"
+  },
+  {
+    "queNo": "431",
+    "queText": "Which book by Sumrit Shahi is mentioned in the bestselling eBooks?",
+    "opA": "The Girl in Room 105",
+    "opB": "A Lot like Love",
+    "opC": "Revolution 2020",
+    "opD": "One Indian Girl",
+    "opright": "opB"
+  },
+  {
+    "queNo": "432",
+    "queText": "'Animal Farm' is a bestselling eBook written by?",
+    "opA": "E.M. Forster",
+    "opB": "George Orwell",
+    "opC": "Aldous Huxley",
+    "opD": "Orhan Pamuk",
+    "opright": "opB"
+  },
+  {
+    "queNo": "433",
+    "queText": "'Gitanjali' by which author is listed as a bestselling eBook?",
+    "opA": "Vikram Seth",
+    "opB": "Rabindranath Tagore",
+    "opC": "Arundhati Roy",
+    "opD": "Salman Rushdie",
+    "opright": "opB"
+  },
+  {
+    "queNo": "434",
+    "queText": "'How to Analyze People on Sight' is a bestselling eBook by?",
+    "opA": "Dale Carnegie",
+    "opB": "Elsie Lincoln Benedict and Ralph Paine Benedict",
+    "opC": "Napoleon Hill",
+    "opD": "Stephen Covey",
+    "opright": "opB"
+  },
+  {
+    "queNo": "435",
+    "queText": "Which book by Rochak Bhatnagar is among the bestselling eBooks?",
+    "opA": "The Theory of Everything",
+    "opB": "Love Happens only Once",
+    "opC": "Half Girlfriend",
+    "opD": "The White Tiger",
+    "opright": "opB"
+  },
+  {
+    "queNo": "436",
+    "queText": "'Mein Kampf (My Struggle)' a bestselling eBook was written by?",
+    "opA": "Joseph Stalin",
+    "opB": "Adolf Hitler",
+    "opC": "Benito Mussolini",
+    "opD": "Winston Churchill",
+    "opright": "opB"
+  },
+  {
+    "queNo": "437",
+    "queText": "'Muhammad: The Last Prophet of Islam' is a bestselling eBook by?",
+    "opA": "Karen Armstrong",
+    "opB": "G.M. Draycott",
+    "opC": "Tariq Ramadan",
+    "opD": "Reza Aslan",
+    "opright": "opB"
+  },
+  {
+    "queNo": "438",
+    "queText": "'My Experiments with Truth' a bestselling eBook is the autobiography of?",
+    "opA": "Jawaharlal Nehru",
+    "opB": "Sardar Vallabh Bhai Patel",
+    "opC": "M.K. Gandhi",
+    "opD": "Subhas Chandra Bose",
+    "opright": "opC"
+  },
+  {
+    "queNo": "439",
+    "queText": "Another bestselling eBook by Rochak Bhatnagar listed is?",
+    "opA": "Two States",
+    "opB": "Five Point Someone",
+    "opC": "One Life One Love",
+    "opD": "The Immortals of Meluha",
+    "opright": "opC"
+  },
+  {
+    "queNo": "440",
+    "queText": "'Relativity' as a bestselling eBook is authored by?",
+    "opA": "Stephen Hawking",
+    "opB": "Isaac Newton",
+    "opC": "Albert Einstein",
+    "opD": "Galileo Galilei",
+    "opright": "opC"
+  },
+  {
+    "queNo": "441",
+    "queText": "'Selected Stories of Rabindranath Tagore' is mentioned as a?",
+    "opA": "Famous poem",
+    "opB": "Bestselling eBook",
+    "opC": "Classic play",
+    "opD": "Historical document",
+    "opright": "opB"
+  },
+  {
+    "queNo": "442",
+    "queText": "'Siddhartha' a bestselling eBook is written by?",
+    "opA": "Hermann Hesse",
+    "opB": "Gabriel Garcia Marquez",
+    "opC": "Milan Kundera",
+    "opD": "Haruki Murakami",
+    "opright": "opA"
+  },
+  {
+    "queNo": "443",
+    "queText": "'The Art of War' a bestselling eBook is attributed to?",
+    "opA": "Machiavelli",
+    "opB": "Clausewitz",
+    "opC": "Sun Tzu",
+    "opD": "Julius Caesar",
+    "opright": "opC"
+  },
+  {
+    "queNo": "444",
+    "queText": "'The Autobiography of a Yogi' by which author is a bestselling eBook?",
+    "opA": "Swami Vivekananda",
+    "opB": "Paramahansa Yogananda",
+    "opC": "Sri Aurobindo",
+    "opD": "Ramakrishna Paramahansa",
+    "opright": "opB"
+  },
+  {
+    "queNo": "445",
+    "queText": "'The Bhagavad Gita' translated by whom is listed as a bestselling eBook?",
+    "opA": "Sarvepalli Radhakrishnan",
+    "opB": "Sir Edwin Arnold",
+    "opC": "Swami Prabhavananda",
+    "opD": "Mahatma Gandhi",
+    "opright": "opB"
+  },
+  {
+    "queNo": "446",
+    "queText": "'Thirty Year Old Virgin' is a bestselling eBook by?",
+    "opA": "Chetan Bhagat",
+    "opB": "Ankit Uttam",
+    "opC": "Durjoy Datta",
+    "opD": "Ravinder Singh",
+    "opright": "opB"
+  },
+  {
+    "queNo": "447",
+    "queText": "'Uff Ye Emotions 2' a bestselling eBook is written by?",
+    "opA": "Preeti Shenoy",
+    "opB": "Vinit K. Bansal",
+    "opC": "Sudeep Nagarkar",
+    "opD": "Ira Trivedi",
+    "opright": "opB"
+  },
+  {
+    "queNo": "448",
+    "queText": "The publisher of this encyclopedia is:",
+    "opA": "Azeem Ahmad Khan",
+    "opB": "Amazon Kindle",
+    "opC": "General Press",
+    "opD": "Flipkart",
+    "opright": "opC"
+  },
+  {
+    "queNo": "449",
+    "queText": "The Student’s Encyclopedia of General Knowledge was first published in the year:",
+    "opA": "2015",
+    "opB": "2010",
+    "opC": "2007",
+    "opD": "2005",
+    "opright": "opC"
+  },
+  {
+    "queNo": "450",
+    "queText": "According to the source, for which classes is this encyclopedia particularly useful?",
+    "opA": "IX to XII",
+    "opB": "VI to X",
+    "opC": "III to VIII",
+    "opD": "I to V",
+    "opright": "opC"
+  },
+  {
+    "queNo": "451",
+    "queText": "The encyclopedia aims to provide data in a(n):",
+    "opA": "Highly technical manner",
+    "opB": "Easily accessible format",
+    "opC": "Detailed and lengthy manner",
+    "opD": "Chronological order",
+    "opright": "opB"
+  },
+  {
+    "queNo": "452",
+    "queText": "The content of the book covers subjects including:",
+    "opA": "Only history and geography",
+    "opB": "Only science and technology",
+    "opC": "Language & literature, sports & culture, history & geography, etc.",
+    "opD": "Only current affairs",
+    "opright": "opC"
+  },
+  {
+    "queNo": "453",
+    "queText": "What type of boxes containing interesting facts are featured in the encyclopedia?",
+    "opA": "Fact File",
+    "opB": "Did You Know",
+    "opC": "Believe It or Not",
+    "opD": "Amazing Facts",
+    "opright": "opC"
+  },
+  {
+    "queNo": "454",
+    "queText": "The encyclopedia includes a quiz containing how many important questions?",
+    "opA": "100",
+    "opB": "150",
+    "opC": "200",
+    "opD": "250",
+    "opright": "opC"
+  },
+  {
+    "queNo": "455",
+    "queText": "What helps in quickly finding a topic in the Student’s Encyclopedia of General Knowledge?",
+    "opA": "Table of Contents at the beginning",
+    "opB": "Glossary at the end of each chapter",
+    "opC": "Comprehensive index at the end",
+    "opD": "List of illustrations",
+    "opright": "opC"
+  },
+  {
+    "queNo": "456",
+    "queText": "The encyclopedia is planned to be updated and revised:",
+    "opA": "Every two years",
+    "opB": "Every five years",
+    "opC": "Annually",
+    "opD": "Occasionally as needed",
+    "opright": "opC"
+  },
+  {
+    "queNo": "457",
+    "queText": "Responses and suggestions for improvement of the book are welcomed by the editors via:",
+    "opA": "Postal mail only",
+    "opB": "Telephone only",
+    "opC": "E-mail at generalpressindia@gmail.com",
+    "opD": "In-person meetings",
+    "opright": "opC"
+  },
+  {
+    "queNo": "458",
+    "queText": "The ninth edition of the Student’s Encyclopedia of General Knowledge was published in:",
+    "opA": "2007",
+    "opB": "2010",
+    "opC": "2013",
+    "opD": "2015",
+    "opright": "opD"
+  },
+  {
+    "queNo": "459",
+    "queText": "The ISBN for the Student’s Encyclopedia of General Knowledge is:",
+    "opA": "9788190276696",
+    "opB": "9789380914701",
+    "opC": "9789380914190",
+    "opD": "9789380914947",
+    "opright": "opC"
+  },
+  {
+    "queNo": "460",
+    "queText": "The copyright for the publication of the Student’s Encyclopedia of General Knowledge is held by:",
+    "opA": "Azeem Ahmad Khan",
+    "opB": "General Press",
+    "opC": "Amazon Kindle",
+    "opD": "Kobo",
+    "opright": "opB"
+  },
+  {
+    "queNo": "461",
+    "queText": "Purchase of eBooks of General Press can be made from platforms such as:",
+    "opA": "Google Books only",
+    "opB": "Amazon Kindle, Kobo, Flipkart",
+    "opC": "Physical bookstores only",
+    "opD": "Directly from the publisher only",
+    "opright": "opB"
+  },
+  {
+    "queNo": "462",
+    "queText": "The encyclopedia is described as 'a book like no other' because it is:",
+    "opA": "Very expensive",
+    "opB": "Completely up-to-date and brings a wealth of information",
+    "opC": "Published in multiple volumes",
+    "opD": "Written by many authors",
+    "opright": "opB"
+  },
+  {
+    "queNo": "463",
+    "queText": "The information in the encyclopedia is sourced from:",
+    "opA": "Only internet sources",
+    "opB": "Only official government releases",
+    "opC": "Encyclopedias, fact books, yearbooks, official releases, internet, and other reliable sources",
+    "opD": "Mainly personal opinions of the author",
+    "opright": "opC"
+  },
+  {
+    "queNo": "464",
+    "queText": "The design of the book is intended to be:",
+    "opA": "Complex and detailed",
+    "opB": "Alphabetical in entries and clear",
+    "opC": "Thematic with cross-references",
+    "opD": "Random for browsing",
+    "opright": "opB"
+  },
+  {
+    "queNo": "465",
+    "queText": "The illustrations in the book are described as:",
+    "opA": "Few and simple",
+    "opB": "Lavish and spectacular",
+    "opC": "Mainly black and white",
+    "opD": "Abstract and symbolic",
+    "opright": "opB"
+  },
+  {
+    "queNo": "466",
+    "queText": "The author of the Student’s Encyclopedia of General Knowledge is:",
+    "opA": "General Press",
+    "opB": "Azeem Ahmad Khan",
+    "opC": "A team of editors",
+    "opD": "Unknown",
+    "opright": "opB"
+  },
+  {
+    "queNo": "467",
+    "queText": "The book is recommended for which group besides students?",
+    "opA": "Politicians",
+    "opB": "Businessmen",
+    "opC": "Teachers and parents",
+    "opD": "Scientists",
+    "opright": "opC"
+  },
+  {
+    "queNo": "468",
+    "queText": "The preface suggests that recommending this book can help students:",
+    "opA": "Improve their handwriting",
+    "opB": "Broaden their field of knowledge",
+    "opC": "Develop artistic skills",
+    "opD": "Enhance physical fitness",
+    "opright": "opB"
+  },
+  {
+    "queNo": "469",
+    "queText": "The publisher's contact email is provided for:",
+    "opA": "Ordering more copies of the book",
+    "opB": "Sending feedback and suggestions",
+    "opC": "Inquiring about job opportunities",
+    "opD": "Submitting articles for publication",
+    "opright": "opB"
+  },
+  {
+    "queNo": "470",
+    "queText": "The encyclopedia aims to be a useful source of:",
+    "opA": "Fiction and stories",
+    "opB": "Information and reference",
+    "opC": "Personal opinions and essays",
+    "opD": "Advanced scientific theories",
+    "opright": "opB"
+  },
+  {
+    "queNo": "471",
+    "queText": "The alphabetical order of entries in each chapter aims to make the book:",
+    "opA": "More challenging to use",
+    "opB": "An outstanding reference work",
+    "opC": "Suitable for advanced readers",
+    "opD": "Lengthier and more detailed",
+    "opright": "opB"
+  },
+  {
+    "queNo": "472",
+    "queText": "The accuracy of information in the book is ensured by:",
+    "opA": "Relying on a single primary source",
+    "opB": "Verification for accuracy from several reliable sources",
+    "opC": "Including only well-known facts",
+    "opD": "Avoiding controversial topics",
+    "opright": "opB"
+  },
+  {
+    "queNo": "473",
+    "queText": "The 'Believe It or Not' boxes are intended to contain:",
+    "opA": "Common knowledge",
+    "opB": "Complex scientific explanations",
+    "opC": "Interesting and amazing facts",
+    "opD": "Historical anecdotes",
+    "opright": "opC"
+  },
+  {
+    "queNo": "474",
+    "queText": "The quiz at the end of the book serves as a way to:",
+    "opA": "Test reading speed",
+    "opB": "Assess artistic talent",
+    "opC": "Test your knowledge based on the book's contents",
+    "opD": "Provide additional detailed information",
+    "opright": "opC"
+  }
+]

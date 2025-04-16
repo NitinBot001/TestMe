@@ -1,0 +1,3431 @@
+[
+  {
+    "queNo": "1",
+    "queText": "Which of the following is primarily used for web page designing?",
+    "opA": "Java Script",
+    "opB": "PHP",
+    "opC": "HTML",
+    "opD": "Extensible Markup Language",
+    "opright": "opC"
+  },
+  {
+    "queNo": "2",
+    "queText": "Java Script is which type of software language?",
+    "opA": "Hardware Language",
+    "opB": "Machine Language",
+    "opC": "System Language",
+    "opD": "Software Language",
+    "opright": "opD"
+  },
+  {
+    "queNo": "3",
+    "queText": "What are web pages displayed within a web browser called?",
+    "opA": "Windows",
+    "opB": "Frames",
+    "opC": "Panels",
+    "opD": "Sections",
+    "opright": "opB"
+  },
+  {
+    "queNo": "4",
+    "queText": "Utilizing internet-connected services and resources by a computer is known as?",
+    "opA": "Network Surfing",
+    "opB": "Web Browsing",
+    "opC": "Cloud Computing",
+    "opD": "Remote Access",
+    "opright": "opC"
+  },
+  {
+    "queNo": "5",
+    "queText": "Which of the following provides the facility to search for something on the internet?",
+    "opA": "Web Browser",
+    "opB": "Search Engine",
+    "opC": "Operating System",
+    "opD": "Network Protocol",
+    "opright": "opB"
+  },
+  {
+    "queNo": "6",
+    "queText": "Facebook and Myspace are examples of which type of online platform?",
+    "opA": "Education Website",
+    "opB": "Advocacy Website",
+    "opC": "Online Social Network",
+    "opD": "E-commerce Website",
+    "opright": "opC"
+  },
+  {
+    "queNo": "7",
+    "queText": "What type of website allows users to gain online knowledge for studies?",
+    "opA": "Social Networking Website",
+    "opB": "Educational Website",
+    "opC": "Entertainment Website",
+    "opD": "Government Website",
+    "opright": "opB"
+  },
+  {
+    "queNo": "8",
+    "queText": "A website presenting views and suggestions of a specific group or organization is known as?",
+    "opA": "Personal Blog",
+    "opB": "Forum",
+    "opC": "Advocacy Website",
+    "opD": "News Portal",
+    "opright": "opC"
+  },
+  {
+    "queNo": "9",
+    "queText": "A web application allows users to perform tasks over the internet using which of the following?",
+    "opA": "Operating System only",
+    "opB": "Web Browser, Computer, and any Device",
+    "opC": "Specific Software only",
+    "opD": "Network Hardware only",
+    "opright": "opB"
+  },
+  {
+    "queNo": "10",
+    "queText": "Which of the following are examples of web applications?",
+    "opA": "Microsoft Word and Excel",
+    "opB": "Google Docs (Word Processing, Spreadsheet) and Windows Live Hotmail (E-mail)",
+    "opC": "Adobe Photoshop and Illustrator",
+    "opD": "Zoom and Skype",
+    "opright": "opB"
+  },
+  {
+    "queNo": "11",
+    "queText": "In a phrase search, how are the words enclosed?",
+    "opA": "Square brackets [ ]",
+    "opB": "Curly braces { }",
+    "opC": "Inverted commas “ ”",
+    "opD": "Parentheses ( )",
+    "opright": "opC"
+  },
+  {
+    "queNo": "12",
+    "queText": "What is a 'Wild Card' in the context of searching?",
+    "opA": "A type of internet protocol",
+    "opB": "A specific sign used with keywords during information or web page search",
+    "opC": "A method for encrypting search queries",
+    "opD": "A feature to filter search results",
+    "opright": "opB"
+  },
+  {
+    "queNo": "13",
+    "queText": "Which of the following are examples of Wild Card characters?",
+    "opA": "@ and #",
+    "opB": "$ and %",
+    "opC": "? and *",
+    "opD": "& and +",
+    "opright": "opC"
+  },
+  {
+    "queNo": "14",
+    "queText": "What is 'Ping' used for in the context of the internet?",
+    "opA": "To measure download speed",
+    "opB": "To check the response time taken to acknowledge a server on the internet",
+    "opC": "To test the strength of a Wi-Fi signal",
+    "opD": "To clear browser cache and cookies",
+    "opright": "opB"
+  },
+  {
+    "queNo": "15",
+    "queText": "What does 'Ping' primarily check regarding a specific IP address computer or process?",
+    "opA": "Bandwidth capacity",
+    "opB": "Software compatibility",
+    "opC": "Availability",
+    "opD": "CPU usage",
+    "opright": "opC"
+  },
+  {
+    "queNo": "16",
+    "queText": "Cloud computing is a technology where data and programs are stored and accessed via?",
+    "opA": "Local Hard Drive",
+    "opB": "Physical Server in the Office",
+    "opC": "Internet",
+    "opD": "External Storage Device",
+    "opright": "opC"
+  },
+  {
+    "queNo": "17",
+    "queText": "In cloud computing, where is your data essentially stored?",
+    "opA": "On your personal computer's hard disk",
+    "opB": "On a single remote server",
+    "opC": "In the 'Cloud', which consists of many large computers (Servers)",
+    "opD": "On a network of personal devices",
+    "opright": "opC"
+  },
+  {
+    "queNo": "18",
+    "queText": "Which of the following is a Hindi term used for 'Cloud' in the context of cloud computing?",
+    "opA": "Pani",
+    "opB": "Badal",
+    "opC": "Dharti",
+    "opD": "Suraj",
+    "opright": "opB"
+  },
+  {
+    "queNo": "19",
+    "queText": "Which of the following are examples of cloud computing services?",
+    "opA": "Microsoft Office Suite (desktop version)",
+    "opB": "Adobe Photoshop (installed software)",
+    "opC": "Google Cloud, Amazon AWS, and Microsoft Azure",
+    "opD": "Local Area Network (LAN)",
+    "opright": "opC"
+  },
+  {
+    "queNo": "20",
+    "queText": "What is the function of a cookie in web browsing?",
+    "opA": "To encrypt internet traffic",
+    "opB": "To block unauthorized access to websites",
+    "opC": "To connect a web server to a web browser so the server can monitor user activity on a website",
+    "opD": "To manage browser history and bookmarks",
+    "opright": "opC"
+  },
+  {
+    "queNo": "21",
+    "queText": "Ricochet is described as which type of computer architecture?",
+    "opA": "Client-Server Architecture",
+    "opB": "Peer-to-Peer Architecture",
+    "opC": "Network Architecture designed for high-speed wireless networks",
+    "opD": "Mainframe Architecture",
+    "opright": "opC"
+  },
+  {
+    "queNo": "22",
+    "queText": "What are input units in a computer used for?",
+    "opA": "To display processed information",
+    "opB": "To store data permanently",
+    "opC": "To convert data into a computer-understandable format",
+    "opD": "To connect to the internet",
+    "opright": "opC"
+  },
+  {
+    "queNo": "23",
+    "queText": "Input units convert signals, characters, and digits into which form for the CPU?",
+    "opA": "Analog Signals",
+    "opB": "Hexadecimal Code",
+    "opC": "Binary Digit (0 and 1)",
+    "opD": "Alphanumeric Characters",
+    "opright": "opC"
+  },
+  {
+    "queNo": "24",
+    "queText": "Online or Direct Data Entry Devices allow direct entry of which types of data?",
+    "opA": "Only numerical data",
+    "opB": "Only alphabetic data",
+    "opC": "Text Document, Image, Audio, and Control Signals",
+    "opD": "Only video data",
+    "opright": "opC"
+  },
+  {
+    "queNo": "25",
+    "queText": "What can be inferred about the scope of data that can be input into a computer?",
+    "opA": "It is limited to specific formats.",
+    "opB": "It is restricted by the computer's processing speed.",
+    "opC": "There is no limit to the nature and type of data that can be input.",
+    "opD": "It depends on the operating system installed.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "26",
+    "queText": "Input to a computer can be in various forms, such as?",
+    "opA": "Only typed text.",
+    "opB": "Only images and videos.",
+    "opC": "Text, images, audio like songs.",
+    "opD": "Only binary code.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "27",
+    "queText": "For efficient data input, the selection of an appropriate input device should aim for what?",
+    "opA": "Maximum cost and complexity.",
+    "opB": "Reduced accuracy and increased human interaction.",
+    "opC": "Improved accuracy and minimum human contact.",
+    "opD": "Limited functionality and maximum manual operation.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "28",
+    "queText": "How does the number of keys on different keyboards generally vary?",
+    "opA": "All keyboards have the same number of keys.",
+    "opB": "The number of keys is fixed at 101.",
+    "opC": "The number of keys varies.",
+    "opD": "It depends on the brand of the computer.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "29",
+    "queText": "What is the standard number of keys in a modern keyboard?",
+    "opA": "84 keys",
+    "opB": "101 keys",
+    "opC": "104 keys",
+    "opD": "108 keys",
+    "opright": "opC"
+  },
+  {
+    "queNo": "30",
+    "queText": "The arrangement of keys in the top row of alphabetic keys on a standard keyboard is known as?",
+    "opA": "ASDFGHJKL",
+    "opB": "ZXCVBNM",
+    "opC": "QWERTY",
+    "opD": "POIUYTREWQ",
+    "opright": "opC"
+  },
+  {
+    "queNo": "31",
+    "queText": "A keyboard is most commonly known for its use in?",
+    "opA": "Playing video games.",
+    "opB": "Controlling multimedia playback.",
+    "opC": "Typing letters, reports, and using word processing software.",
+    "opD": "Navigating through web pages.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "32",
+    "queText": "What is the main advantage of using a scanner?",
+    "opA": "It allows faster data processing.",
+    "opB": "The user does not need to type data.",
+    "opC": "It provides higher storage capacity.",
+    "opD": "It improves the accuracy of calculations.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "33",
+    "queText": "Based on their shape and function, how many main types of scanners are mentioned?",
+    "opA": "Two",
+    "opB": "Three",
+    "opC": "Four",
+    "opD": "Five",
+    "opright": "opB"
+  },
+  {
+    "queNo": "34",
+    "queText": "Photocopier-like scanners where the page is placed on a glass bed for scanning are called?",
+    "opA": "Hand held scanners",
+    "opB": "Drum scanners",
+    "opC": "Flatbed scanners",
+    "opD": "Sheet-fed scanners",
+    "opright": "opC"
+  },
+  {
+    "queNo": "35",
+    "queText": "Which component is commonly used in flatbed scanners in the form of an image sensor?",
+    "opA": "Cathode Ray Tube (CRT)",
+    "opB": "Charge Coupled Device (CCD)",
+    "opC": "Liquid Crystal Display (LCD)",
+    "opD": "Light Emitting Diode (LED)",
+    "opright": "opB"
+  },
+  {
+    "queNo": "36",
+    "queText": "Small, manually operated scanners used for reading items like bar codes are known as?",
+    "opA": "Flatbed scanners",
+    "opB": "Drum scanners",
+    "opC": "Hand held scanners",
+    "opD": "Optical character readers",
+    "opright": "opC"
+  },
+  {
+    "queNo": "37",
+    "queText": "Which type of scanner is known for providing the highest resolution from an image?",
+    "opA": "Flatbed scanner",
+    "opB": "Hand held scanner",
+    "opC": "Drum scanner",
+    "opD": "Sheet-fed scanner",
+    "opright": "opC"
+  },
+  {
+    "queNo": "38",
+    "queText": "A bar code consists of a series of?",
+    "opA": "Colored blocks of varying sizes",
+    "opB": "Thin and thick lines",
+    "opC": "Alphanumeric characters in a specific font",
+    "opD": "A matrix of black and white dots",
+    "opright": "opB"
+  },
+  {
+    "queNo": "39",
+    "queText": "In a bar code, the coding of the lines is determined by which of their properties?",
+    "opA": "Length",
+    "opB": "Color",
+    "opC": "Thickness",
+    "opD": "Spacing",
+    "opright": "opC"
+  },
+  {
+    "queNo": "40",
+    "queText": "What device is used for reading bar codes?",
+    "opA": "Optical Character Reader (OCR)",
+    "opB": "Magnetic Ink Character Recognition (MICR)",
+    "opC": "Bar Code Reader",
+    "opD": "Digital Scanner",
+    "opright": "opC"
+  },
+  {
+    "queNo": "41",
+    "queText": "Clicking the right button of a mouse typically displays what?",
+    "opA": "The properties window",
+    "opB": "A special menu",
+    "opC": "The desktop icons",
+    "opD": "The start menu",
+    "opright": "opB"
+  },
+  {
+    "queNo": "42",
+    "queText": "How many times does one need to click the mouse to select a word?",
+    "opA": "Once",
+    "opB": "Twice",
+    "opC": "Thrice",
+    "opD": "Four times",
+    "opright": "opB"
+  },
+  {
+    "queNo": "43",
+    "queText": "Double-clicking the mouse provides information to which unit in a computer?",
+    "opA": "ALU",
+    "opB": "RAM",
+    "opC": "CPU",
+    "opD": "ROM",
+    "opright": "opC"
+  },
+  {
+    "queNo": "44",
+    "queText": "What type of content can a scanner scan?",
+    "opA": "Only pictures",
+    "opB": "Only text",
+    "opC": "Both pictures and text",
+    "opD": "Only audio files",
+    "opright": "opC"
+  },
+  {
+    "queNo": "45",
+    "queText": "Which device is used to input printed diagrams into a computer?",
+    "opA": "Printer",
+    "opB": "Scanner",
+    "opC": "Plotter",
+    "opD": "Digitizer",
+    "opright": "opB"
+  },
+  {
+    "queNo": "46",
+    "queText": "What is the full form of CAPTCHA?",
+    "opA": "Completely Automated Public Technical Achievement for Computers and Humans",
+    "opB": "Completely Automated Public Turing Test to tell Computers and Humans Apart",
+    "opC": "Computerized Automated Program for Testing Computer and Human Ability",
+    "opD": "Certified Automated Protocol for Total Computer and Human Authentication",
+    "opright": "opB"
+  },
+  {
+    "queNo": "47",
+    "queText": "What is the printed output of a document called?",
+    "opA": "Soft copy",
+    "opB": "Hard copy",
+    "opC": "Digital print",
+    "opD": "Electronic document",
+    "opright": "opB"
+  },
+  {
+    "queNo": "48",
+    "queText": "The collection of all electronic work related to an image created on the screen is managed by?",
+    "opA": "System Software",
+    "opB": "Application Software",
+    "opC": "Video Controller",
+    "opD": "Graphics Card",
+    "opright": "opC"
+  },
+  {
+    "queNo": "49",
+    "queText": "Which of the following is a three-finger salute 'key' combination commonly used in computers?",
+    "opA": "Ctrl + Shift + Esc",
+    "opB": "Alt + Tab + Delete",
+    "opC": "Ctrl + Alt + Delete",
+    "opD": "Shift + Ctrl + Tab",
+    "opright": "opC"
+  },
+  {
+    "queNo": "50",
+    "queText": "What is the printing material commonly used in a thermal printer?",
+    "opA": "Normal paper",
+    "opB": "Thermal sensitive paper",
+    "opC": "Glossy paper",
+    "opD": "Recycled paper",
+    "opright": "opB"
+  },
+  {
+    "queNo": "51",
+    "queText": "Artificial Intelligence models are often trained and tested using what type of data initially?",
+    "opA": "Real-time data",
+    "opB": "Live data streams",
+    "opC": "Training data",
+    "opD": "User-generated content",
+    "opright": "opC"
+  },
+  {
+    "queNo": "52",
+    "queText": "What is the term used for algorithms that AI uses for making predictions?",
+    "opA": "Protocols",
+    "opB": "Models",
+    "opC": "Functions",
+    "opD": "Variables",
+    "opright": "opB"
+  },
+  {
+    "queNo": "53",
+    "queText": "When are AI models considered ready for use with new and unknown data for predictions?",
+    "opA": "After a single training session.",
+    "opB": "When they can produce results with an acceptable level of accuracy after repeated training and testing.",
+    "opC": "Immediately after the model is created.",
+    "opD": "When the model is deployed on a specific platform.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "54",
+    "queText": "Natural Language Processing (NLP) is an example of which broad category of technologies?",
+    "opA": "Software Development Tools",
+    "opB": "Network Security Measures",
+    "opC": "Emerging Technologies",
+    "opD": "Database Management Systems",
+    "opright": "opC"
+  },
+  {
+    "queNo": "55",
+    "queText": "Predictive typing and spell check features in search engines are examples of?",
+    "opA": "Machine Learning",
+    "opB": "Deep Learning",
+    "opC": "Natural Language Processing",
+    "opD": "Data Analytics",
+    "opright": "opC"
+  },
+  {
+    "queNo": "56",
+    "queText": "Natural Language Processing facilitates interaction between which two entities?",
+    "opA": "Hardware and Software",
+    "opB": "Internet and Websites",
+    "opC": "Humans and Computers through spoken human languages",
+    "opD": "Servers and Clients",
+    "opright": "opC"
+  },
+  {
+    "queNo": "57",
+    "queText": "Big Data is characterized by not only voluminous data but also data that is often?",
+    "opA": "Highly structured and easily organized.",
+    "opB": "Stored in traditional relational databases.",
+    "opC": "Unstructured, such as social media posts and opinions.",
+    "opD": "Small in size but high in velocity.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "58",
+    "queText": "Besides volume, what other characteristics are commonly associated with Big Data?",
+    "opA": "Only variety and velocity.",
+    "opB": "Variety, velocity, integration, storage, analysis, search, processing, transformation, querying, and visualization.",
+    "opC": "Only accuracy and completeness.",
+    "opD": "Only real-time processing and security.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "59",
+    "queText": "Big Data can sometimes contain 'rich information' and 'knowledge' that holds?",
+    "opA": "Minimal business value.",
+    "opB": "High business value.",
+    "opC": "Only academic interest.",
+    "opD": "No practical application.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "60",
+    "queText": "What is the primary goal of Data Analytics?",
+    "opA": "To secure data from unauthorized access.",
+    "opB": "To design efficient database systems.",
+    "opC": "To examine data sets with the help of specialized processes and software to draw conclusions about the information they contain.",
+    "opD": "To develop new programming languages.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "61",
+    "queText": "In which sector is Data Analytics commonly used to make more informed business decisions?",
+    "opA": "Only in scientific research.",
+    "opB": "Only in government organizations.",
+    "opC": "In commercial industries and organizations.",
+    "opD": "Only in educational institutions.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "62",
+    "queText": "In the field of science and technology, how can Data Analytics be useful for researchers?",
+    "opA": "To replace traditional experimental methods.",
+    "opB": "To validate or invalidate scientific models, theories, and hypotheses.",
+    "opC": "To generate random data for simulations.",
+    "opD": "To automate the process of literature review.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "63",
+    "queText": "Pandas is a library of which programming language, used to simplify data analysis?",
+    "opA": "Java",
+    "opB": "C++",
+    "opC": "Python",
+    "opD": "R",
+    "opright": "opC"
+  },
+  {
+    "queNo": "64",
+    "queText": "What is the Internet of Things (IoT) described as?",
+    "opA": "A new type of internet protocol.",
+    "opB": "A network of devices with embedded hardware and software for communication and data exchange.",
+    "opC": "A cloud-based platform for data storage.",
+    "opD": "A system for secure online transactions.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "65",
+    "queText": "Cloud Computing is considered what type of technology in the information technology sector?",
+    "opA": "An outdated technology.",
+    "opB": "A completely new and untested technology.",
+    "opC": "An emerging new technology.",
+    "opD": "A niche technology for specialized applications.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "66",
+    "queText": "In cloud computing, computing-based services are delivered over which network?",
+    "opA": "Local Area Network (LAN)",
+    "opB": "Wide Area Network (WAN)",
+    "opC": "Internet or Cloud",
+    "opD": "Bluetooth",
+    "opright": "opC"
+  },
+  {
+    "queNo": "67",
+    "queText": "Cloud computing allows access to resources located at distant locations for whom?",
+    "opA": "Only for large corporations.",
+    "opB": "For anyone.",
+    "opC": "Only for government organizations.",
+    "opD": "Only for educational institutions.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "68",
+    "queText": "Which of the following are included in cloud computing services?",
+    "opA": "Only software applications.",
+    "opB": "Software, hardware (servers), databases, storage, etc.",
+    "opC": "Only network infrastructure.",
+    "opD": "Only end-user devices.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "69",
+    "queText": "Cloud resources are typically provided by which entities?",
+    "opA": "Individual users.",
+    "opB": "Cloud Service Providers Companies.",
+    "opC": "Government regulatory bodies.",
+    "opD": "Non-profit organizations.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "70",
+    "queText": "When using services like Gmail, Google Drive, Dropbox, Office 365, etc., what type of cloud service model is the user typically interacting with?",
+    "opA": "Infrastructure as a Service (IaaS)",
+    "opB": "Platform as a Service (PaaS)",
+    "opC": "Software as a Service (SaaS)",
+    "opD": "Everything as a Service (EaaS)",
+    "opright": "opC"
+  },
+  {
+    "queNo": "71",
+    "queText": "What is the name of the important initiative launched by the Government of India to leverage the benefits of cloud computing?",
+    "opA": "Digital India",
+    "opB": "Make in India Cloud",
+    "opC": "MeghRaj (https://cloud.gov.in)",
+    "opD": "Bharat Cloud Initiative",
+    "opright": "opC"
+  },
+  {
+    "queNo": "72",
+    "queText": "Traditionally, digital transactions are performed by storing data in what type of database?",
+    "opA": "Decentralized database",
+    "opB": "Distributed database",
+    "opC": "Centralized database",
+    "opD": "Hierarchical database",
+    "opright": "opC"
+  },
+  {
+    "queNo": "73",
+    "queText": "What is a potential vulnerability of storing all data in a centralized database?",
+    "opA": "Slower data processing speed.",
+    "opB": "Difficulty in accessing data from multiple locations.",
+    "opC": "The possibility of data theft or loss.",
+    "opD": "Higher cost of maintenance.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "74",
+    "queText": "Blockchain technology is based on the concept of which type of database?",
+    "opA": "Centralized and private database",
+    "opB": "Decentralized and shared database",
+    "opC": "Distributed and encrypted database with limited access",
+    "opD": "Hierarchical and read-only database",
+    "opright": "opB"
+  },
+  {
+    "queNo": "75",
+    "queText": "In a blockchain, each participating computer (node) holds what?",
+    "opA": "Only a part of the database.",
+    "opB": "A temporary copy of the latest transactions.",
+    "opC": "A full copy of the database.",
+    "opD": "Encrypted metadata about the transactions.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "76",
+    "queText": "What can be considered a secure piece of data or a valid transaction in a blockchain?",
+    "opA": "A digital signature.",
+    "opB": "A hash function.",
+    "opC": "A block.",
+    "opD": "A chain link.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "77",
+    "queText": "In a blockchain, what is visible to every other node?",
+    "opA": "The confidential data within a block.",
+    "opB": "The private keys of the participants.",
+    "opC": "The header of each block.",
+    "opD": "The entire transaction history of a specific user.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "78",
+    "queText": "How are blocks in a blockchain linked together?",
+    "opA": "Chronologically by timestamp.",
+    "opB": "Through cryptographic links, forming a chain.",
+    "opC": "Randomly based on transaction volume.",
+    "opD": "Via a centralized server that manages the links.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "79",
+    "queText": "What is the most popular application of blockchain technology?",
+    "opA": "Secure email communication.",
+    "opB": "Digital currency.",
+    "opC": "Decentralized social media platforms.",
+    "opD": "Cloud-based data analytics.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "80",
+    "queText": "Besides digital currency, blockchain is being seen as a tool for enhancing which aspects in business and governance systems?",
+    "opA": "Marketing and advertising effectiveness.",
+    "opB": "Transparency, auditability, and efficiency.",
+    "opC": "Customer relationship management.",
+    "opD": "Supply chain optimization and logistics.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "81",
+    "queText": "The word 'computer' is derived from which word?",
+    "opA": "Compile",
+    "opB": "Compute",
+    "opC": "Communicate",
+    "opD": "Control",
+    "opright": "opB"
+  },
+  {
+    "queNo": "82",
+    "queText": "The word 'compute', from which 'computer' is derived, belongs to which language?",
+    "opA": "Greek",
+    "opB": "Latin",
+    "opC": "French",
+    "opD": "English",
+    "opright": "opB"
+  },
+  {
+    "queNo": "83",
+    "queText": "What is the literal meaning of the Latin word 'compute'?",
+    "opA": "To process",
+    "opB": "To calculate",
+    "opC": "To store",
+    "opD": "To display",
+    "opright": "opB"
+  },
+  {
+    "queNo": "84",
+    "queText": "The process performed in a computer with the help of software, which results in output, is called?",
+    "opA": "Inputting",
+    "opB": "Storing",
+    "opC": "Processing",
+    "opD": "Outputting",
+    "opright": "opC"
+  },
+  {
+    "queNo": "85",
+    "queText": "The collection of units that perform data processing in a computer is known as?",
+    "opA": "Memory Unit",
+    "opB": "Input Unit",
+    "opC": "Output Unit",
+    "opD": "Central Processing Unit",
+    "opright": "opD"
+  },
+  {
+    "queNo": "86",
+    "queText": "Which component of the computer is referred to as its 'brain'?",
+    "opA": "Random Access Memory (RAM)",
+    "opB": "Read Only Memory (ROM)",
+    "opC": "Central Processing Unit (CPU)",
+    "opD": "Motherboard",
+    "opright": "opC"
+  },
+  {
+    "queNo": "87",
+    "queText": "For accurate results from a computer, what should be the nature of the input data?",
+    "opA": "Complex",
+    "opB": "Voluminous",
+    "opC": "Accurate",
+    "opD": "Unstructured",
+    "opright": "opC"
+  },
+  {
+    "queNo": "88",
+    "queText": "What is a significant capability of a computer regarding information?",
+    "opA": "Limited storage capacity.",
+    "opB": "Inability to retrieve stored information.",
+    "opC": "High storage capacity to accumulate vast amounts of information.",
+    "opD": "Automatic deletion of old information.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "89",
+    "queText": "What is a characteristic of a computer's output when compared to human calculation?",
+    "opA": "More prone to errors.",
+    "opB": "Less reliable.",
+    "opC": "Provides consistent results.",
+    "opD": "Slower in complex calculations.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "90",
+    "queText": "In the educational field, how is the use of computers beneficial for students?",
+    "opA": "It restricts access to external resources.",
+    "opB": "It makes learning more difficult and time-consuming.",
+    "opC": "It enables better and easier ways of providing education.",
+    "opD": "It reduces interaction with teachers.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "91",
+    "queText": "How does the internet enhance the learning experience for students using computers?",
+    "opA": "It limits the scope of knowledge.",
+    "opB": "It provides access to more knowledge on any given subject.",
+    "opC": "It makes information less reliable.",
+    "opD": "It requires specialized technical skills.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "92",
+    "queText": "Computers are used by scientists for which primary purposes?",
+    "opA": "Only for data entry.",
+    "opB": "Only for communication.",
+    "opC": "For completing investigations and research.",
+    "opD": "Only for presenting findings.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "93",
+    "queText": "With the help of computers, scientists can effectively study which types of natural phenomena?",
+    "opA": "Only predictable events.",
+    "opB": "Earthquakes and tsunamis.",
+    "opC": "Only astronomical events.",
+    "opD": "Only biological processes.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "94",
+    "queText": "The mechanism of which device was based on the principle of gears?",
+    "opA": "Leibnitz's Calculator",
+    "opB": "Pascaline",
+    "opC": "Difference Engine",
+    "opD": "Analytical Engine",
+    "opright": "opB"
+  },
+  {
+    "queNo": "95",
+    "queText": "Pascaline included different ranked decimals with what?",
+    "opA": "Fixed positional values",
+    "opB": "Variable symbol representations",
+    "opC": "Abstract mathematical notations",
+    "opD": "Complex algebraic equations",
+    "opright": "opA"
+  },
+  {
+    "queNo": "96",
+    "queText": "In what year did the German mathematician Gottfried Leibnitz enhance Pascal's invention?",
+    "opA": "1573",
+    "opB": "1673",
+    "opC": "1773",
+    "opD": "1873",
+    "opright": "opB"
+  },
+  {
+    "queNo": "97",
+    "queText": "What new arithmetic capabilities did Leibnitz's calculator add to Pascal's machine?",
+    "opA": "Subtraction and division",
+    "opB": "Multiplication and division",
+    "opC": "Square root and logarithms",
+    "opD": "Exponents and fractions",
+    "opright": "opB"
+  },
+  {
+    "queNo": "98",
+    "queText": "Leibnitz's calculator used a stepped cylindrical drum with how many teeth of varying lengths?",
+    "opA": "Five",
+    "opB": "Eight",
+    "opC": "Nine",
+    "opD": "Ten",
+    "opright": "opC"
+  },
+  {
+    "queNo": "99",
+    "queText": "In the Von-Neumann computer architecture, what are the two main components stored in the memory?",
+    "opA": "Input and Output",
+    "opB": "Hardware and Software",
+    "opC": "Program and Data",
+    "opD": "User Interface and Applications",
+    "opright": "opC"
+  },
+  {
+    "queNo": "100",
+    "queText": "What is a limitation of the Von-Neumann computer architecture?",
+    "opA": "Inability to perform complex calculations.",
+    "opB": "The processor can fetch either data or instruction at a time due to a single communication medium.",
+    "opC": "Lack of storage capacity for large programs.",
+    "opD": "Dependence on slow mechanical components.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "101",
+    "queText": "The bottleneck in the Von-Neumann architecture, where data or instructions are fetched from the storage unit for processing by the processor one at a time, is known as?",
+    "opA": "Memory Congestion",
+    "opB": "Processing Delay",
+    "opC": "Von-Neumann Bottleneck",
+    "opD": "Instruction Cycle Limitation",
+    "opright": "opC"
+  },
+  {
+    "queNo": "102",
+    "queText": "Which of the following is an example of a Von-Neumann architecture based computer?",
+    "opA": "Abacus",
+    "opB": "Analytical Engine",
+    "opC": "EDVAC",
+    "opD": "Difference Engine",
+    "opright": "opC"
+  },
+  {
+    "queNo": "103",
+    "queText": "Which of the following qualities is generally associated with supercomputers?",
+    "opA": "Low cost",
+    "opB": "High speed and large storage",
+    "opC": "Simple user interface",
+    "opD": "Limited functionality",
+    "opright": "opB"
+  },
+  {
+    "queNo": "104",
+    "queText": "What does data, such as alphabets, numbers, or special characters, get converted into after being collected and arranged in a specific order in a computer?",
+    "opA": "Analog signals",
+    "opB": "High-level programming code",
+    "opC": "Binary code and then stored",
+    "opD": "Encrypted alphanumeric text",
+    "opright": "opC"
+  },
+  {
+    "queNo": "105",
+    "queText": "After data is processed and stored, where is it sent for use by different individuals who need the information?",
+    "opA": "To the central processing unit for further calculation.",
+    "opB": "To the output devices for display.",
+    "opC": "It is directly deleted after processing.",
+    "opD": "It is sent to various individuals as required.",
+    "opright": "opD"
+  },
+  {
+    "queNo": "106",
+    "queText": "The process of data handling in a computer typically involves which of the following steps?",
+    "opA": "Only input and output.",
+    "opB": "Only storage and retrieval.",
+    "opC": "Calculation, organization, analysis, and storage.",
+    "opD": "Only calculation.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "107",
+    "queText": "Why is an interface required between the input/output units and the storage in a computer?",
+    "opA": "To increase the processing speed of the CPU.",
+    "opB": "Because the language understood and read by humans is not easily understood by the computer.",
+    "opC": "To reduce the power consumption of the computer.",
+    "opD": "To connect the computer to external networks.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "108",
+    "queText": "In every computer, numbers, characters, and symbols are represented in a specific format called?",
+    "opA": "Algorithms",
+    "opB": "Codes",
+    "opC": "Protocols",
+    "opD": "Functions",
+    "opright": "opB"
+  },
+  {
+    "queNo": "109",
+    "queText": "Before understanding the details of computer codes, what is essential to comprehend fundamentally?",
+    "opA": "Computer programming languages.",
+    "opB": "Computer networking concepts.",
+    "opC": "Computer number systems.",
+    "opD": "Computer hardware components.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "110",
+    "queText": "Which of the following number systems is supported by computers?",
+    "opA": "Only the decimal number system.",
+    "opB": "Only the binary number system.",
+    "opC": "Binary, Octal, Decimal, and Hexadecimal number systems.",
+    "opD": "Only the hexadecimal number system.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "111",
+    "queText": "How many digits are there in the binary number system?",
+    "opA": "One",
+    "opB": "Two",
+    "opC": "Ten",
+    "opD": "Sixteen",
+    "opright": "opB"
+  },
+  {
+    "queNo": "112",
+    "queText": "In the binary number system, what are the digits used?",
+    "opA": "0 to 9",
+    "opB": "0 and 1",
+    "opC": "1 to 2",
+    "opD": "A and B",
+    "opright": "opB"
+  },
+  {
+    "queNo": "113",
+    "queText": "What is each digit in a binary number also called?",
+    "opA": "Byte",
+    "opB": "Bit",
+    "opC": "Nibble",
+    "opD": "Word",
+    "opright": "opB"
+  },
+  {
+    "queNo": "114",
+    "queText": "Where is the binary number system primarily used?",
+    "opA": "In high-level programming languages.",
+    "opB": "In machine language.",
+    "opC": "For representing decimal numbers in computers.",
+    "opD": "In network communication protocols.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "115",
+    "queText": "In the binary system, a high signal is represented by which digit?",
+    "opA": "0",
+    "opB": "1",
+    "opC": "2",
+    "opD": "9",
+    "opright": "opB"
+  },
+  {
+    "queNo": "116",
+    "queText": "In the binary system, a low signal is represented by which digit?",
+    "opA": "1",
+    "opB": "0",
+    "opC": "A",
+    "opD": "F",
+    "opright": "opB"
+  },
+  {
+    "queNo": "117",
+    "queText": "Converting a decimal number to a binary number is one type of?",
+    "opA": "Data encryption",
+    "opB": "Number system conversion",
+    "opC": "Algorithm design",
+    "opD": "Logical operation",
+    "opright": "opB"
+  },
+  {
+    "queNo": "118",
+    "queText": "To convert a binary number to a hexadecimal number, how are the binary digits grouped?",
+    "opA": "In pairs of two (2-2)",
+    "opB": "In triplets of three (3-3)",
+    "opC": "In groups of four (4-4)",
+    "opD": "As a single large group",
+    "opright": "opC"
+  },
+  {
+    "queNo": "119",
+    "queText": "When grouping binary digits into sets of four for hexadecimal conversion, what is done if there are fewer than four digits at the left end?",
+    "opA": "The extra digits are ignored.",
+    "opB": "Ones (1) are added to the left.",
+    "opC": "Zeros (0) are added to the left.",
+    "opD": "The number is padded with ones on the right.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "120",
+    "queText": "A truth table is used to define logical operations by listing?",
+    "opA": "Only the input variables.",
+    "opB": "Only the output variable.",
+    "opC": "All possible combinations of input variables and their corresponding results.",
+    "opD": "Only the frequently used input combinations.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "121",
+    "queText": "If two variables, A and B, can each have two possible values (0 or 1), how many possible input combinations are there?",
+    "opA": "Two",
+    "opB": "Three",
+    "opC": "Four",
+    "opD": "Eight",
+    "opright": "opC"
+  },
+  {
+    "queNo": "122",
+    "queText": "Boolean functions can be obtained in a complete form of combinations through?",
+    "opA": "Arithmetic operations.",
+    "opB": "Logical operations.",
+    "opC": "Algebraic manipulations.",
+    "opD": "Statistical analysis.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "123",
+    "queText": "Binary variables are represented either in their normal form [x] or their complemented form [x'] in the context of?",
+    "opA": "Computer programming syntax.",
+    "opB": "Boolean algebra.",
+    "opC": "Data transmission protocols.",
+    "opD": "Database query languages.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "124",
+    "queText": "Using AND, OR, and NOT operations on three binary variables results in how many possible combinations?",
+    "opA": "Four",
+    "opB": "Six",
+    "opC": "Eight",
+    "opD": "Ten",
+    "opright": "opC"
+  },
+  {
+    "queNo": "125",
+    "queText": "ASCII is one of the most widely used and broad forms of?",
+    "opA": "Data compression techniques.",
+    "opB": "Character coding standards.",
+    "opC": "Network security protocols.",
+    "opD": "Computer architecture designs.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "126",
+    "queText": "To input or receive information from a computer, we need an alphanumeric code to convert characters, numbers, and symbols into a language acceptable by the computer. This code is?",
+    "opA": "Machine Code",
+    "opB": "Assembly Language",
+    "opC": "ASCII",
+    "opD": "Binary Language",
+    "opright": "opC"
+  },
+  {
+    "queNo": "127",
+    "queText": "How many bits are used in ASCII-7 code?",
+    "opA": "6 bits",
+    "opB": "7 bits",
+    "opC": "8 bits",
+    "opD": "16 bits",
+    "opright": "opB"
+  },
+  {
+    "queNo": "128",
+    "queText": "How many different characters can be represented by ASCII-7 code?",
+    "opA": "64",
+    "opB": "128",
+    "opC": "256",
+    "opD": "512",
+    "opright": "opB"
+  },
+  {
+    "queNo": "129",
+    "queText": "Computers using 8-bit and 7-bit ASCII codes typically use how many bits for each byte?",
+    "opA": "4 bits",
+    "opB": "7 bits",
+    "opC": "8 bits",
+    "opD": "16 bits",
+    "opright": "opC"
+  },
+  {
+    "queNo": "130",
+    "queText": "ASCII-8 is considered what compared to ASCII-7?",
+    "opA": "An older version",
+    "opB": "A less comprehensive version",
+    "opC": "An enhanced version",
+    "opD": "A completely different coding system",
+    "opright": "opC"
+  },
+  {
+    "queNo": "131",
+    "queText": "How many bits are used in ASCII-8 code?",
+    "opA": "6 bits",
+    "opB": "7 bits",
+    "opC": "8 bits",
+    "opD": "16 bits",
+    "opright": "opC"
+  },
+  {
+    "queNo": "132",
+    "queText": "How many different characters can be represented by ASCII-8 code?",
+    "opA": "128",
+    "opB": "256",
+    "opC": "512",
+    "opD": "1024",
+    "opright": "opB"
+  },
+  {
+    "queNo": "133",
+    "queText": "Excess-3 code converts each decimal digit by first?",
+    "opA": "Multiplying it by 3",
+    "opB": "Subtracting 3 from it",
+    "opC": "Adding 3 to it",
+    "opD": "Dividing it by 3",
+    "opright": "opC"
+  },
+  {
+    "queNo": "134",
+    "queText": "After adding 3 to each decimal digit in Excess-3 code, what is the result then converted to?",
+    "opA": "Hexadecimal",
+    "opB": "Octal",
+    "opC": "4-bit binary",
+    "opD": "BCD code",
+    "opright": "opC"
+  },
+  {
+    "queNo": "135",
+    "queText": "Why is Excess-3 code considered an unweighted code?",
+    "opA": "Because it does not represent decimal values.",
+    "opB": "Because no specific positional value is assigned to any digit in the code.",
+    "opC": "Because it uses more than 4 bits.",
+    "opD": "Because it is only used for specific applications.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "136",
+    "queText": "The development of Octal or Hexadecimal number systems was primarily to?",
+    "opA": "Increase data processing speed.",
+    "opB": "Simplify coding of binary numbers.",
+    "opC": "Reduce the size of computer memory.",
+    "opD": "Improve the accuracy of calculations.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "137",
+    "queText": "How many binary digits are represented by a single octal digit?",
+    "opA": "Two",
+    "opB": "Three",
+    "opC": "Four",
+    "opD": "Eight",
+    "opright": "opB"
+  },
+  {
+    "queNo": "138",
+    "queText": "How many binary digits are represented by a single hexadecimal digit?",
+    "opA": "Two",
+    "opB": "Three",
+    "opC": "Four",
+    "opD": "Eight",
+    "opright": "opC"
+  },
+  {
+    "queNo": "139",
+    "queText": "Unicode aims to provide a unique number for every character used in?",
+    "opA": "Only the English language.",
+    "opB": "Only major international languages.",
+    "opC": "All written languages.",
+    "opD": "Only programming languages.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "140",
+    "queText": "Initially, each character in Unicode was coded in how many bits?",
+    "opA": "8-bit",
+    "opB": "16-bit",
+    "opC": "32-bit",
+    "opD": "64-bit",
+    "opright": "opC"
+  },
+  {
+    "queNo": "141",
+    "queText": "In the third version of Unicode, the code for each character was increased to?",
+    "opA": "1 byte",
+    "opB": "2 bytes",
+    "opC": "4 bytes",
+    "opD": "8 bytes",
+    "opright": "opC"
+  },
+  {
+    "queNo": "142",
+    "queText": "Unicode is currently being used across the entire world for?",
+    "opA": "Only for academic purposes.",
+    "opB": "Communication.",
+    "opC": "Only for system software development.",
+    "opD": "Only for hardware encoding.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "143",
+    "queText": "Cloud storage is a type of?",
+    "opA": "Hardware device for local data backup.",
+    "opB": "Internet Service that provides storage to computer users.",
+    "opC": "Software application for file management.",
+    "opD": "Network protocol for data transfer.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "144",
+    "queText": "Using cloud storage, users can collect their files?",
+    "opA": "Only on their personal computer.",
+    "opB": "Offline on external storage devices.",
+    "opC": "Online centrally.",
+    "opD": "Only on a local network server.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "145",
+    "queText": "Cloud storage allows users to access their data from?",
+    "opA": "Only from the device where the data was uploaded.",
+    "opB": "Only within their home or office network.",
+    "opC": "Any corner of the world through the internet.",
+    "opD": "Only from a specific operating system.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "146",
+    "queText": "The process of converting a programming language into binary is called?",
+    "opA": "Interpretation",
+    "opB": "Compilation",
+    "opC": "Translation",
+    "opD": "Execution",
+    "opright": "opB"
+  },
+  {
+    "queNo": "147",
+    "queText": "Low-level languages require the use of any translator to convert their signals to machine signals?",
+    "opA": "Always",
+    "opB": "Sometimes",
+    "opC": "Never",
+    "opD": "Only for complex instructions",
+    "opright": "opC"
+  },
+  {
+    "queNo": "148",
+    "queText": "What are the two main examples of Low Level Languages mentioned?",
+    "opA": "C and C++",
+    "opB": "Java and Python",
+    "opC": "Machine Language and Assembly Language",
+    "opD": "FORTRAN and COBOL",
+    "opright": "opC"
+  },
+  {
+    "queNo": "149",
+    "queText": "Machine language consists of instructions in which format?",
+    "opA": "English words",
+    "opB": "Symbolic codes",
+    "opC": "Binary digits (0s and 1s)",
+    "opD": "Mathematical equations",
+    "opright": "opC"
+  },
+  {
+    "queNo": "150",
+    "queText": "A typical machine language instruction has two parts: Operation Code and?",
+    "opA": "Data Type",
+    "opB": "Operand",
+    "opC": "Control Signal",
+    "opD": "Memory Address",
+    "opright": "opB"
+  },
+  {
+    "queNo": "151",
+    "queText": "What does the Operand part of a machine language instruction specify?",
+    "opA": "The type of operation to be performed.",
+    "opB": "Where to find or store the data to be processed.",
+    "opC": "The sequence of instructions to be executed.",
+    "opD": "The output format of the result.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "152",
+    "queText": "The set of operation codes in every computer is known as its?",
+    "opA": "Instruction Set",
+    "opB": "Program Library",
+    "opC": "Software Package",
+    "opD": "Hardware Configuration",
+    "opright": "opA"
+  },
+  {
+    "queNo": "153",
+    "queText": "Which of the following is an advantage of Machine Language?",
+    "opA": "Easy to understand and write programs.",
+    "opB": "Fast processing speed.",
+    "opC": "Programs are easily portable between different computers.",
+    "opD": "No need for program translation software.",
+    "opright": "opD"
+  },
+  {
+    "queNo": "154",
+    "queText": "Which of the following is a disadvantage of Machine Language?",
+    "opA": "Slow processing speed.",
+    "opB": "Requires program translation software.",
+    "opC": "Very difficult to understand instructions, prepare programs, debug errors, and modify.",
+    "opD": "Programs are highly portable.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "155",
+    "queText": "Assembly Language uses symbolic operation codes, which are English-like abbreviations, also known as?",
+    "opA": "Mnemonics",
+    "opB": "Opcodes",
+    "opC": "Variables",
+    "opD": "Functions",
+    "opright": "opA"
+  },
+  {
+    "queNo": "156",
+    "queText": "What is used to convert a program written in Assembly Language into Machine Language?",
+    "opA": "Compiler",
+    "opB": "Interpreter",
+    "opC": "Assembler",
+    "opD": "Linker",
+    "opright": "opC"
+  },
+  {
+    "queNo": "157",
+    "queText": "Programming in Machine Language is difficult and has a higher chance of errors because the programmer needs to work directly with?",
+    "opA": "Complex algorithms",
+    "opB": "High-level syntax",
+    "opC": "Binary Language",
+    "opD": "Abstract data structures",
+    "opright": "opC"
+  },
+  {
+    "queNo": "158",
+    "queText": "A program that resides in memory and prepares other programs for execution is called?",
+    "opA": "Compiler",
+    "opB": "Interpreter",
+    "opC": "Loader",
+    "opD": "Debugger",
+    "opright": "opC"
+  },
+  {
+    "queNo": "159",
+    "queText": "Which programming language is often used by children for computer programming?",
+    "opA": "BASIC",
+    "opB": "Pascal",
+    "opC": "Logo",
+    "opD": "Scratch",
+    "opright": "opC"
+  },
+  {
+    "queNo": "160",
+    "queText": "In High Level Languages, all written programs are first converted into?",
+    "opA": "Assembly Language",
+    "opB": "Machine Language",
+    "opC": "Object Code",
+    "opD": "Source Code",
+    "opright": "opB"
+  },
+  {
+    "queNo": "161",
+    "queText": "Which type of software is used to translate high-level language instructions into machine language?",
+    "opA": "Operating System",
+    "opB": "Utility Software",
+    "opC": "Language Processor (Compiler or Interpreter)",
+    "opD": "Device Driver",
+    "opright": "opC"
+  },
+  {
+    "queNo": "162",
+    "queText": "High level language programs are also known as?",
+    "opA": "Machine Code",
+    "opB": "Assembly Code",
+    "opC": "Source Code",
+    "opD": "Object Code",
+    "opright": "opC"
+  },
+  {
+    "queNo": "163",
+    "queText": "What does a compiler convert source code into?",
+    "opA": "Assembly Code",
+    "opB": "Intermediate Code",
+    "opC": "Machine Code",
+    "opD": "Pseudocode",
+    "opright": "opC"
+  },
+  {
+    "queNo": "164",
+    "queText": "Machine code generated by a compiler is also known as?",
+    "opA": "Source Program",
+    "opB": "Object Program or Object Code",
+    "opC": "Assembly Language Program",
+    "opD": "High-Level Language Program",
+    "opright": "opB"
+  },
+  {
+    "queNo": "165",
+    "queText": "What kind of errors does a compiler typically check for in a program?",
+    "opA": "Logical errors",
+    "opB": "Runtime errors",
+    "opC": "Syntax errors",
+    "opD": "Data type errors",
+    "opright": "opC"
+  },
+  {
+    "queNo": "166",
+    "queText": "A C-Compiler will only translate programs written in which language?",
+    "opA": "Java",
+    "opB": "C++",
+    "opC": "C",
+    "opD": "Python",
+    "opright": "opC"
+  },
+  {
+    "queNo": "167",
+    "queText": "Which of the following is a key difference between a compiler and an interpreter?",
+    "opA": "Compilers are faster than interpreters.",
+    "opB": "Interpreters translate the entire program at once.",
+    "opC": "Compilers report all errors after the entire program is checked.",
+    "opD": "Interpreters generate an object code.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "168",
+    "queText": "Which programming language typically uses a compiler for translation?",
+    "opA": "Python",
+    "opB": "BASIC",
+    "opC": "C++",
+    "opD": "JavaScript",
+    "opright": "opC"
+  },
+  {
+    "queNo": "169",
+    "queText": "Which programming language typically uses an interpreter for translation?",
+    "opA": "C",
+    "opB": "FORTRAN",
+    "opC": "Python",
+    "opD": "COBOL",
+    "opright": "opC"
+  },
+  {
+    "queNo": "170",
+    "queText": "Programmers mainly use how many types of methods to write programs?",
+    "opA": "Two",
+    "opB": "Three",
+    "opC": "Four",
+    "opD": "Five",
+    "opright": "opB"
+  },
+  {
+    "queNo": "171",
+    "queText": "The three main methods used by programmers to write programs are Algorithm, Flow Chart, and?",
+    "opA": "Pseudocode",
+    "opB": "Source Code",
+    "opC": "Object Code",
+    "opD": "Machine Code",
+    "opright": "opA"
+  },
+  {
+    "queNo": "172",
+    "queText": "How many relational operators are there in the 'C' language?",
+    "opA": "Four",
+    "opB": "Five",
+    "opC": "Six",
+    "opD": "Seven",
+    "opright": "opC"
+  },
+  {
+    "queNo": "173",
+    "queText": "What cannot be included in a 'C' variable name?",
+    "opA": "Alphabets",
+    "opB": "Digits",
+    "opC": "Underscore",
+    "opD": "Blank Space",
+    "opright": "opD"
+  },
+  {
+    "queNo": "174",
+    "queText": "A Sequence Algorithm is characterized by?",
+    "opA": "Repeating a set of steps until a condition is met.",
+    "opB": "Executing steps one after another in a series.",
+    "opC": "Choosing between different sets of steps based on a condition.",
+    "opD": "Dividing a problem into smaller sub-problems.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "175",
+    "queText": "A Branching Algorithm is often represented using which type of statement?",
+    "opA": "Loop statements (e.g., for, while)",
+    "opB": "Sequence of arithmetic operations",
+    "opC": "'if-then' problems",
+    "opD": "Declarative statements",
+    "opright": "opC"
+  },
+  {
+    "queNo": "176",
+    "queText": "A Branching Algorithm is also known as which type of algorithm?",
+    "opA": "Repetition type",
+    "opB": "Sequential type",
+    "opC": "Selection type",
+    "opD": "Iterative type",
+    "opright": "opC"
+  },
+  {
+    "queNo": "177",
+    "queText": "In a Branching Algorithm, if a condition is False, what happens?",
+    "opA": "Output A is produced.",
+    "opB": "The algorithm terminates.",
+    "opC": "Output B is produced.",
+    "opD": "The condition is evaluated again.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "178",
+    "queText": "A Loop Algorithm involves?",
+    "opA": "Executing steps in a fixed sequence.",
+    "opB": "Repeating a process multiple times until a specific condition is met.",
+    "opC": "Choosing between different paths based on input.",
+    "opD": "Performing calculations only once.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "179",
+    "queText": "Loop Algorithms are often represented using which keywords?",
+    "opA": "if-then-else",
+    "opB": "start-stop",
+    "opC": "For or While",
+    "opD": "input-output",
+    "opright": "opC"
+  },
+  {
+    "queNo": "180",
+    "queText": "A Loop Algorithm is also known as which type of algorithm?",
+    "opA": "Branching type",
+    "opB": "Repetition type",
+    "opC": "Sequential type",
+    "opD": "Selection type",
+    "opright": "opB"
+  },
+  {
+    "queNo": "181",
+    "queText": "Algorithms are widely used in all areas of?",
+    "opA": "Hardware manufacturing",
+    "opB": "Information Technology",
+    "opC": "Network installation",
+    "opD": "Data entry operations",
+    "opright": "opB"
+  },
+  {
+    "queNo": "182",
+    "queText": "In the context of a Search Engine Algorithm, what is taken as input?",
+    "opA": "Web server address",
+    "opB": "Key-Word",
+    "opC": "Website design",
+    "opD": "Database structure",
+    "opright": "opB"
+  },
+  {
+    "queNo": "183",
+    "queText": "What does a Search Engine Algorithm typically search within?",
+    "opA": "Local computer files",
+    "opB": "Web Pages (Database)",
+    "opC": "Email inboxes",
+    "opD": "Social media profiles",
+    "opright": "opB"
+  },
+  {
+    "queNo": "184",
+    "queText": "Encryption algorithms modify data according to specified rules to?",
+    "opA": "Improve processing speed",
+    "opB": "Secure documents",
+    "opC": "Compress file sizes",
+    "opD": "Enhance user interface",
+    "opright": "opB"
+  },
+  {
+    "queNo": "185",
+    "queText": "Pseudocode is considered the best approach to start the?",
+    "opA": "Final coding of a program",
+    "opB": "Implementation (execution) of an algorithm",
+    "opC": "Testing phase of software development",
+    "opD": "Documentation of hardware specifications",
+    "opright": "opB"
+  },
+  {
+    "queNo": "186",
+    "queText": "Pseudocode acts as a bridge between?",
+    "opA": "Hardware and software",
+    "opB": "Algorithm and Flow Chart",
+    "opC": "Program, Algorithm, and Flow Chart",
+    "opD": "Compiler and Interpreter",
+    "opright": "opC"
+  },
+  {
+    "queNo": "187",
+    "queText": "Pseudocode also serves as a form of?",
+    "opA": "Data encryption",
+    "opB": "System configuration",
+    "opC": "Documentation",
+    "opD": "Error detection",
+    "opright": "opC"
+  },
+  {
+    "queNo": "188",
+    "queText": "FORTRAN programming language is primarily used for?",
+    "opA": "Business data processing",
+    "opB": "Scientific and engineering applications",
+    "opC": "Web development",
+    "opD": "Artificial intelligence",
+    "opright": "opB"
+  },
+  {
+    "queNo": "189",
+    "queText": "FORTRAN consists of a series of?",
+    "opA": "Binary codes",
+    "opB": "Assembly instructions",
+    "opC": "Logical and comparison statements",
+    "opD": "Graphical elements",
+    "opright": "opC"
+  },
+  {
+    "queNo": "190",
+    "queText": "BASIC programming language was developed at Dartmouth College in the United States in which year?",
+    "opA": "1954",
+    "opB": "1964",
+    "opC": "1974",
+    "opD": "1984",
+    "opright": "opB"
+  },
+  {
+    "queNo": "191",
+    "queText": "BASIC is often referred to as an?",
+    "opA": "Low-level language",
+    "opB": "Assembly language",
+    "opC": "Beginner's All-purpose Symbolic Instruction Code",
+    "opD": "Advanced Scientific Instruction Code",
+    "opright": "opC"
+  },
+  {
+    "queNo": "192",
+    "queText": "Python is an object-oriented high-level programming language used for?",
+    "opA": "Only system software development",
+    "opB": "Website Building, Application Development, Machine Learning, Data Analysis, and Web Scraping",
+    "opC": "Only game development",
+    "opD": "Only hardware control",
+    "opright": "opB"
+  },
+  {
+    "queNo": "193",
+    "queText": "COBOL is an abbreviation for?",
+    "opA": "Common Business Oriented Language",
+    "opB": "Computer Binary Operation Language",
+    "opC": "Complex Object Based Language",
+    "opD": "Compiled Operating Business Language",
+    "opright": "opA"
+  },
+  {
+    "queNo": "194",
+    "queText": "COBOL is primarily designed for which type of applications?",
+    "opA": "Scientific computations",
+    "opB": "Business and administrative applications",
+    "opC": "Real-time systems",
+    "opD": "Artificial intelligence research",
+    "opright": "opB"
+  },
+  {
+    "queNo": "195",
+    "queText": "The UNIX operating system was developed in which language?",
+    "opA": "Assembly",
+    "opB": "B",
+    "opC": "C",
+    "opD": "Pascal",
+    "opright": "opC"
+  },
+  {
+    "queNo": "196",
+    "queText": "Java is mainly used for applications based on?",
+    "opA": "Local networks",
+    "opB": "Intranets",
+    "opC": "Internet",
+    "opD": "Mainframe systems",
+    "opright": "opC"
+  },
+  {
+    "queNo": "197",
+    "queText": "Java was originally developed by?",
+    "opA": "Microsoft Corporation",
+    "opB": "IBM",
+    "opC": "Sun Microsystems by James Gosling",
+    "opD": "Apple Inc.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "198",
+    "queText": "Java is described as a general-purpose programming language that is?",
+    "opA": "Procedural, sequential, and platform-dependent",
+    "opB": "Concurrent, class-based, object-oriented, and specifically avoids implementation dependencies",
+    "opC": "Functional, logic-based, and primarily for mathematical computations",
+    "opD": "Scripting, interpreted, and mainly for web front-end development",
+    "opright": "opB"
+  },
+  {
+    "queNo": "199",
+    "queText": "Which programming language has the most documentation available?",
+    "opA": "BASIC",
+    "opB": "COBOL",
+    "opC": "FORTRAN",
+    "opD": "Pascal",
+    "opright": "opC"
+  },
+  {
+    "queNo": "200",
+    "queText": "What is 'Debugging' in the context of programming?",
+    "opA": "Writing the initial code of a program",
+    "opB": "Testing the speed of a program's execution",
+    "opC": "The process of finding errors in a program",
+    "opD": "Optimizing a program for better performance",
+    "opright": "opC"
+  },
+  {
+    "queNo": "201",
+    "queText": "In programming, what is an 'Array'?",
+    "opA": "A type of control structure",
+    "opB": "A primitive data type",
+    "opC": "A derived data type",
+    "opD": "A function definition",
+    "opright": "opC"
+  },
+  {
+    "queNo": "202",
+    "queText": "How many types of arrays are mentioned?",
+    "opA": "One",
+    "opB": "Two",
+    "opC": "Three",
+    "opD": "Four",
+    "opright": "opB"
+  },
+  {
+    "queNo": "203",
+    "queText": "What is a 'String' in programming?",
+    "opA": "A single character",
+    "opB": "A numerical value",
+    "opC": "A group of characters",
+    "opD": "A boolean variable",
+    "opright": "opC"
+  },
+  {
+    "queNo": "204",
+    "queText": "A 'For loop' that runs 'Infinite Times' is an example of?",
+    "opA": "A well-structured loop",
+    "opB": "A conditional loop",
+    "opC": "An error or unintended behavior",
+    "opD": "A terminating loop",
+    "opright": "opC"
+  },
+  {
+    "queNo": "205",
+    "queText": "Which function is used in all C programs?",
+    "opA": "printf()",
+    "opB": "scanf()",
+    "opC": "main()",
+    "opD": "include()",
+    "opright": "opC"
+  },
+  {
+    "queNo": "206",
+    "queText": "C# (pronounced 'C Sharp') is described as a?",
+    "opA": "Very old, procedural, and platform-specific programming language",
+    "opB": "Modern, object-oriented, and type-safe programming language",
+    "opC": "Simple scripting language for web front-end",
+    "opD": "Low-level language for system programming",
+    "opright": "opB"
+  },
+  {
+    "queNo": "207",
+    "queText": "C# enables developers to build secure and robust applications that run on?",
+    "opA": "Only Linux operating systems",
+    "opB": "Only macOS operating systems",
+    "opC": "The .NET framework",
+    "opD": "The Java Virtual Machine",
+    "opright": "opC"
+  },
+  {
+    "queNo": "208",
+    "queText": "C#'s roots are in the C family of languages, and it is readily familiar to programmers of?",
+    "opA": "Only C",
+    "opB": "Only C++",
+    "opC": "C, C++, Java, and Java Script",
+    "opD": "Only Java",
+    "opright": "opC"
+  },
+  {
+    "queNo": "209",
+    "queText": "C# was published and standardized by?",
+    "opA": "The World Wide Web Consortium (W3C)",
+    "opB": "The Institute of Electrical and Electronics Engineers (IEEE)",
+    "opC": "Microsoft and ECMA International",
+    "opD": "The Internet Engineering Task Force (IETF)",
+    "opright": "opC"
+  },
+  {
+    "queNo": "210",
+    "queText": "Pseudocode is a compromise between?",
+    "opA": "Hardware and software specifications",
+    "opB": "Human Language and a Programming Language",
+    "opC": "Compiler and interpreter directives",
+    "opD": "Algorithm design and system architecture",
+    "opright": "opB"
+  },
+  {
+    "queNo": "211",
+    "queText": "Pseudocode is primarily used as a designing tool for?",
+    "opA": "Final program code",
+    "opB": "Computer program design, such as in algorithms",
+    "opC": "Database schema design",
+    "opD": "Network topology planning",
+    "opright": "opB"
+  },
+  {
+    "queNo": "212",
+    "queText": "A Relational Operator performs what kind of task between two or more documents/values?",
+    "opA": "Arithmetic calculation",
+    "opB": "Logical operation",
+    "opC": "Comparison",
+    "opD": "Data manipulation",
+    "opright": "opC"
+  },
+  {
+    "queNo": "213",
+    "queText": "How many types of Ternary Operators are mentioned?",
+    "opA": "One",
+    "opB": "Two",
+    "opC": "Three",
+    "opD": "Zero",
+    "opright": "opA"
+  },
+  {
+    "queNo": "214",
+    "queText": "The '?' symbol in a ternary operator represents which part?",
+    "opA": "Else part",
+    "opB": "Then part",
+    "opC": "If part",
+    "opD": "Assignment part",
+    "opright": "opC"
+  },
+  {
+    "queNo": "215",
+    "queText": "In the conditional part of a ternary operator, what type of value do we typically place?",
+    "opA": "A numerical value",
+    "opB": "A string literal",
+    "opC": "Either a True or False value",
+    "opD": "A variable name",
+    "opright": "opC"
+  },
+  {
+    "queNo": "216",
+    "queText": "If the condition in a ternary operator evaluates to True, which expression is executed?",
+    "opA": "The expression to the right of the colon ':'",
+    "opB": "The expression to the left of the question mark '?'",
+    "opC": "The expression to the left of the colon ':'",
+    "opD": "Both expressions are executed",
+    "opright": "opC"
+  },
+  {
+    "queNo": "217",
+    "queText": "Raw facts and figures are called?",
+    "opA": "Information",
+    "opB": "Data",
+    "opC": "Knowledge",
+    "opD": "Instructions",
+    "opright": "opB"
+  },
+  {
+    "queNo": "218",
+    "queText": "A fact that does not have a specific meaning on its own but has a definite value is considered?",
+    "opA": "Information",
+    "opB": "Data",
+    "opC": "Process",
+    "opD": "Algorithm",
+    "opright": "opB"
+  },
+  {
+    "queNo": "219",
+    "queText": "Which of the following can be considered data?",
+    "opA": "A report summarizing sales figures",
+    "opB": "A chart showing market trends",
+    "opC": "Numbers, Letters, Text, Image, Audio or Video",
+    "opD": "A decision made based on analyzed information",
+    "opright": "opC"
+  },
+  {
+    "queNo": "220",
+    "queText": "Numeric data consists of digits from?",
+    "opA": "1 to 10",
+    "opB": "0 to 8",
+    "opC": "0 to 9",
+    "opD": "1 to 9",
+    "opright": "opC"
+  },
+  {
+    "queNo": "221",
+    "queText": "What type of operations can be performed on numeric data?",
+    "opA": "Logical Operations",
+    "opB": "Arithmetical Operations",
+    "opC": "Comparison Operations",
+    "opD": "String Manipulations",
+    "opright": "opB"
+  },
+  {
+    "queNo": "222",
+    "queText": "The total number of students in a class or their obtained marks in an examination are examples of?",
+    "opA": "Alphabetic Data",
+    "opB": "Alphanumeric Data",
+    "opC": "Numeric Data",
+    "opD": "Logical Data",
+    "opright": "opC"
+  },
+  {
+    "queNo": "223",
+    "queText": "Alphabetic data is formed by?",
+    "opA": "Only numbers",
+    "opB": "All letters of the alphabet",
+    "opC": "A combination of letters and numbers",
+    "opD": "Special symbols and characters",
+    "opright": "opB"
+  },
+  {
+    "queNo": "224",
+    "queText": "Names and addresses typically fall under which category of data?",
+    "opA": "Numeric Data",
+    "opB": "Alphabetic Data",
+    "opC": "Alphanumeric Data",
+    "opD": "Logical Data",
+    "opright": "opC"
+  },
+  {
+    "queNo": "225",
+    "queText": "Alphanumeric data consists of?",
+    "opA": "Only letters",
+    "opB": "Only numbers",
+    "opC": "Letters, numbers, and special symbols",
+    "opD": "Only special symbols",
+    "opright": "opC"
+  },
+  {
+    "queNo": "226",
+    "queText": "Logical data represents?",
+    "opA": "Whole numbers",
+    "opB": "Letters of the alphabet",
+    "opC": "True or False conditions",
+    "opD": "Decimal numbers",
+    "opright": "opC"
+  },
+  {
+    "queNo": "227",
+    "queText": "Data processing refers to?",
+    "opA": "Storing data on a storage device.",
+    "opB": "Displaying data on an output device.",
+    "opC": "The sequence of operations performed on data.",
+    "opD": "Collecting data from various sources.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "228",
+    "queText": "Data processing transforms input data into?",
+    "opA": "Encrypted code",
+    "opB": "Userful information (output)",
+    "opC": "Raw facts and figures",
+    "opD": "A different format of input",
+    "opright": "opB"
+  },
+  {
+    "queNo": "229",
+    "queText": "Data Inconsistency occurs when?",
+    "opA": "Data is stored in a single location.",
+    "opB": "The same fact has different values at different places.",
+    "opC": "Data is accessed by multiple users simultaneously.",
+    "opD": "Data is processed using different software.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "230",
+    "queText": "A Database Management System (DBMS) primarily deals with?",
+    "opA": "Managing computer hardware.",
+    "opB": "Organizing and managing databases.",
+    "opC": "Developing application software.",
+    "opD": "Securing computer networks.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "231",
+    "queText": "To avoid data inconsistency, if a fact is stored at two places in a database, what should happen upon any change?",
+    "opA": "Only the first instance should be updated.",
+    "opB": "Only the second instance should be updated.",
+    "opC": "Both instances should be updated.",
+    "opD": "The database should be locked.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "232",
+    "queText": "The command used to add new data into a database is typically?",
+    "opA": "DELETE Command",
+    "opB": "UPDATE Command",
+    "opC": "SELECT Command",
+    "opD": "INSERT Command",
+    "opright": "opD"
+  },
+  {
+    "queNo": "233",
+    "queText": "What is a desirable property regarding data redundancy in a database?",
+    "opA": "Data redundancy should be maximized.",
+    "opB": "Data redundancy should be minimal.",
+    "opC": "Data redundancy has no impact on the database.",
+    "opD": "Data redundancy should be dependent on the number of users.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "234",
+    "queText": "What is a desirable property regarding data inconsistency in a database?",
+    "opA": "Data inconsistency should be present.",
+    "opB": "Data inconsistency should be negligible.",
+    "opC": "Data inconsistency should be tolerated.",
+    "opD": "Data inconsistency should be managed manually.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "235",
+    "queText": "In a database, data should be accessible to different users for?",
+    "opA": "Only administrative purposes.",
+    "opB": "Different usage objectives.",
+    "opC": "Only viewing purposes.",
+    "opD": "Only modification purposes.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "236",
+    "queText": "In a database, the values of data should ideally be?",
+    "opA": "Dependent on each other.",
+    "opB": "Independent of each other.",
+    "opC": "Sequentially ordered.",
+    "opD": "Randomly generated.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "237",
+    "queText": "The smallest unit in the DATA HIERARCHY is?",
+    "opA": "Character",
+    "opB": "Field",
+    "opC": "Record",
+    "opD": "Bit",
+    "opright": "opD"
+  },
+  {
+    "queNo": "238",
+    "queText": "A collection of related fields is called a?",
+    "opA": "File",
+    "opB": "Record",
+    "opC": "Database",
+    "opD": "Character",
+    "opright": "opB"
+  },
+  {
+    "queNo": "239",
+    "queText": "A collection of related records forms a?",
+    "opA": "Field",
+    "opB": "Character",
+    "opC": "File",
+    "opD": "Database",
+    "opright": "opC"
+  },
+  {
+    "queNo": "240",
+    "queText": "A logically organized collection of data is called a?",
+    "opA": "File",
+    "opB": "Record",
+    "opC": "Database",
+    "opD": "Field",
+    "opright": "opC"
+  },
+  {
+    "queNo": "241",
+    "queText": "One of the characteristics of a database is that it is a logical collection of?",
+    "opA": "Hardware components",
+    "opB": "Software programs",
+    "opC": "Data",
+    "opD": "Network connections",
+    "opright": "opC"
+  },
+  {
+    "queNo": "242",
+    "queText": "A database is designed for a specific?",
+    "opA": "Operating system",
+    "opB": "Purpose",
+    "opC": "User group",
+    "opD": "Storage capacity",
+    "opright": "opB"
+  },
+  {
+    "queNo": "243",
+    "queText": "In a database, data can be?",
+    "opA": "Only viewed",
+    "opB": "Only added",
+    "opC": "Removed and modified",
+    "opD": "Only backed up",
+    "opright": "opC"
+  },
+  {
+    "queNo": "244",
+    "queText": "In a database, new data can be entered into?",
+    "opA": "Only new files",
+    "opB": "Previously existing files",
+    "opC": "Only empty databases",
+    "opD": "Only temporary storage",
+    "opright": "opB"
+  },
+  {
+    "queNo": "245",
+    "queText": "SQL stands for?",
+    "opA": "Simple Query Language",
+    "opB": "Structured Question Language",
+    "opC": "Standard Query Logic",
+    "opD": "Structured Query Language",
+    "opright": "opD"
+  },
+  {
+    "queNo": "246",
+    "queText": "In what year did the American National Standard Institute (ANSI) update SQL?",
+    "opA": "1979",
+    "opB": "1989",
+    "opC": "1999",
+    "opD": "2009",
+    "opright": "opB"
+  },
+  {
+    "queNo": "247",
+    "queText": "In relational databases, each record in a relation is called a?",
+    "opA": "Attribute",
+    "opB": "Degree",
+    "opC": "Tuple",
+    "opD": "Cardinality",
+    "opright": "opC"
+  },
+  {
+    "queNo": "248",
+    "queText": "In a table (relation), each column is called a(n)?",
+    "opA": "Tuple",
+    "opB": "Record",
+    "opC": "Attribute",
+    "opD": "Field",
+    "opright": "opC"
+  },
+  {
+    "queNo": "249",
+    "queText": "The number of attributes in a relation is referred to as its?",
+    "opA": "Cardinality",
+    "opB": "Degree",
+    "opC": "Tuple",
+    "opD": "Domain",
+    "opright": "opB"
+  },
+  {
+    "queNo": "250",
+    "queText": "A DBMS that can manage text data, image data, audio, video, etc., is called a?",
+    "opA": "Relational DBMS",
+    "opB": "Object-Oriented DBMS",
+    "opC": "Multimedia DBMS",
+    "opD": "Network DBMS",
+    "opright": "opC"
+  },
+  {
+    "queNo": "251",
+    "queText": "A primary key from one table that is present in another table is called a?",
+    "opA": "Secondary Key",
+    "opB": "Composite Key",
+    "opC": "Foreign Key",
+    "opD": "Candidate Key",
+    "opright": "opC"
+  },
+  {
+    "queNo": "252",
+    "queText": "How many primary keys can a table have?",
+    "opA": "Zero",
+    "opB": "One",
+    "opC": "Many",
+    "opD": "Depends on the number of columns",
+    "opright": "opB"
+  },
+  {
+    "queNo": "253",
+    "queText": "Data Encryption is a useful technique for?",
+    "opA": "Improving database performance",
+    "opB": "Compressing database size",
+    "opC": "Securing data in data communication and storage",
+    "opD": "Organizing data in a table",
+    "opright": "opC"
+  },
+  {
+    "queNo": "254",
+    "queText": "The smallest unit of organized data in a database is?",
+    "opA": "Record",
+    "opB": "File",
+    "opC": "Field",
+    "opD": "Database",
+    "opright": "opC"
+  },
+  {
+    "queNo": "255",
+    "queText": "DBMS is used for managing databases, while SQL is a?",
+    "opA": "Type of database",
+    "opB": "Programming language",
+    "opC": "Query language",
+    "opD": "Operating system",
+    "opright": "opC"
+  },
+  {
+    "queNo": "256",
+    "queText": "DBMS performs operations like database creation, deletion, storage, retrieval, and manipulation, whereas SQL performs?",
+    "opA": "Only database creation",
+    "opB": "Only data storage",
+    "opC": "Operations such as creation, retrieval, deletion, and modification on the database",
+    "opD": "Only database backup",
+    "opright": "opC"
+  },
+  {
+    "queNo": "257",
+    "queText": "DBMS provides security to databases, while SQL provides security?",
+    "opA": "To the network",
+    "opB": "To the hardware",
+    "opC": "Within the relational database management system",
+    "opD": "To the applications accessing the database",
+    "opright": "opC"
+  },
+  {
+    "queNo": "258",
+    "queText": "Basic operations in Relational Algebra that are used to process data in DBMS include?",
+    "opA": "Only arithmetic and logical operators",
+    "opB": "Union, Cross Product, Minus, Join, Division, Rename, and Intersection operators",
+    "opC": "Only data definition and manipulation commands",
+    "opD": "Only indexing and sorting operations",
+    "opright": "opB"
+  },
+  {
+    "queNo": "259",
+    "queText": "The Project Operation in Relational Algebra is used to?",
+    "opA": "Add new rows to a table",
+    "opB": "Select certain columns from a table and discard the rest",
+    "opC": "Combine two tables based on a condition",
+    "opD": "Filter rows based on a condition",
+    "opright": "opB"
+  },
+  {
+    "queNo": "260",
+    "queText": "The Project Operation is denoted by which symbol?",
+    "opA": "σ",
+    "opB": "∪",
+    "opC": "p",
+    "opD": "×",
+    "opright": "opC"
+  },
+  {
+    "queNo": "261",
+    "queText": "Transaction Properties in DBMS are also known as?",
+    "opA": "CRUD Properties",
+    "opB": "SOLID Properties",
+    "opC": "ACID Properties",
+    "opD": "BASE Properties",
+    "opright": "opC"
+  },
+  {
+    "queNo": "262",
+    "queText": "Atomicity in ACID properties ensures that a transaction is?",
+    "opA": "Durable and persistent",
+    "opB": "Isolated from other transactions",
+    "opC": "Performed in its entirety or not at all (All or Nothing Rule)",
+    "opD": "Consistent and preserves database integrity",
+    "opright": "opC"
+  },
+  {
+    "queNo": "263",
+    "queText": "Consistency in ACID properties is related to?",
+    "opA": "The speed of transaction processing",
+    "opB": "The durability of data after a transaction",
+    "opC": "The correctness of the database state",
+    "opD": "The isolation of transactions from each other",
+    "opright": "opC"
+  },
+  {
+    "queNo": "264",
+    "queText": "Durability in ACID properties means that once a transaction is committed?",
+    "opA": "Its effects can be easily rolled back",
+    "opB": "The database becomes read-only",
+    "opC": "The changes are permanent, even in case of system failures",
+    "opD": "Other transactions cannot access the data",
+    "opright": "opC"
+  },
+  {
+    "queNo": "265",
+    "queText": "Isolation in ACID properties ensures that?",
+    "opA": "Only authorized users can access the data",
+    "opB": "Transactions operate independently of each other",
+    "opC": "Data is stored in a secure and encrypted manner",
+    "opD": "The database is backed up regularly",
+    "opright": "opB"
+  },
+  {
+    "queNo": "266",
+    "queText": "Physical Data Independence refers to the ability to modify the?",
+    "opA": "External Schema without affecting the Conceptual Schema",
+    "opB": "Conceptual Schema without affecting the External Schema",
+    "opC": "Internal Schema without affecting the Conceptual Schema",
+    "opD": "Application Programs without affecting the Internal Schema",
+    "opright": "opC"
+  },
+  {
+    "queNo": "267",
+    "queText": "Logical Data Independence refers to the ability to modify the?",
+    "opA": "Internal Schema without affecting the External Schema and Application Programs",
+    "opB": "External Schema without affecting the Internal Schema",
+    "opC": "Physical storage structures without affecting the logical structure",
+    "opD": "User interfaces without affecting the database schema",
+    "opright": "opA"
+  },
+  {
+    "queNo": "268",
+    "queText": "Which type of data independence is harder to achieve compared to the other?",
+    "opA": "Physical Data Independence",
+    "opB": "Logical Data Independence",
+    "opC": "Both are equally difficult",
+    "opD": "Depends on the DBMS",
+    "opright": "opB"
+  },
+  {
+    "queNo": "269",
+    "queText": "Different data models are used to?",
+    "opA": "Implement different programming languages",
+    "opB": "Manage computer networks",
+    "opC": "Facilitate efficient use of the database at the external and conceptual levels by using certain data structures",
+    "opD": "Secure data from unauthorized access",
+    "opright": "opC"
+  },
+  {
+    "queNo": "270",
+    "queText": "A transaction property provided by Shadow Paging Database Systems includes?",
+    "opA": "Isolation and Consistency",
+    "opB": "Atomicity and Durability (partially)",
+    "opC": "Consistency and Durability",
+    "opD": "Atomicity and Isolation",
+    "opright": "opB"
+  },
+  {
+    "queNo": "271",
+    "queText": "Shadow Paging Database divides the database into?",
+    "opA": "Logical segments",
+    "opB": "Physical files",
+    "opC": "Fixed-size disk pages or disk blocks",
+    "opD": "Memory buffers",
+    "opright": "opC"
+  },
+  {
+    "queNo": "272",
+    "queText": "When a transaction execution begins in Shadow Paging, the current directory points to?",
+    "opA": "The oldest database pages on disk",
+    "opB": "The most recently committed database pages on disk",
+    "opC": "Empty disk blocks",
+    "opD": "Backup database pages",
+    "opright": "opB"
+  },
+  {
+    "queNo": "273",
+    "queText": "What is a complexity associated with the Write operation in Shadow Paging?",
+    "opA": "It requires complex locking mechanisms",
+    "opB": "It involves updating multiple copies of the same page",
+    "opC": "It is relatively easy to implement",
+    "opD": "It doesn't require disk I/O",
+    "opright": "opB"
+  },
+  {
+    "queNo": "274",
+    "queText": "Which of the following is an advantage of Relational Database over other models mentioned?",
+    "opA": "Difficult to update",
+    "opB": "Complex user interface",
+    "opC": "Easier to update and has a user-friendly interface, leading to faster data processing",
+    "opD": "Limited data processing capabilities",
+    "opright": "opC"
+  },
+  {
+    "queNo": "275",
+    "queText": "A key feature of the Relational Database System mentioned is?",
+    "opA": "Limited concurrency control",
+    "opB": "Transparency",
+    "opC": "Complex data structure",
+    "opD": "Difficult data retrieval",
+    "opright": "opB"
+  },
+  {
+    "queNo": "276",
+    "queText": "What is a limitation of Distributed Database Systems mentioned?",
+    "opA": "Slower data access speed compared to centralized systems",
+    "opB": "Increased complexity in managing data across multiple sites",
+    "opC": "Lower data availability and reliability",
+    "opD": "Higher susceptibility to data loss",
+    "opright": "opB"
+  },
+  {
+    "queNo": "277",
+    "queText": "Indexing in a database file is similar to an index in a library, which can be organized in how many ways?",
+    "opA": "One",
+    "opB": "Two",
+    "opC": "Three",
+    "opD": "Four",
+    "opright": "opB"
+  },
+  {
+    "queNo": "278",
+    "queText": "Order Indexing is based on the sorted order of?",
+    "opA": "File size",
+    "opB": "Record creation date",
+    "opC": "Values",
+    "opD": "Physical storage location",
+    "opright": "opC"
+  },
+  {
+    "queNo": "279",
+    "queText": "Hash Indexing is based on an equal distribution of?",
+    "opA": "Record size",
+    "opB": "Access frequency",
+    "opC": "Value",
+    "opD": "Number of fields",
+    "opright": "opC"
+  },
+  {
+    "queNo": "280",
+    "queText": "Logical organization of records in a file is known as?",
+    "opA": "Data Sequencing",
+    "opB": "File Organization",
+    "opC": "Record Structuring",
+    "opD": "Database Design",
+    "opright": "opB"
+  },
+  {
+    "queNo": "281",
+    "queText": "In relational database terms, the rows of a table or relation are called?",
+    "opA": "Fields",
+    "opB": "Attributes",
+    "opC": "Tuples",
+    "opD": "Degrees",
+    "opright": "opC"
+  },
+  {
+    "queNo": "282",
+    "queText": "In relational database terms, the columns of a table or relation are called?",
+    "opA": "Records",
+    "opB": "Tuples",
+    "opC": "Attributes",
+    "opD": "Cardinalities",
+    "opright": "opC"
+  },
+  {
+    "queNo": "283",
+    "queText": "The number of attributes in a table or relation is its?",
+    "opA": "Cardinality",
+    "opB": "Degree",
+    "opC": "Tuple",
+    "opD": "View",
+    "opright": "opB"
+  },
+  {
+    "queNo": "284",
+    "queText": "The number of rows or tuples in a table or relation is its?",
+    "opA": "Degree",
+    "opB": "Attribute",
+    "opC": "Cardinality",
+    "opD": "Primary Key",
+    "opright": "opC"
+  },
+  {
+    "queNo": "285",
+    "queText": "A table that does not have its own data but derives it from other base tables is called a?",
+    "opA": "Base Table",
+    "opB": "Derived Table",
+    "opC": "View",
+    "opD": "Temporary Table",
+    "opright": "opC"
+  },
+  {
+    "queNo": "286",
+    "queText": "A Primary Key in a relation is a set of one or more attributes that?",
+    "opA": "Contains duplicate values",
+    "opB": "Uniquely identifies each tuple",
+    "opC": "Is used for sorting the table",
+    "opD": "Links to other tables as a Foreign Key",
+    "opright": "opB"
+  },
+  {
+    "queNo": "287",
+    "queText": "A Candidate Key is a combination of attributes that can serve as a?",
+    "opA": "Foreign Key",
+    "opB": "Secondary Index",
+    "opC": "Primary Key",
+    "opD": "View Definition",
+    "opright": "opC"
+  },
+  {
+    "queNo": "288",
+    "queText": "What does a column in a table represent?",
+    "opA": "Record",
+    "opB": "Tuple",
+    "opC": "Attribute",
+    "opD": "Field Value",
+    "opright": "opC"
+  },
+  {
+    "queNo": "289",
+    "queText": "A collection of data in DBMS is called?",
+    "opA": "File",
+    "opB": "Record",
+    "opC": "Database",
+    "opD": "Field",
+    "opright": "opB"
+  },
+  {
+    "queNo": "290",
+    "queText": "What is used to retrieve required information from a database?",
+    "opA": "Data Entry Form",
+    "opB": "Report Generator",
+    "opC": "Query Language",
+    "opD": "Data Dictionary",
+    "opright": "opC"
+  },
+  {
+    "queNo": "291",
+    "queText": "What is related to the logical representation of data?",
+    "opA": "Physical storage",
+    "opB": "Indexing",
+    "opC": "Data Modeling",
+    "opD": "Concurrency control",
+    "opright": "opC"
+  },
+  {
+    "queNo": "292",
+    "queText": "A blockchain packet is?",
+    "opA": "A sequence of linked databases",
+    "opB": "A hash of the previous block",
+    "opC": "The number of attributes in a block record",
+    "opD": "An encrypted data segment",
+    "opright": "opC"
+  },
+  {
+    "queNo": "293",
+    "queText": "The part of a database record that gets separated is called?",
+    "opA": "Field",
+    "opB": "Attribute",
+    "opC": "Tuple",
+    "opD": "View",
+    "opright": "opA"
+  },
+  {
+    "queNo": "294",
+    "queText": "OTP stands for?",
+    "opA": "Online Transaction Protocol",
+    "opB": "One Time Password",
+    "opC": "Original Transfer Protocol",
+    "opD": "Open Terminal Protocol",
+    "opright": "opB"
+  },
+  {
+    "queNo": "295",
+    "queText": "A One Time Password provides?",
+    "opA": "Permanent access to a system",
+    "opB": "A frequently changing static password",
+    "opC": "An additional unique password for each login attempt",
+    "opD": "A backup password for emergencies",
+    "opright": "opC"
+  },
+  {
+    "queNo": "296",
+    "queText": "How can One Time Passwords be implemented?",
+    "opA": "Only through SMS",
+    "opB": "Using Random numbers, Time-based algorithms, etc.",
+    "opC": "Only using biometrics",
+    "opD": "Only through physical security tokens",
+    "opright": "opB"
+  },
+  {
+    "queNo": "297",
+    "queText": "A type of malicious code that attaches itself to other programs and replicates is a?",
+    "opA": "Worm",
+    "opB": "Trojan Horse",
+    "opC": "Virus",
+    "opD": "Spyware",
+    "opright": "opC"
+  },
+  {
+    "queNo": "298",
+    "queText": "How does a computer virus primarily enter a computer system?",
+    "opA": "Through direct hardware manipulation",
+    "opB": "Mainly through processing E-Mail or with downloaded files",
+    "opC": "By exploiting operating system vulnerabilities automatically",
+    "opD": "Through physical damage to the hardware",
+    "opright": "opB"
+  },
+  {
+    "queNo": "299",
+    "queText": "What is a characteristic of a Real-time operating system?",
+    "opA": "It processes a large number of tasks simultaneously.",
+    "opB": "It requires minimal device drivers.",
+    "opC": "It performs few tasks at the same time.",
+    "opD": "Its algorithm is simple.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "300",
+    "queText": "Distributed operating systems involve?",
+    "opA": "A single computer managing multiple user terminals.",
+    "opB": "Multiple computers connected via a network sharing tasks.",
+    "opC": "A central server managing all computing resources.",
+    "opD": "Individual computers operating independently without network connection.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "301",
+    "queText": "Saving the same data in multiple places is known as?",
+    "opA": "Caching",
+    "opB": "Redundancy",
+    "opC": "Backup",
+    "opD": "Duplication",
+    "opright": "opB"
+  },
+  {
+    "queNo": "302",
+    "queText": "In Computer Science, the extended form of ASP is?",
+    "opA": "Advanced System Protocol",
+    "opB": "Application Service Provider",
+    "opC": "Active Server Page",
+    "opD": "Automated Software Process",
+    "opright": "opB"
+  },
+  {
+    "queNo": "303",
+    "queText": "Copyrighted application software that can be used without payment is called?",
+    "opA": "Shareware",
+    "opB": "Freeware",
+    "opC": "Open Source",
+    "opD": "Proprietary Software",
+    "opright": "opB"
+  },
+  {
+    "queNo": "304",
+    "queText": "The abbreviated form of API is?",
+    "opA": "Advanced Processing Interface",
+    "opB": "Application Programming Interface",
+    "opC": "Automated Protocol Integration",
+    "opD": "Algorithm Parameter Index",
+    "opright": "opB"
+  },
+  {
+    "queNo": "305",
+    "queText": "The extended form of GIS is?",
+    "opA": "Global Internet System",
+    "opB": "Geographic Information System",
+    "opC": "Graphical Input Software",
+    "opD": "General Information Server",
+    "opright": "opB"
+  },
+  {
+    "queNo": "306",
+    "queText": "Software used to compress files is?",
+    "opA": "Winrar",
+    "opB": "Winzip",
+    "opC": "Excel",
+    "opD": "Word",
+    "opright": "opB"
+  },
+  {
+    "queNo": "307",
+    "queText": "The bar used for measuring work area is?",
+    "opA": "Menu bar",
+    "opB": "Status bar",
+    "opC": "Scroll bar",
+    "opD": "Taskbar",
+    "opright": "opD"
+  },
+  {
+    "queNo": "308",
+    "queText": "The function used to see how a document will look before printing is?",
+    "opA": "Print",
+    "opB": "Save",
+    "opC": "Print Preview",
+    "opD": "Page Setup",
+    "opright": "opC"
+  },
+  {
+    "queNo": "309",
+    "queText": "In Microsoft Word, which option is used to move a selected paragraph left or right?",
+    "opA": "Line Spacing",
+    "opB": "Paragraph Formatting",
+    "opC": "Indentation",
+    "opD": "Alignment",
+    "opright": "opC"
+  },
+  {
+    "queNo": "310",
+    "queText": "In Microsoft Excel, a function present inside another function is called?",
+    "opA": "Inner Function",
+    "opB": "Nested Function",
+    "opC": "Sub Function",
+    "opD": "Derivative Function",
+    "opright": "opB"
+  },
+  {
+    "queNo": "311",
+    "queText": "To make the presentation of a document more effective, what is done to it?",
+    "opA": "Data entry",
+    "opB": "Document Formatting",
+    "opC": "Spell checking",
+    "opD": "Grammar correction",
+    "opright": "opB"
+  },
+  {
+    "queNo": "312",
+    "queText": "How can important text in a document be made more effective?",
+    "opA": "By reducing its font size.",
+    "opB": "By making it less visible.",
+    "opC": "By changing its color, style, and font size.",
+    "opD": "By hiding it within the document.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "313",
+    "queText": "What can be adjusted to control the empty space between lines of text in a document?",
+    "opA": "Margin width",
+    "opB": "Page size",
+    "opC": "Line Spacing",
+    "opD": "Font style",
+    "opright": "opC"
+  },
+  {
+    "queNo": "314",
+    "queText": "Backstage View in a Microsoft Office application provides facilities such as?",
+    "opA": "Only editing and formatting tools.",
+    "opB": "Only saving and opening files.",
+    "opC": "Saving, opening, printing, and sharing files.",
+    "opD": "Only viewing document properties.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "315",
+    "queText": "How many parts is the Backstage View typically divided into?",
+    "opA": "Two",
+    "opB": "Three",
+    "opC": "Four",
+    "opD": "Five",
+    "opright": "opB"
+  },
+  {
+    "queNo": "316",
+    "queText": "What is displayed in the first part of the Backstage View?",
+    "opA": "Options related to the file.",
+    "opB": "List of recently opened files.",
+    "opC": "Commands used for working on the file.",
+    "opD": "Different file-related options.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "317",
+    "queText": "What is presented in the second (middle) part of the Backstage View?",
+    "opA": "Advanced customization settings.",
+    "opB": "Information related to the file.",
+    "opC": "Different options related to that file.",
+    "opD": "User account details.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "318",
+    "queText": "What kind of options are available in the third part of the Backstage View?",
+    "opA": "Basic file operations.",
+    "opB": "Additional file-related options.",
+    "opC": "Software update information.",
+    "opD": "Help and support resources.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "319",
+    "queText": "The Macro is a very useful feature of which Microsoft application?",
+    "opA": "Excel",
+    "opB": "PowerPoint",
+    "opC": "Word",
+    "opD": "Access",
+    "opright": "opC"
+  },
+  {
+    "queNo": "320",
+    "queText": "What does the Macro feature in Microsoft Word allow users to do?",
+    "opA": "Automatically correct spelling and grammar.",
+    "opB": "Record tasks performed on documents and play them back as needed.",
+    "opC": "Insert predefined templates and layouts.",
+    "opD": "Collaborate with multiple users in real-time.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "321",
+    "queText": "Dynamic Exchange of Data (DDE) in Microsoft Word enables?",
+    "opA": "Only sharing of text data between documents.",
+    "opB": "Exchange and sharing of data and charts in documents with other applications.",
+    "opC": "Automatic saving of documents to the cloud.",
+    "opD": "Real-time translation of text into different languages.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "322",
+    "queText": "The 'Review' menu in newer versions of Microsoft Excel is an important part. What was it called in older versions?",
+    "opA": "Edit Menu",
+    "opB": "Tools Menu",
+    "opC": "Data Menu",
+    "opD": "View Menu",
+    "opright": "opB"
+  },
+  {
+    "queNo": "323",
+    "queText": "Which option under the 'Review' menu in Excel is used to check the spelling and grammar of text in worksheets?",
+    "opA": "Track Changes",
+    "opB": "Share Workbook",
+    "opC": "Spelling",
+    "opD": "Error Checking",
+    "opright": "opC"
+  },
+  {
+    "queNo": "324",
+    "queText": "The 'Error Checking' option in Excel's 'Review' menu is used for?",
+    "opA": "Checking the overall formatting of the worksheet.",
+    "opB": "Verifying the accuracy of formulas.",
+    "opC": "Checking for errors present in the displayed worksheet.",
+    "opD": "Managing user permissions for the workbook.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "325",
+    "queText": "The 'Share Workbook' option in Excel's 'Review' menu allows users to?",
+    "opA": "Distribute copies of the workbook via email.",
+    "opB": "Present the workbook in a slideshow format.",
+    "opC": "Share the Excel Workbook with others for collaboration.",
+    "opD": "Export the workbook as a PDF file.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "326",
+    "queText": "The 'Track Changes' option in Excel's 'Review' menu is divided into how many parts?",
+    "opA": "One",
+    "opB": "Two",
+    "opC": "Three",
+    "opD": "Four",
+    "opright": "opB"
+  },
+  {
+    "queNo": "327",
+    "queText": "The 'Highlight Changes' sub-option under 'Track Changes' in Excel is used to?",
+    "opA": "Prevent further modifications to the shared workbook.",
+    "opB": "Display the changes made to the cell contents of a shared workbook.",
+    "opC": "Create a summary report of all changes.",
+    "opD": "Lock specific cells to prevent changes.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "328",
+    "queText": "The 'Accept or Reject Changes' sub-option under 'Track Changes' in Excel allows users to?",
+    "opA": "Automatically apply all changes without review.",
+    "opB": "Search for changes made in a shared workbook and accept or reject them.",
+    "opC": "Delete all tracked changes without reviewing them.",
+    "opD": "Merge different versions of the workbook.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "329",
+    "queText": "Which of the following is an example of a Financial Function in Microsoft Excel?",
+    "opA": "SUM()",
+    "opB": "AVERAGE()",
+    "opC": "PMT()",
+    "opD": "IF()",
+    "opright": "opC"
+  },
+  {
+    "queNo": "330",
+    "queText": "Which of the following is an example of a Text Function in Microsoft Excel?",
+    "opA": "MAX()",
+    "opB": "MIN()",
+    "opC": "CONCATENATE()",
+    "opD": "COUNT()",
+    "opright": "opC"
+  },
+  {
+    "queNo": "331",
+    "queText": "Which of the following is an example of a Date & Time Function in Microsoft Excel?",
+    "opA": "ROUND()",
+    "opB": "SQRT()",
+    "opC": "NOW()",
+    "opD": "SUMIF()",
+    "opright": "opC"
+  },
+  {
+    "queNo": "332",
+    "queText": "Which of the following is an example of a Lookup & Reference Function in Microsoft Excel?",
+    "opA": "AND()",
+    "opB": "OR()",
+    "opC": "VLOOKUP()",
+    "opD": "NOT()",
+    "opright": "opC"
+  },
+  {
+    "queNo": "333",
+    "queText": "Logical Functions in Excel are used to check for?",
+    "opA": "Mathematical accuracy",
+    "opB": "Text formatting",
+    "opC": "True or False conditions",
+    "opD": "Date and time validity",
+    "opright": "opC"
+  },
+  {
+    "queNo": "334",
+    "queText": "To install Engineering Functions in Microsoft Excel, which add-in needs to be used?",
+    "opA": "Solver Add-in",
+    "opB": "Analysis Toolpack",
+    "opC": "Euro Currency Tools",
+    "opD": "Conditional Formatting",
+    "opright": "opB"
+  },
+  {
+    "queNo": "335",
+    "queText": "Which of the following is an example of a Database Function in Microsoft Excel?",
+    "opA": "IFERROR()",
+    "opB": "DAVERAGE()",
+    "opC": "HYPERLINK()",
+    "opD": "TRANSPOSE()",
+    "opright": "opB"
+  },
+  {
+    "queNo": "336",
+    "queText": "Currency Data in Excel can be formatted to display as?",
+    "opA": "Only simple numbers",
+    "opB": "Simple numbers, Currency, Fixed decimals, Standard, Percentage, etc.",
+    "opC": "Only as percentage",
+    "opD": "Only in a fixed decimal format",
+    "opright": "opB"
+  },
+  {
+    "queNo": "337",
+    "queText": "Yes/No Data type in Excel is used to enter?",
+    "opA": "Numerical values",
+    "opB": "Text values",
+    "opC": "Logical values (True/False)",
+    "opD": "Date and time values",
+    "opright": "opC"
+  },
+  {
+    "queNo": "338",
+    "queText": "Logical values that can be entered using Yes/No data type include?",
+    "opA": "Only True/False",
+    "opB": "True/False, Yes/No, On/Off",
+    "opC": "Only Yes/No",
+    "opD": "Only On/Off",
+    "opright": "opB"
+  },
+  {
+    "queNo": "339",
+    "queText": "What is the function of the WHERE clause in SQL?",
+    "opA": "To order the result set.",
+    "opB": "To group rows with the same values.",
+    "opC": "To filter records based on specified conditions.",
+    "opD": "To select the columns to be displayed.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "340",
+    "queText": "What does the SQL SELECT statement do?",
+    "opA": "It inserts new records into a database.",
+    "opB": "It modifies existing records in a database.",
+    "opC": "It retrieves data from one or more tables.",
+    "opD": "It deletes records from a database.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "341",
+    "queText": "SQL commands are used to perform?",
+    "opA": "Only data storage and retrieval.",
+    "opB": "Only database creation and deletion.",
+    "opC": "Data manipulation in a database based on statements.",
+    "opD": "Only user authentication and authorization.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "342",
+    "queText": "What is the purpose of the Union operator in SQL?",
+    "opA": "To select common records from two tables.",
+    "opB": "To combine the results of two or more SELECT statements.",
+    "opC": "To exclude records present in the second table from the first.",
+    "opD": "To create a Cartesian product of two tables.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "343",
+    "queText": "What happens to duplicate rows when using the Union operator in SQL?",
+    "opA": "They are kept and displayed multiple times.",
+    "opB": "They are removed from the final result.",
+    "opC": "They cause an error in the query.",
+    "opD": "They are highlighted in the output.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "344",
+    "queText": "What is the shortcut to add a new slide?",
+    "opA": "Ctrl + N",
+    "opB": "Ctrl + M",
+    "opC": "Ctrl + O",
+    "opD": "Ctrl + S",
+    "opright": "opB"
+  },
+  {
+    "queNo": "345",
+    "queText": "In the current scenario, people are becoming targets of cyber offenses through?",
+    "opA": "Only direct physical contact.",
+    "opB": "Various mediums.",
+    "opC": "Only traditional mail.",
+    "opD": "Only telephone calls.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "346",
+    "queText": "According to 'CERT-In' (Indian Computer Emergency Response Team), how many cyber security incidents were reported in India during the year 2017?",
+    "opA": "Less than 10000",
+    "opB": "Around 25000",
+    "opC": "More than 53000",
+    "opD": "Exactly 100000",
+    "opright": "opC"
+  },
+  {
+    "queNo": "347",
+    "queText": "Cyber attacks are becoming gradually?",
+    "opA": "Simpler and less frequent.",
+    "opB": "Slow and less complex.",
+    "opC": "Subtle and more complex.",
+    "opD": "Easier to trace and prevent.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "348",
+    "queText": "Targets of cyber attacks often include user's?",
+    "opA": "Only browsing history.",
+    "opB": "Name, address, photograph, phone number, bank details, etc.",
+    "opC": "Only social media activities.",
+    "opD": "Only email communications.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "349",
+    "queText": "For password security, what should be enabled for all accounts?",
+    "opA": "Single-factor authentication",
+    "opB": "Biometric login",
+    "opC": "Two-Factor Authentication",
+    "opD": "Automatic password generation",
+    "opright": "opC"
+  },
+  {
+    "queNo": "350",
+    "queText": "A strong password should include a combination of?",
+    "opA": "Only lowercase letters and numbers.",
+    "opB": "Only uppercase letters and special characters.",
+    "opC": "Alphanumeric, special characters, uppercase and lowercase letters, with at least 11 or more characters.",
+    "opD": "Common words and personal information.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "351",
+    "queText": "If there is a suspicion that an online account has been hacked, what immediate action should be taken?",
+    "opA": "Inform the internet service provider.",
+    "opB": "Run a virus scan on the computer.",
+    "opC": "Change the password immediately.",
+    "opD": "Contact technical support for the website.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "352",
+    "queText": "Due to the use of digital technology in recent years, what kind of changes are being observed around us?",
+    "opA": "Very few noticeable changes.",
+    "opB": "Significant changes in the world around us.",
+    "opC": "Only changes in communication methods.",
+    "opD": "Only changes in entertainment options.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "353",
+    "queText": "These changes brought about by digital technology have had what kind of impact on our lives?",
+    "opA": "Mostly negative impacts.",
+    "opB": "Neutral impacts.",
+    "opC": "Positive impacts, making life more convenient, fast, and easy.",
+    "opD": "Unpredictable impacts.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "354",
+    "queText": "Our digital footprint can be created and used with or without our?",
+    "opA": "Financial resources.",
+    "opB": "Physical presence.",
+    "opC": "Knowledge.",
+    "opD": "Technical skills.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "355",
+    "queText": "What type of information is included in our digital footprint?",
+    "opA": "Only our social media posts.",
+    "opB": "Computer's IP Address, Location, Device Specifications, Visited Websites, Sent E-mails, Online Submissions, etc.",
+    "opC": "Only our online shopping history.",
+    "opD": "Only our saved passwords.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "356",
+    "queText": "How can digital footprint data be used?",
+    "opA": "Only for improving user experience.",
+    "opB": "For targeted advertisement or misused or exploited.",
+    "opC": "Only for academic research.",
+    "opD": "Only for government surveillance.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "357",
+    "queText": "What is recommended regarding the data trail we leave behind?",
+    "opA": "To share as much information as possible online.",
+    "opB": "To be aware of the data trail we are leaving behind.",
+    "opC": "To regularly delete all online activity.",
+    "opD": "To use anonymous browsing at all times.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "358",
+    "queText": "Net Etiquettes emphasize that while interacting on the internet, an individual (user) should be?",
+    "opA": "Anonymous and untraceable.",
+    "opB": "Critical and judgmental.",
+    "opC": "Ethical, Respectful, and Responsible.",
+    "opD": "Aggressive and dominant.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "359",
+    "queText": "Which of the following is a principle of Net Etiquettes?",
+    "opA": "Copyright infringement is acceptable.",
+    "opB": "Disrespect privacy of others.",
+    "opC": "Avoid Cyber Bullying.",
+    "opD": "Promote intolerance and discrimination.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "360",
+    "queText": "Communication Etiquettes apply to which forms of digital communication?",
+    "opA": "Only email.",
+    "opB": "Email, texting, instant messaging, phone calls, audio/video conferencing, social networking sites posts and comments, etc.",
+    "opC": "Only video conferencing.",
+    "opD": "Only social networking sites.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "361",
+    "queText": "Digital communication platforms are useful for?",
+    "opA": "Spreading misinformation and rumors.",
+    "opB": "Exchanging views, sharing data and knowledge, and connecting with people.",
+    "opC": "Conducting illegal activities anonymously.",
+    "opD": "Harassing and bullying others.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "362",
+    "queText": "For good communication on email, chat rooms, and similar platforms, what is recommended?",
+    "opA": "Using all capital letters for emphasis.",
+    "opB": "Being clear and concise in your communication.",
+    "opC": "Ignoring spelling and grammar.",
+    "opD": "Sending large attachments without prior notice.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "363",
+    "queText": "Social Media platforms enable users to?",
+    "opA": "Only consume content created by others.",
+    "opB": "Create and share content, participating in social networking with other users in the community.",
+    "opC": "Remain completely anonymous and isolated.",
+    "opD": "Engage in unethical and illegal activities without consequences.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "364",
+    "queText": "Social Media encourages users to share their?",
+    "opA": "Only personal contact information publicly.",
+    "opB": "Thoughts and Experiences.",
+    "opC": "Confidential financial details.",
+    "opD": "Login credentials with others.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "365",
+    "queText": "What is a key aspect of staying secure on social media?",
+    "opA": "Using the same simple password for all accounts.",
+    "opB": "Being unreliable in the information you share.",
+    "opC": "Choosing Password Wisely.",
+    "opD": "Sharing personal information openly with everyone.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "366",
+    "queText": "Before uploading anything on social media, it is important to?",
+    "opA": "Upload immediately without thinking.",
+    "opB": "Think before you upload.",
+    "opC": "Assume all information online is accurate.",
+    "opD": "Engage with fake information to debunk it publicly.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "367",
+    "queText": "Regarding friendships on social media, it's important to?",
+    "opA": "Accept friend requests from everyone.",
+    "opB": "Know who you befriend.",
+    "opC": "Share personal details with all your connections.",
+    "opD": "Believe everything people share on their profiles.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "368",
+    "queText": "When encountering information on social media, it's crucial to be aware of?",
+    "opA": "Only positive and encouraging content.",
+    "opB": "Beware of fake information.",
+    "opC": "Information shared by verified accounts only.",
+    "opD": "Information that aligns with your personal beliefs.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "369",
+    "queText": "Data Protection in the digital age primarily concerns the?",
+    "opA": "Physical security of computer hardware.",
+    "opB": "Confidentiality of data stored mainly in digital form.",
+    "opC": "Speed and efficiency of data processing.",
+    "opD": "Availability of data for public access.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "370",
+    "queText": "The value of data or information lies in aspects like its?",
+    "opA": "Physical size and storage location.",
+    "opB": "Frequency of access and user popularity.",
+    "opC": "Confidentiality, integrity, and availability.",
+    "opD": "Complexity and technical specifications.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "371",
+    "queText": "Application software is specifically designed for?",
+    "opA": "Managing the computer's hardware resources.",
+    "opB": "Performing specific tasks needed by users.",
+    "opC": "Interfacing between hardware and other software.",
+    "opD": "Controlling the basic operations of the computer.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "372",
+    "queText": "A computer system can function without application software but cannot function without?",
+    "opA": "Utility software",
+    "opB": "Operating system",
+    "opC": "Programming languages",
+    "opD": "Network drivers",
+    "opright": "opB"
+  },
+  {
+    "queNo": "373",
+    "queText": "What is proprietary software?",
+    "opA": "Software that is freely available for use and modification.",
+    "opB": "Software whose source code is available to the public.",
+    "opC": "Software that is owned by an individual or company, and the user typically has to pay for a license to use it, with restrictions on modification and distribution.",
+    "opD": "Software that is developed collaboratively by a community of programmers.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "374",
+    "queText": "With proprietary software, the user is generally?",
+    "opA": "Encouraged to modify and share the software.",
+    "opB": "Free to make copies and distribute them.",
+    "opC": "Not the owner and does not have control to copy, alter, or sell it.",
+    "opD": "Required to submit any modifications back to the original developer.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "375",
+    "queText": "Open Source promotes broad open access to what for various needs?",
+    "opA": "Only hardware resources.",
+    "opB": "Only user data.",
+    "opC": "Design and production processes for various materials, products, resources, and technical conclusions.",
+    "opD": "Only marketing and distribution strategies.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "376",
+    "queText": "The term Open Source is generally applied to the?",
+    "opA": "Hardware specifications of a computer.",
+    "opB": "Network protocols used for communication.",
+    "opC": "Source code of software.",
+    "opD": "User interface design of applications.",
+    "opright": "opC"
+  },
+  {
+    "queNo": "377",
+    "queText": "Open Source software is typically available to the public with intellectual property restrictions that are?",
+    "opA": "Strict and fully enforced.",
+    "opB": "Either relaxed or non-existent.",
+    "opC": "Managed by a central licensing authority.",
+    "opD": "Varying based on the user's geographical location.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "378",
+    "queText": "Open Source software development is considered better for coders because?",
+    "opA": "It always results in faster software.",
+    "opB": "It is distinct from closed source software development.",
+    "opC": "It guarantees higher salaries for developers.",
+    "opD": "It restricts collaboration and code sharing.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "379",
+    "queText": "A key advantage of Open Source is?",
+    "opA": "Lower software development costs for end-users.",
+    "opB": "Greater Freedom for its users, who are also its developers.",
+    "opC": "Centralized control over software updates and distribution.",
+    "opD": "Limited compatibility with different operating systems.",
+    "opright": "opB"
+  },
+  {
+    "queNo": "380",
+    "queText": "Open Standards are also known as?",
+    "opA": "Proprietary Formats",
+    "opB": "Closed Formats",
+    "opC": "Open format",
+    "opD": "Restricted Standards",
+    "opright": "opC"
+  },
+  {
+    "queNo": "381",
+    "queText": "Open Standards refer to independent standards for?",
+    "opA": "Only hardware manufacturing processes.",
+    "opB": "Digital content and media.",
+    "opC": "Only software licensing agreements.",
+    "opD": "Only network communication protocols.",
+    "opright": "opB"
+  }
+]

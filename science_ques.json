@@ -1,0 +1,92 @@
+[
+  {
+    "queNo": "1",
+    "queText": "What is the chemical symbol for water?",
+    "opA": "H2O",
+    "opB": "CO2",
+    "opC": "NaCl",
+    "opD": "O2",
+    "opright": "opA"
+  },
+  {
+    "queNo": "2",
+    "queText": "Which planet is known as the Red Planet?",
+    "opA": "Venus",
+    "opB": "Mars",
+    "opC": "Jupiter",
+    "opD": "Saturn",
+    "opright": "opB"
+  },
+  {
+    "queNo": "3",
+    "queText": "What is the largest organ in the human body?",
+    "opA": "Heart",
+    "opB": "Liver",
+    "opC": "Skin",
+    "opD": "Brain",
+    "opright": "opC"
+  },
+  {
+    "queNo": "4",
+    "queText": "Which of the following is NOT a state of matter?",
+    "opA": "Solid",
+    "opB": "Liquid",
+    "opC": "Gas",
+    "opD": "Energy",
+    "opright": "opD"
+  },
+  {
+    "queNo": "5",
+    "queText": "What is the process by which plants make their own food?",
+    "opA": "Respiration",
+    "opB": "Photosynthesis",
+    "opC": "Digestion",
+    "opD": "Excretion",
+    "opright": "opB"
+  },
+  {
+    "queNo": "6",
+    "queText": "Which of the following is a renewable source of energy?",
+    "opA": "Coal",
+    "opB": "Natural Gas",
+    "opC": "Solar Energy",
+    "opD": "Petroleum",
+    "opright": "opC"
+  },
+  {
+    "queNo": "7",
+    "queText": "What is the unit of electric current?",
+    "opA": "Volt",
+    "opB": "Watt",
+    "opC": "Ampere",
+    "opD": "Ohm",
+    "opright": "opC"
+  },
+  {
+    "queNo": "8",
+    "queText": "Which of the following is NOT a type of blood cell?",
+    "opA": "Red Blood Cells",
+    "opB": "White Blood Cells",
+    "opC": "Platelets",
+    "opD": "Neurons",
+    "opright": "opD"
+  },
+  {
+    "queNo": "9",
+    "queText": "What is the closest star to Earth?",
+    "opA": "Proxima Centauri",
+    "opB": "Alpha Centauri",
+    "opC": "The Sun",
+    "opD": "Sirius",
+    "opright": "opC"
+  },
+  {
+    "queNo": "10",
+    "queText": "Which element has the chemical symbol 'O'?",
+    "opA": "Gold",
+    "opB": "Oxygen",
+    "opC": "Osmium",
+    "opD": "Oganesson",
+    "opright": "opB"
+  }
+]

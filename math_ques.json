@@ -1,0 +1,92 @@
+[
+  {
+    "queNo": "1",
+    "queText": "What is the square root of 144?",
+    "opA": "12",
+    "opB": "14",
+    "opC": "10",
+    "opD": "16",
+    "opright": "opA"
+  },
+  {
+    "queNo": "2",
+    "queText": "What is the value of π (pi) to two decimal places?",
+    "opA": "3.14",
+    "opB": "3.16",
+    "opC": "3.12",
+    "opD": "3.18",
+    "opright": "opA"
+  },
+  {
+    "queNo": "3",
+    "queText": "What is the formula for the area of a circle?",
+    "opA": "πr",
+    "opB": "2πr",
+    "opC": "πr²",
+    "opD": "πr³",
+    "opright": "opC"
+  },
+  {
+    "queNo": "4",
+    "queText": "What is 7 × 8?",
+    "opA": "54",
+    "opB": "56",
+    "opC": "58",
+    "opD": "62",
+    "opright": "opB"
+  },
+  {
+    "queNo": "5",
+    "queText": "Which of the following is a prime number?",
+    "opA": "15",
+    "opB": "21",
+    "opC": "27",
+    "opD": "29",
+    "opright": "opD"
+  },
+  {
+    "queNo": "6",
+    "queText": "What is the sum of angles in a triangle?",
+    "opA": "90 degrees",
+    "opB": "180 degrees",
+    "opC": "270 degrees",
+    "opD": "360 degrees",
+    "opright": "opB"
+  },
+  {
+    "queNo": "7",
+    "queText": "What is the result of 3² + 4²?",
+    "opA": "7",
+    "opB": "25",
+    "opC": "49",
+    "opD": "50",
+    "opright": "opB"
+  },
+  {
+    "queNo": "8",
+    "queText": "If x + 5 = 12, what is the value of x?",
+    "opA": "5",
+    "opB": "7",
+    "opC": "8",
+    "opD": "17",
+    "opright": "opB"
+  },
+  {
+    "queNo": "9",
+    "queText": "What is the next number in the sequence: 2, 4, 8, 16, ...?",
+    "opA": "24",
+    "opB": "30",
+    "opC": "32",
+    "opD": "64",
+    "opright": "opC"
+  },
+  {
+    "queNo": "10",
+    "queText": "What is the perimeter of a square with sides of length 5 cm?",
+    "opA": "20 cm",
+    "opB": "25 cm",
+    "opC": "10 cm",
+    "opD": "15 cm",
+    "opright": "opA"
+  }
+]

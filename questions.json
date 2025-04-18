@@ -6,7 +6,7 @@
     "opB": "21 years",
     "opC": "18 years",
     "opD": "25 years",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "2",
@@ -15,7 +15,7 @@
     "opB": "Occupation of a dwelling house in that area",
     "opC": "Temporary absence from their usual place of residence",
     "opD": "Being a member of Parliament and absent due to their duties",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "3",
@@ -24,7 +24,7 @@
     "opB": "Yes, if they reside temporarily in different constituencies",
     "opC": "No",
     "opD": "Yes, with the permission of the State Election Commission",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "4",
@@ -33,7 +33,7 @@
     "opB": "A neighboring village",
     "opC": "A town, municipality, or cantonment",
     "opD": "A district council",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "5",
@@ -42,7 +42,7 @@
     "opB": "The Chief Election Officer (Panchayat)",
     "opC": "The Electoral Registration Officer or Assistant Electoral Registration Officer",
     "opD": "The State Election Commission",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "6",
@@ -51,7 +51,7 @@
     "opB": "The last date for filing nominations",
     "opC": "The date of scrutiny of nominations",
     "opD": "The date of withdrawal of nominations",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "7",
@@ -60,7 +60,7 @@
     "opB": "Stare decisis",
     "opC": "Audi alteram partem",
     "opD": "Sub judice",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "8",
@@ -69,7 +69,7 @@
     "opB": "The District Election Officer",
     "opC": "The State Election Commission",
     "opD": "The State Government",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "9",
@@ -78,7 +78,7 @@
     "opB": "Whether a person is entitled to be included in the electoral roll",
     "opC": "Matters related to taxation levied by the gram panchayat",
     "opD": "Disputes concerning contracts entered into by the gram panchayat",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "10",
@@ -87,7 +87,7 @@
     "opB": "21 years",
     "opC": "25 years",
     "opD": "30 years",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "11",
@@ -96,7 +96,7 @@
     "opB": "The State Election Commission",
     "opC": "The State Government",
     "opD": "The High Court",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "12",
@@ -105,7 +105,7 @@
     "opB": "Two",
     "opC": "Three",
     "opD": "Four",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "13",
@@ -114,7 +114,7 @@
     "opB": "Before the sowing of the Kharif crop",
     "opC": "Immediately after the harvesting of the Kharif crop",
     "opD": "Before the harvesting of the Rabi crop",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "14",
@@ -123,7 +123,7 @@
     "opB": "One-fourth of the total number of members",
     "opC": "One-fifth of the total number of members",
     "opD": "One-tenth of the total number of members",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "15",
@@ -132,7 +132,7 @@
     "opB": "Yes, half the quorum of the original meeting",
     "opC": "No",
     "opD": "Yes, a reduced quorum as decided by the Presiding Officer",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "16",
@@ -141,7 +141,7 @@
     "opB": "Annual statement of accounts of the Gram Panchayat",
     "opC": "Policies of the Central Government",
     "opD": "Development plans of the neighboring districts",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "17",
@@ -150,7 +150,7 @@
     "opB": "Article 332",
     "opC": "Article 334",
     "opD": "Article 335",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "18",
@@ -159,7 +159,7 @@
     "opB": "Yes, they can only contest from reserved seats.",
     "opC": "No, they are not prevented from contesting from unreserved seats.",
     "opD": "It depends on the rules framed by the State Election Commission.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "19",
@@ -168,7 +168,7 @@
     "opB": "Election by the elected members of the Gram Panchayat",
     "opC": "Nomination by the State Government",
     "opD": "Selection by a committee appointed by the District Magistrate",
-    “opright”: “opA”
+    "opright": "opA"
   },
   {
     "queNo": "20",
@@ -177,7 +177,7 @@
     "opB": "The Block Development Officer",
     "opC": "The State Election Commission",
     "opD": "The State Government",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "21",
@@ -186,7 +186,7 @@
     "opB": "Along with the term of the Gram Panchayat",
     "opC": "Upon resignation submitted to the prescribed authority",
     "opD": "Upon being removed by a resolution of the Gram Sabha",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "22",
@@ -195,7 +195,7 @@
     "opB": "Pradhan of Gram Panchayat and Panch of Nyaya Panchayat",
     "opC": "Member of Gram Panchayat and Member of Zilla Panchayat",
     "opD": "Sarpanch of Nyaya Panchayat and Sahayak Sarpanch of Nyaya Panchayat",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "23",
@@ -204,7 +204,7 @@
     "opB": "Yes, with the permission of the prescribed authority",
     "opC": "No",
     "opD": "Yes, if they resign from the paid office before taking oath",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "24",
@@ -213,7 +213,7 @@
     "opB": "By an order issued by the Governor",
     "opC": "By notification",
     "opD": "By a directive from the State Election Commission",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "25",
@@ -222,7 +222,7 @@
     "opB": "Yes, if approved by the District Magistrate",
     "opC": "No",
     "opD": "Yes, with prior notification",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "26",
@@ -231,7 +231,7 @@
     "opB": "On the request of the Zilla Panchayat",
     "opC": "On the request of the concerned Gram Panchayat or otherwise",
     "opD": "On the recommendation of the State Election Commission",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "27",
@@ -240,7 +240,7 @@
     "opB": "A name decided by the State Government",
     "opC": "The name of that Panchayat area",
     "opD": "A combination of the village names within the area",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "28",
@@ -249,7 +249,7 @@
     "opB": "A non-governmental organization",
     "opC": "A corporate body",
     "opD": "An autonomous institution",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "29",
@@ -258,7 +258,7 @@
     "opB": "Nine",
     "opC": "Eleven",
     "opD": "Thirteen",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "30",
@@ -267,7 +267,7 @@
     "opB": "Thirteen",
     "opC": "Fifteen",
     "opD": "Seventeen",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "31",
@@ -276,7 +276,7 @@
     "opB": "Yes, as per the directives of the State Government.",
     "opC": "No, they are not prevented from contesting from unreserved seats.",
     "opD": "It depends on the population ratio in the Panchayat area.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "32",
@@ -285,7 +285,7 @@
     "opB": "No, the Pradhan is the head but not a member.",
     "opC": "Only in case of a tie in voting.",
     "opD": "Only during the absence of other members.",
-    “opright”: “opA”
+    "opright": "opA"
   },
   {
     "queNo": "33",
@@ -294,7 +294,7 @@
     "opB": "By open ballot",
     "opC": "By secret ballot in the prescribed manner",
     "opD": "By nomination by the elected members",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "34",
@@ -303,7 +303,7 @@
     "opB": "Members of the Nyaya Panchayat",
     "opC": "The Pradhan of the Gram Panchayat",
     "opD": "The Secretary of the Gram Panchayat",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "35",
@@ -312,7 +312,7 @@
     "opB": "The State Government",
     "opC": "The State Election Commission",
     "opD": "The Chief Election Officer (Panchayat)",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "36",
@@ -321,7 +321,7 @@
     "opB": "The Chief Election Officer (Panchayat)",
     "opC": "The State Government",
     "opD": "The Governor",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "37",
@@ -330,7 +330,7 @@
     "opB": "The prevailing rent or rates for similar premises in the locality",
     "opC": "A nominal amount fixed by the District Magistrate",
     "opD": "As agreed upon by the District Magistrate and the property owner",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "38",
@@ -339,7 +339,7 @@
     "opB": "An amount as determined by an arbitrator appointed by the State Government",
     "opC": "An amount as determined by an arbitrator appointed by the District Magistrate",
     "opD": "The average of the market value and the prevailing rent",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "39",
@@ -348,7 +348,7 @@
     "opB": "A committee constituted by the State Government",
     "opC": "An arbitrator appointed by the District Magistrate for this purpose",
     "opD": "The concerned civil court",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "40",
@@ -357,7 +357,7 @@
     "opB": "The Block Development Officer",
     "opC": "The District Magistrate",
     "opD": "The Chief Revenue Officer",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "41",
@@ -366,7 +366,7 @@
     "opB": "Any police officer",
     "opC": "Any person authorized by the District Magistrate in this behalf",
     "opD": "Any officer of the Revenue Department",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "42",
@@ -375,7 +375,7 @@
     "opB": "The Block Development Officer",
     "opC": "The District Magistrate or any officer empowered by him in this behalf",
     "opD": "The Superintendent of Police",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "43",
@@ -384,7 +384,7 @@
     "opB": "Removal of any lock or bolt or breaking open any door without any warning",
     "opC": "Reasonable warning and facility to withdraw",
     "opD": "Postponement of eviction until she agrees to move out",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "44",
@@ -393,7 +393,7 @@
     "opB": "The previous occupant from whom possession was taken at the time of requisition",
     "opC": "The Gram Panchayat",
     "opD": "The Revenue Department",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "45",
@@ -402,7 +402,7 @@
     "opB": "A fine which may extend to one thousand rupees",
     "opC": "A fine which may extend to five hundred rupees",
     "opD": "Suspension from their official duty for a specified period",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "46",
@@ -411,7 +411,7 @@
     "opB": "The prescribed authority",
     "opC": "The State Election Commission",
     "opD": "The High Court",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "47",
@@ -420,7 +420,7 @@
     "opB": "The returned candidate was not qualified or was disqualified for election",
     "opC": "Minor discrepancies in the counting of votes",
     "opD": "Delay in the commencement of polling",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "48",
@@ -429,7 +429,7 @@
     "opB": "The District Magistrate",
     "opC": "The District Judge",
     "opD": "The High Court",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "49",
@@ -438,7 +438,7 @@
     "opB": "Any Additional District Judge, Civil Judge, or Additional Civil Judge",
     "opC": "Only to a Senior Civil Judge",
     "opD": "Any judicial officer subordinate to the High Court",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "50",
@@ -447,7 +447,7 @@
     "opB": "Confirm, vary, or rescind the order, or remit the case to the prescribed authority for re-hearing",
     "opC": "Only vary the order with the consent of both parties",
     "opD": "Only rescind the order and order a fresh election",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "51",
@@ -456,7 +456,7 @@
     "opB": "They shall be subject to appeal to the High Court.",
     "opC": "They shall be final.",
     "opD": "They shall be provisional until confirmed by the State Government.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "52",
@@ -465,7 +465,7 @@
     "opB": "The Block Development Officer",
     "opC": "Such authority as may be prescribed",
     "opD": "The Secretary of the Gram Panchayat",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "53",
@@ -474,7 +474,7 @@
     "opB": "By co-option by the remaining members",
     "opC": "In the manner provided in Sections 11-B, 11-C, or 12, as the case may be",
     "opD": "The office shall remain vacant until the next general election",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "54",
@@ -483,7 +483,7 @@
     "opB": "Four months",
     "opC": "Six months",
     "opD": "One year",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "55",
@@ -492,7 +492,7 @@
     "opB": "Yes, with the permission of the District Magistrate",
     "opC": "No",
     "opD": "Yes, if there is a violation of fundamental rights",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "56",
@@ -501,7 +501,7 @@
     "opB": "The Block Development Officer",
     "opC": "The prescribed authority",
     "opD": "The Vice-Pradhan, if any",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "57",
@@ -510,7 +510,7 @@
     "opB": "Two-thirds majority",
     "opC": "Three-fourths majority",
     "opD": "Majority of the total members",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "58",
@@ -519,7 +519,7 @@
     "opB": "One-fourth of the total members of the Gram Sabha",
     "opC": "One-third of the total members of the Gram Sabha",
     "opD": "Half of the total members of the Gram Sabha",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "59",
@@ -528,7 +528,7 @@
     "opB": "Two years",
     "opC": "Three years",
     "opD": "Four years",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "60",
@@ -537,7 +537,7 @@
     "opB": "After a period of six months from the date of the previous meeting",
     "opC": "After a period of one year from the date of the previous meeting",
     "opD": "After a period of two years from the date of the previous meeting",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "61",
@@ -546,7 +546,7 @@
     "opB": "A fine which may extend to two hundred rupees",
     "opC": "Both imprisonment and fine",
     "opD": "Disqualification from contesting future elections",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "62",
@@ -555,7 +555,7 @@
     "opB": "Preparation of the annual budget of the district",
     "opC": "Development and promotion of agriculture and horticulture",
     "opD": "Regulation of primary education at the district level",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "63",
@@ -564,7 +564,7 @@
     "opB": "To manage and control all land records",
     "opC": "To assist the government and other agencies in these activities",
     "opD": "To formulate state-level policies for land reforms",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "64",
@@ -573,7 +573,7 @@
     "opB": "To manage and assist in the distribution of water from minor irrigation projects",
     "opC": "To levy water tax on all agricultural land in the district",
     "opD": "To regulate inter-state water disputes",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "65",
@@ -582,7 +582,7 @@
     "opB": "To regulate fairs, markets, and hats in the Panchayat areas",
     "opC": "To promote international trade",
     "opD": "To set up wholesale markets at the district level",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "66",
@@ -591,7 +591,7 @@
     "opB": "Promotion of rural sanitation",
     "opC": "Establishing medical colleges",
     "opD": "Implementing national health policies at the state level",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "67",
@@ -600,7 +600,7 @@
     "opB": "Registration of birth, death, and marriage",
     "opC": "Voter registration at the state level",
     "opD": "Compilation of economic data for the district",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "68",
@@ -609,7 +609,7 @@
     "opB": "To provide financial aid to private schools in the area",
     "opC": "To promote mass literacy and adult education",
     "opD": "To conduct state-level board examinations",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "69",
@@ -618,7 +618,7 @@
     "opB": "To supervise the public distribution system",
     "opC": "To fix the prices of essential commodities",
     "opD": "To manage inter-state transportation of goods",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "70",
@@ -627,7 +627,7 @@
     "opB": "Preservation and maintenance of community assets",
     "opC": "To lease community assets to private entities",
     "opD": "To transfer ownership of community assets to the State Government",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "71",
@@ -636,7 +636,7 @@
     "opB": "A development plan",
     "opC": "The audit report of the previous financial year",
     "opD": "A list of beneficiaries for government schemes",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "72",
@@ -645,7 +645,7 @@
     "opB": "The Kshetra Panchayat",
     "opC": "The State Government",
     "opD": "The Central Government",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "73",
@@ -654,7 +654,7 @@
     "opB": "To stop any construction that has been approved by the Panchayat",
     "opC": "To remove any projection, encroachment, or obstruction erected without lawful authority",
     "opD": "To provide free accommodation to Panchayat staff",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "74",
@@ -663,7 +663,7 @@
     "opB": "To clean, repair, cover, fill up, drain, deepen, or clear it",
     "opC": "To transfer its ownership to the Gram Panchayat",
     "opD": "To use it for pisciculture as directed by the Panchayat",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "75",
@@ -672,7 +672,7 @@
     "opB": "The Block Development Officer",
     "opC": "The District Medical Officer of Health",
     "opD": "The Chairman of the Zilla Panchayat",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "76",
@@ -681,7 +681,7 @@
     "opB": "Maintaining them along with their buildings and furniture and being responsible for their proper running",
     "opC": "Only managing the administrative affairs",
     "opD": "Delegating all responsibilities to the District Education Officer",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "77",
@@ -690,7 +690,7 @@
     "opB": "Ayurvedic, Homoeopathic, or Unani dispensaries",
     "opC": "Only government-run dispensaries",
     "opD": "All types of medical facilities including private clinics",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "78",
@@ -699,7 +699,7 @@
     "opB": "Forward the complaint along with its report to the appropriate authority",
     "opC": "Dismiss the complaint if it seems frivolous",
     "opD": "Take no action and leave it to the concerned department",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "79",
@@ -708,7 +708,7 @@
     "opB": "To levy a separate tax on such income and dues",
     "opC": "To contract for the collection of such income and dues",
     "opD": "To prohibit the collection of such income and dues by any other agency",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "80",
@@ -717,7 +717,7 @@
     "opB": "The District Magistrate",
     "opC": "Such authority as may be notified by the State Government",
     "opD": "The State Election Commission",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "81",
@@ -726,7 +726,7 @@
     "opB": "On the same terms and conditions and with the same rights and privileges as they were entitled to immediately before such transfer",
     "opC": "On terms and conditions applicable to the employees of the Gram Panchayat",
     "opD": "On modified terms and conditions as decided by the transferring authority",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "82",
@@ -735,7 +735,7 @@
     "opB": "Yes, if it is necessary for the efficient functioning of the Panchayat",
     "opC": "No",
     "opD": "Yes, with the consent of the majority of the Gram Sabha members",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "83",
@@ -744,7 +744,7 @@
     "opB": "To confirm their services after a probation period",
     "opC": "To impose any kind of punishment on them",
     "opD": "To transfer them to other departments of the State Government",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "84",
@@ -753,7 +753,7 @@
     "opB": "To the Pradhan or any of its committees",
     "opC": "To the Secretary of the Gram Panchayat",
     "opD": "To the Block Development Officer",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "85",
@@ -762,7 +762,7 @@
     "opB": "The State Election Commission",
     "opC": "Such officer or committee as the State Government may specify by notification",
     "opD": "The High Court",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "86",
@@ -771,7 +771,7 @@
     "opB": "The District Magistrate",
     "opC": "The prescribed authority",
     "opD": "The Block Development Officer",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "87",
@@ -780,7 +780,7 @@
     "opB": "The Nyaya Panchayat",
     "opC": "The Block Development Committee",
     "opD": "The Zilla Parishad",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "88",
@@ -789,7 +789,7 @@
     "opB": "The District Magistrate",
     "opC": "The prescribed authority",
     "opD": "The State Government",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "89",
@@ -798,7 +798,7 @@
     "opB": "The High Court",
     "opC": "The authority appointed by the State Government in this behalf",
     "opD": "The State Election Commission",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "90",
@@ -807,7 +807,7 @@
     "opB": "The State Election Commission",
     "opC": "The State Government or such officer or authority as may be empowered by the State Government in this behalf",
     "opD": "The Block Development Officer in consultation with the Pradhan",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "91",
@@ -816,7 +816,7 @@
     "opB": "Consisting of members elected by the Gram Sabha",
     "opC": "Consisting of members elected by the members of the Gram Panchayat from amongst themselves in the prescribed manner",
     "opD": "Appointed by the District Magistrate",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "92",
@@ -825,7 +825,7 @@
     "opB": "At least two members who are not members of the Gram Panchayat.",
     "opC": "At least one woman member, one member from Scheduled Castes or Scheduled Tribes, and one member from Backward Classes.",
     "opD": "Equal representation from all territorial constituencies.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "93",
@@ -834,7 +834,7 @@
     "opB": "The Block Development Officer",
     "opC": "The State Government by notification",
     "opD": "The State Election Commission",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "94",
@@ -843,7 +843,7 @@
     "opB": "Two or more",
     "opC": "Four or more",
     "opD": "Five or more",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "95",
@@ -852,7 +852,7 @@
     "opB": "The Block Development Officer",
     "opC": "The prescribed authority",
     "opD": "The Chairman of the Zilla Panchayat",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "96",
@@ -861,7 +861,7 @@
     "opB": "A Gram Fund",
     "opC": "A Development Committee",
     "opD": "A Planning Board",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "97",
@@ -870,7 +870,7 @@
     "opB": "Proceeds of any tax imposed by the Gram Panchayat under Section 37",
     "opC": "Loans taken by individual residents of the village",
     "opD": "Salaries of the employees of the State Government working in the village",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "98",
@@ -879,7 +879,7 @@
     "opB": "Such portion as the State Government may direct",
     "opC": "Only the income exceeding a certain limit",
     "opD": "None, as it belongs entirely to the State Government",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "99",
@@ -888,7 +888,7 @@
     "opB": "Voluntary contributions made as a gesture of goodwill",
     "opC": "Sums given as contribution",
     "opD": "Loans given for specific development projects",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "100",
@@ -897,7 +897,7 @@
     "opB": "Sums given as loans or gifts",
     "opC": "Taxes collected by the Central Government within the Panchayat area",
     "opD": "Fines imposed by the Nyaya Panchayat",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "101",
@@ -906,7 +906,7 @@
     "opB": "Such other sums as the State Government may by any general or special order assign to the Gram Fund",
     "opC": "Sums collected as donations for religious purposes",
     "opD": "Revenue from forests located within the Panchayat area",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "102",
@@ -915,7 +915,7 @@
     "opB": "All sums recovered from any person",
     "opC": "Only the cost of damage to Panchayat property",
     "opD": "Sums relating to the affairs of the Gram Panchayat",
-    “opright”: “opD”
+    "opright": "opD"
   },
   {
     "queNo": "103",
@@ -924,7 +924,7 @@
     "opB": "The State Legislature",
     "opC": "The Governor",
     "opD": "The State Government",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "104",
@@ -933,7 +933,7 @@
     "opB": "Distribution based solely on population",
     "opC": "Principles which shall govern the distribution and the allocation of the respective shares among them",
     "opD": "Distribution as per the discretion of the Finance Minister",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "105",
@@ -942,7 +942,7 @@
     "opB": "The types of development schemes to be implemented",
     "opC": "The determination of taxes, tolls, cesses, and fees which may be assigned to the Gram Panchayats, Kshetra Panchayats, and Zilla Panchayats",
     "opD": "The procedure for conducting elections to the Panchayats",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "106",
@@ -951,7 +951,7 @@
     "opB": "Based on the revenue generated by the Panchayat only",
     "opC": "Principles which shall govern the grants-in-aid to the Gram Panchayats",
     "opD": "As per the recommendations of the Planning Commission",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "107",
@@ -960,7 +960,7 @@
     "opB": "Measures needed to improve the financial position of the Gram Panchayats",
     "opC": "Measures needed to reduce the dependence of Panchayats on State grants",
     "opD": "Measures needed to privatize Panchayat resources",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "108",
@@ -969,7 +969,7 @@
     "opB": "Land, benefits arising out of land, and things attached to the earth or permanently fastened to anything attached to the earth",
     "opC": "Only property registered in the name of the Gram Panchayat",
     "opD": "Moveable assets owned by the Gram Panchayat",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "109",
@@ -978,7 +978,7 @@
     "opB": "The Zilla Panchayat",
     "opC": "The Gram Panchayat",
     "opD": "The State Government",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "110",
@@ -987,7 +987,7 @@
     "opB": "The State Marketing Board",
     "opC": "The Gram Panchayat",
     "opD": "The local traders' association",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "111",
@@ -996,7 +996,7 @@
     "opB": "A tax at such rates as may be prescribed",
     "opC": "No tax can be levied on such land",
     "opD": "A tax with the prior approval of the Zilla Panchayat",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "112",
@@ -1005,7 +1005,7 @@
     "opB": "A tax at such rates as may be prescribed",
     "opC": "A tax only with the consent of the majority of residents",
     "opD": "No tax can be levied on these activities",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "113",
@@ -1014,7 +1014,7 @@
     "opB": "Such fees as may be prescribed",
     "opC": "Only a nominal fee with prior approval",
     "opD": "No fee can be levied for public use",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "114",
@@ -1023,7 +1023,7 @@
     "opB": "A tax at such rates as may be prescribed, payable by the owners or occupiers of the houses",
     "opC": "Only a service charge with the consent of the residents",
     "opD": "No tax can be levied for such services",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "115",
@@ -1032,7 +1032,7 @@
     "opB": "A tax at such rates as may be prescribed",
     "opC": "Separate taxes for cleaning, lighting, and sanitation, each requiring individual approval",
     "opD": "Only a voluntary contribution from the residents",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "116",
@@ -1041,7 +1041,7 @@
     "opB": "Any rate decided by the Gram Panchayat",
     "opC": "Such irrigation rate as may be prescribed",
     "opD": "No irrigation rate can be charged",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "117",
@@ -1050,7 +1050,7 @@
     "opB": "Any tax approved by a majority of the Gram Sabha members",
     "opC": "Any tax that was historically levied in the village",
     "opD": "Any tax that is levied by neighboring Gram Panchayats",
-    “opright”: “opA”
+    "opright": "opA"
   },
   {
     "queNo": "118",
@@ -1059,7 +1059,7 @@
     "opB": "In such manner and at such times as may be prescribed",
     "opC": "Only through direct collection by Panchayat members",
     "opD": "Through outsourcing to private agencies",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "119",
@@ -1068,7 +1068,7 @@
     "opB": "The Block Development Officer",
     "opC": "The prescribed authority",
     "opD": "The Zilla Panchayat",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "120",
@@ -1077,7 +1077,7 @@
     "opB": "Confirm, modify, or cancel the assessment or levy",
     "opC": "Impose a penalty on the assessing authority",
     "opD": "Order a fresh assessment by a different authority",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "121",
@@ -1086,7 +1086,7 @@
     "opB": "Within such period and in such manner as may be prescribed.",
     "opC": "Immediately after the end of the current financial year and by public announcement.",
     "opD": "At least three months before the start of the financial year and with the approval of the Gram Sabha.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "122",
@@ -1095,7 +1095,7 @@
     "opB": "Simple majority of the members present and voting at its meeting.",
     "opC": "Two-thirds majority of the total number of members.",
     "opD": "Majority of not less than three-fourths of the members present and voting.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "123",
@@ -1104,7 +1104,7 @@
     "opB": "Half of the total number of members.",
     "opC": "More than half of the total number of members.",
     "opD": "Two-thirds of the total number of members.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "124",
@@ -1113,7 +1113,7 @@
     "opB": "Nominated by the State Government.",
     "opC": "Elected by the members of the Gram Panchayat from amongst themselves.",
     "opD": "From amongst the members of the Gram Sabha by nomination.",
-    “opright”: “opD”
+    "opright": "opD"
   },
   {
     "queNo": "125",
@@ -1122,7 +1122,7 @@
     "opB": "They must possess the prescribed qualifications.",
     "opC": "They must be literate.",
     "opD": "They must be a resident of the same territorial constituency.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "126",
@@ -1131,7 +1131,7 @@
     "opB": "The District Magistrate.",
     "opC": "The prescribed authority.",
     "opD": "The State Election Commission.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "127",
@@ -1140,7 +1140,7 @@
     "opB": "Nominated by the District Judge.",
     "opC": "By the Panches appointed under Section 43 from amongst themselves in the manner and for the period as may be prescribed.",
     "opD": "Selected by a committee appointed by the State Government.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "128",
@@ -1149,7 +1149,7 @@
     "opB": "From the date of the first meeting of the Nyaya Panchayat.",
     "opC": "From the date they are appointed.",
     "opD": "From the date they take the oath of office.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "129",
@@ -1158,7 +1158,7 @@
     "opB": "The Kshetra Panchayat of the area.",
     "opC": "The Gram Panchayat for which they were appointed.",
     "opD": "The Zilla Panchayat of the district.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "130",
@@ -1167,7 +1167,7 @@
     "opB": "Only the Sahayak Sarpanch.",
     "opC": "The Sarpanch and the Sahayak Sarpanch.",
     "opD": "All the Panches.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "131",
@@ -1176,7 +1176,7 @@
     "opB": "By writing under their hand addressed to such authority as may be prescribed.",
     "opC": "By submitting a resignation letter to the Gram Panchayat Pradhan.",
     "opD": "By public announcement in the Gram Sabha.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "132",
@@ -1185,7 +1185,7 @@
     "opB": "They are transferred to the District Magistrate for disposal.",
     "opC": "They shall stand transferred to a competent court having jurisdiction, which shall dispose of them according to law.",
     "opD": "They are referred to the State Election Commission for a decision.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "133",
@@ -1194,7 +1194,7 @@
     "opB": "Yes, all such cases shall be tried de novo in the court.",
     "opC": "It depends on the discretion of the court.",
     "opD": "Only if the parties request for a fresh trial.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "134",
@@ -1203,7 +1203,7 @@
     "opB": "It depends on the order issued by the State Government.",
     "opC": "No, a Nyaya Panchayat shall not be deemed to have ceased to function merely on this ground.",
     "opD": "Yes, as per the rules of the State Election Commission.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "135",
@@ -1212,7 +1212,7 @@
     "opB": "To pay a penalty to the Panchayat.",
     "opC": "To show cause forthwith why the complainant should not pay compensation to the accused.",
     "opD": "To apologize to the accused in writing.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "136",
@@ -1221,7 +1221,7 @@
     "opB": "It can direct that such compensation, not exceeding twenty-five rupees, as it may determine, be paid by the complainant to the accused.",
     "opC": "It can order the imprisonment of the complainant for a term not exceeding one month.",
     "opD": "It can direct the police to register a case against the complainant for filing a false complaint.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "137",
@@ -1230,7 +1230,7 @@
     "opB": "The Code of Civil Procedure, 1908.",
     "opC": "The Schedule specifically provided for the purpose.",
     "opD": "The directions issued by the State Government.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "138",
@@ -1239,7 +1239,7 @@
     "opB": "Any revenue court.",
     "opC": "A court which, from defect of jurisdiction or other cause of a like nature, is unable to entertain it, provided the prosecution is in good faith.",
     "opD": "A court situated outside the territorial jurisdiction of the Nyaya Panchayat.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "139",
@@ -1248,7 +1248,7 @@
     "opB": "Yes, unless appealed against in a higher court.",
     "opC": "No, it shall not be binding on the parties except in respect of the same civil suit in which such decision was given.",
     "opD": "Yes, but only with the consent of the parties.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "140",
@@ -1257,7 +1257,7 @@
     "opB": "Interference by any other Nyaya Panchayat on the same facts.",
     "opC": "The trial of the accused for the same offence by a competent Magistrate or a court.",
     "opD": "An appeal against the decision to a higher Nyaya Panchayat.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "141",
@@ -1266,7 +1266,7 @@
     "opB": "In any one of those Nyaya Panchayats.",
     "opC": "Only in the Nyaya Panchayat where the cause of action first arose.",
     "opD": "Only with the written permission of the District Magistrate.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "142",
@@ -1275,7 +1275,7 @@
     "opB": "The Block Development Officer.",
     "opC": "The Judicial Magistrate or Munsif, as the case may be, having jurisdiction.",
     "opD": "A committee constituted by the State Government.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "143",
@@ -1284,7 +1284,7 @@
     "opB": "The Nyaya Panchayat may dismiss the suit or application or pass such order as it deems fit.",
     "opC": "The defendant or opposite party is declared victorious.",
     "opD": "A penalty is imposed on the non-appearing party.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "144",
@@ -1293,7 +1293,7 @@
     "opB": "Yes, if the summons has been duly served on them or if intimation of the date and place fixed for the hearing has been given to them.",
     "opC": "Only in criminal cases, but not in civil cases.",
     "opD": "Only with the prior permission of the District Judge.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "145",
@@ -1302,7 +1302,7 @@
     "opB": "Yes, the remaining Panches shall try the criminal or civil case notwithstanding anything contained in the Act, provided a minimum of 3 Panches including the Presiding Officer are present.",
     "opC": "Only if the absent Panch gives their written consent.",
     "opD": "The case will be adjourned to another date.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "146",
@@ -1311,7 +1311,7 @@
     "opB": "Yes, with the consent of both the parties.",
     "opC": "No, except as provided in sub-section (2).",
     "opD": "Yes, if an application for review is filed within the prescribed period.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "147",
@@ -1320,7 +1320,7 @@
     "opB": "If a mistake or error apparent on the face of the record is brought to its notice within 30 days of the decision.",
     "opC": "If new evidence is discovered after the decision.",
     "opD": "If there is a change in law.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "148",
@@ -1329,7 +1329,7 @@
     "opB": "The Block Development Officer.",
     "opC": "The Judicial Magistrate or Munsif, as the case may be, on their own motion.",
     "opD": "The State Election Commission.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "149",
@@ -1338,7 +1338,7 @@
     "opB": "Try to effect a compromise, transfer it to another Bench of the Nyaya Panchayat, or transfer it to another Magistrate or Munsif competent to try or dispose of it.",
     "opC": "Only order a re-trial by the same Nyaya Panchayat.",
     "opD": "Only refer it to the High Court for a decision.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "150",
@@ -1347,7 +1347,7 @@
     "opB": "Power to issue a summons in the prescribed manner to the person whose attendance is required to give evidence or produce a document.",
     "opC": "Power to delegate the summoning authority to the Gram Panchayat Secretary.",
     "opD": "No specific power to summon; they can only request attendance.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "151",
@@ -1356,7 +1356,7 @@
     "opB": "A fine which may extend to twenty rupees.",
     "opC": "Refer the matter to the Judicial Magistrate having jurisdiction who may proceed against such person under Section 174 of the Indian Penal Code, 1860.",
     "opD": "Order the police to bring the person by force.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "152",
@@ -1365,7 +1365,7 @@
     "opB": "Impose a cost on the plaintiff or applicant.",
     "opC": "Reject the plaint or application.",
     "opD": "Order the plaintiff or applicant to file an affidavit.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "153",
@@ -1374,7 +1374,7 @@
     "opB": "The Block Development Officer.",
     "opC": "The Judicial Magistrate or Munsif, as the case may be.",
     "opD": "The State Election Commission.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "154",
@@ -1383,7 +1383,7 @@
     "opB": "Report the case to the High Court for appropriate orders.",
     "opC": "Make a report to the prescribed authority who may pass such orders thereon as it thinks fit.",
     "opD": "Refer the case back to the Nyaya Panchayat for reconsideration.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "155",
@@ -1392,7 +1392,7 @@
     "opB": "In the manner prescribed.",
     "opC": "By the Gram Panchayat.",
     "opD": "Through the Revenue Department.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "156",
@@ -1401,7 +1401,7 @@
     "opB": "The Zilla Panchayat.",
     "opC": "The Nyaya Panchayat within whose jurisdiction the property is situated, or if there is no Nyaya Panchayat there, to the court of the Munsif within whose jurisdiction it is situated.",
     "opD": "The High Court.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "157",
@@ -1410,7 +1410,7 @@
     "opB": "The District Magistrate.",
     "opC": "The prescribed authority or any officer authorized by the State Government in this behalf.",
     "opD": "The Pradhan of the Gram Panchayat.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "158",
@@ -1419,7 +1419,7 @@
     "opB": "The Block Development Officer.",
     "opC": "The prescribed authority or any officer authorized by the State Government in this behalf.",
     "opD": "The Secretary of the Gram Panchayat.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "159",
@@ -1428,7 +1428,7 @@
     "opB": "The State Election Commissioner.",
     "opC": "The prescribed authority or any officer authorized by the State Government in this behalf by a written order.",
     "opD": "The Chairman of the Zilla Panchayat.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "160",
@@ -1437,7 +1437,7 @@
     "opB": "The State Election Commission.",
     "opC": "The State Government.",
     "opD": "The High Court.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "161",
@@ -1446,7 +1446,7 @@
     "opB": "The Block Development Officer after an inquiry.",
     "opC": "The State Government.",
     "opD": "The Zilla Panchayat by a majority vote.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "162",
@@ -1455,7 +1455,7 @@
     "opB": "Continuous absence without sufficient cause from more than three consecutive meetings or sittings.",
     "opC": "Being below the age of 25 years.",
     "opD": "Not being a resident of the Panchayat area.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "163",
@@ -1464,7 +1464,7 @@
     "opB": "To appear before a committee for inquiry.",
     "opC": "To show cause against the proposed action.",
     "opD": "To seek legal counsel.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "164",
@@ -1473,7 +1473,7 @@
     "opB": "Three years.",
     "opC": "Five years.",
     "opD": "Ten years.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "165",
@@ -1482,7 +1482,7 @@
     "opB": "The District Magistrate.",
     "opC": "The prescribed authority or any other officer specially authorized in this behalf by the State Government.",
     "opD": "The State Election Commissioner.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "166",
@@ -1491,7 +1491,7 @@
     "opB": "The State Election Commission.",
     "opC": "The State Government.",
     "opD": "The High Court.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "167",
@@ -1500,7 +1500,7 @@
     "opB": "The Block Development Officer.",
     "opC": "The prescribed authority.",
     "opD": "The Zilla Panchayat.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "168",
@@ -1509,7 +1509,7 @@
     "opB": "The District Magistrate.",
     "opC": "The prescribed authority.",
     "opD": "The State Election Commission.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "169",
@@ -1518,7 +1518,7 @@
     "opB": "The Gram Sabha by a resolution.",
     "opC": "The prescribed authority.",
     "opD": "The Finance Commission.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "170",
@@ -1527,7 +1527,7 @@
     "opB": "Six months.",
     "opC": "One year.",
     "opD": "Two years.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "171",
@@ -1536,7 +1536,7 @@
     "opB": "The Block Development Officer.",
     "opC": "The prescribed authority.",
     "opD": "The State Election Commission.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "172",
@@ -1545,7 +1545,7 @@
     "opB": "Twenty-five rupees.",
     "opC": "Fifty rupees.",
     "opD": "One hundred rupees.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "173",
@@ -1554,7 +1554,7 @@
     "opB": "A fine which may extend to two hundred rupees.",
     "opC": "They shall be liable to pay the cost of repairing the damage done by them, and shall also be punishable with a fine which may extend to fifty rupees.",
     "opD": "Confiscation of property equivalent to the damage caused.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "174",
@@ -1563,7 +1563,7 @@
     "opB": "A fine which may extend to five hundred rupees.",
     "opC": "Both compensation and a fine which may extend to five hundred rupees.",
     "opD": "Forfeiture of the land on which the damage occurred.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "175",
@@ -1572,7 +1572,7 @@
     "opB": "Carry out the work or arrange for its execution or completion, and recover the entire cost incurred from the said person in the prescribed manner as arrears of land revenue.",
     "opC": "Evict the person from the property.",
     "opD": "Demolish the property without any further notice.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "176",
@@ -1581,7 +1581,7 @@
     "opB": "The Block Development Officer.",
     "opC": "The Nyaya Panchayat.",
     "opD": "The Gram Sabha.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "177",
@@ -1590,7 +1590,7 @@
     "opB": "Yes, if the defect is substantial.",
     "opC": "No, a notice shall not be invalid merely on account of any defect of form.",
     "opD": "Only if the defect is pointed out within a specified period.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "178",
@@ -1599,7 +1599,7 @@
     "opB": "The District Magistrate.",
     "opC": "Such officer or authority as may be prescribed.",
     "opD": "The State Government.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "179",
@@ -1608,7 +1608,7 @@
     "opB": "The State Government by a general or special order.",
     "opC": "The District Magistrate in consultation with the Public Prosecutor.",
     "opD": "The Nyaya Panchayat with the consent of the complainant.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "180",
@@ -1617,7 +1617,7 @@
     "opB": "The Gram Panchayat by a resolution.",
     "opC": "Such officer or authority as may be prescribed in this behalf.",
     "opD": "The Village Pradhan.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "181",
@@ -1626,7 +1626,7 @@
     "opB": "The Block Development Officer after giving prior notice.",
     "opC": "The Secretary of the Gram Panchayat with the approval of the Gram Sabha.",
     "opD": "The Pradhan, or any person authorized by the Gram Panchayat in this behalf, or any servant of the Government whose services have been placed at the disposal of the Gram Panchayat.",
-    “opright”: “opD”
+    "opright": "opD"
   },
   {
     "queNo": "182",
@@ -1635,7 +1635,7 @@
     "opB": "Only after giving not less than four hours' written notice to the occupier and without the consent of the occupier and without stating the purpose of such entry.",
     "opC": "Only after giving not less than four hours' written notice to the occupier and with the consent of the occupier or without such consent but after stating the purpose of such entry.",
     "opD": "At any time without prior notice if it is for urgent work.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "183",
@@ -1644,7 +1644,7 @@
     "opB": "Against the Bhumi Prabandhak Samiti, Gram Sabha, or Gram Panchayat, or any of their members, or any officer or servant of the Gram Sabha, Gram Panchayat, or Nyaya Panchayat, or any person acting under the direction of any of these bodies or persons.",
     "opC": "Only against the State Government.",
     "opD": "Only with the prior approval of the District Magistrate.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "184",
@@ -1653,7 +1653,7 @@
     "opB": "The cause of action must be supported by a resolution of the Gram Sabha.",
     "opC": "No suit shall be instituted until the expiration of two months next after notice in writing has been delivered to the defendant.",
     "opD": "The plaintiff must first obtain permission from the High Court.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "185",
@@ -1662,7 +1662,7 @@
     "opB": "Protection against vexatious suits for acts done in good faith under this Act.",
     "opC": "Immunity from prosecution for any actions taken under this Act.",
     "opD": "Financial assistance for defending legal cases.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "186",
@@ -1671,7 +1671,7 @@
     "opB": "To keep the Gram Panchayat informed of all cognizable offences committed within its jurisdiction and to assist the Gram Panchayat in the exercise of its powers and the discharge of its duties under this Act or the rules made thereunder.",
     "opC": "To report all minor offences to the Nyaya Panchayat.",
     "opD": "To take orders from the Pradhan regarding law and order matters.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "187",
@@ -1680,7 +1680,7 @@
     "opB": "The Zilla Panchayat.",
     "opC": "The State Government.",
     "opD": "The High Court.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "188",
@@ -1689,7 +1689,7 @@
     "opB": "The establishment of a Gram Sabha or the constitution of a Gram Sabha.",
     "opC": "Determining the agenda for the meetings of the Gram Sabha.",
     "opD": "Regulating the business hours of shops in the Panchayat area.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "189",
@@ -1698,7 +1698,7 @@
     "opB": "Records and registers which the Gram Panchayat and Nyaya Panchayat shall maintain and the forms in which they shall be kept.",
     "opC": "Only records of meetings and resolutions.",
     "opD": "Records as per their own discretion.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "190",
@@ -1707,7 +1707,7 @@
     "opB": "The authority by whom and the manner in accordance with which taxes may be assessed and the authority to whom an appeal may be made against an assessment.",
     "opC": "The specific purposes for which tax revenue can be used.",
     "opD": "The procedure for amending the tax rules.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "191",
@@ -1716,7 +1716,7 @@
     "opB": "The procedure to be followed by the prescribed authority in making bye-laws for Gram Panchayats or by Gram Panchayats in making bye-laws.",
     "opC": "A public consultation process involving all residents.",
     "opD": "Approval by the State Legislative Assembly.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "192",
@@ -1725,7 +1725,7 @@
     "opB": "The submission of the annual report and their review.",
     "opC": "Publication in local newspapers.",
     "opD": "Approval by the District Planning Committee.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "193",
@@ -1734,7 +1734,7 @@
     "opB": "The distribution of their assets and liabilities upon dissolution.",
     "opC": "The transfer of their functions to the State Government.",
     "opD": "The appointment of an administrator.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "194",
@@ -1743,7 +1743,7 @@
     "opB": "The action to be taken and the manner in which the assets and liabilities of the Gram Panchayat shall be disposed of in such contingency.",
     "opC": "Holding fresh elections for a new body.",
     "opD": "Transfer of all assets and liabilities to the State Government.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "195",
@@ -1752,7 +1752,7 @@
     "opB": "Conditions under which sums due to a Gram Panchayat may be written off as irrecoverable and the conditions under which remission of the whole or any part of a fee may be granted.",
     "opC": "Only for amounts less than a certain prescribed limit.",
     "opD": "With the consent of the majority of the Gram Sabha.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "196",
@@ -1761,7 +1761,7 @@
     "opB": "The prescribed authority.",
     "opC": "The District Magistrate.",
     "opD": "The Block Development Officer.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "197",
@@ -1770,7 +1770,7 @@
     "opB": "They shall vest in the State Government.",
     "opC": "They shall pass in such manner as the State Government may by notification direct.",
     "opD": "They shall be divided equally between the districts.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "198",
@@ -1779,7 +1779,7 @@
     "opB": "Such person or authority as the State Government may appoint in this behalf.",
     "opC": "The Block Development Officer.",
     "opD": "A committee of residents appointed by the Gram Sabha.",
-    “opright”: “opB”
+    "opright": "opB"
   },
   {
     "queNo": "199",
@@ -1788,7 +1788,7 @@
     "opB": "The District Magistrate.",
     "opC": "The Gram Panchayat or the officer.",
     "opD": "A committee appointed by the State Government.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "200",
@@ -1797,7 +1797,7 @@
     "opB": "The State Legislature.",
     "opC": "The State Government.",
     "opD": "The High Court.",
-    “opright”: “opC”
+    "opright": "opC"
   },
   {
     "queNo": "201",
@@ -1806,7 +1806,7 @@
     "opB": "Two years.",
     "opC": "Three years.",
     "opD": "Four years.",
-    “opright”: “opB”
+    "opright": "opB"
   }
 ]
 
